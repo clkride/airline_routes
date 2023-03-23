@@ -1,4 +1,18 @@
-# Project Description
+<a name="readme-top"></a>
+<a href="https://linkedin.com/in/abbas-singapurwala">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+</a>
+
+## Table of Contents
+- [Project Description](#project-description)
+- [Data Set Description](#data-set-description)
+- [Business Benefits](#business-benefits)
+- [Author](#author)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
+
+
+## Project Description
 In this project, I have tried to explore the domestic and international airline traffic using OpenFlights Database. Using SQL queries, I have identified the following:
 
 * Busiest Airports based on number of flights
@@ -7,19 +21,61 @@ In this project, I have tried to explore the domestic and international airline 
 * Longest Routes
 * Airlines Market Share by number of flights
 * Important Airports Connecting Busiest Routes 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-# Data Set Description
+## Data Set Description
 Airports, Airline, Route, Plane, and Country
 (Link: https://openflights.org/data.html#schedule)
 
 The OpenFlights/Airline Route Mapper Route Database contains 
 67663 routes between 3321 airports on 548 airlines spanning the globe.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-# Business Benefits
+## Business Benefits
+
 Airports and Airline Companies around the world can use this interactive dashboard to – 
 
 * Find shortest routes between source and destination airports, 
 * Forecast flight delays by integrating weather forecast data
 * Estimate capacity requirements at connecting airports to handle incoming or redirected flight traffic, 
 * Identify choke points in this complex interwoven network by identifying weak links to prevent meltdown at airports
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Author
+ @[Abbas S.](https://github.com/clkride)
+
+## License
+The MIT License (MIT)
+
+Copyright (c) 2023 Abbas Singapurwala
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Acknowledgments
+Inspiration, code snippets, etc.
+* [Choose an Open Source License](https://choosealicense.com)
+* [Img Shields](https://shields.io)
+* [GitHub Pages](https://pages.github.com)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
