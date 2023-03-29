@@ -6,6 +6,7 @@
 ## Table of Contents
 - [Project Description](#project-description)
 - [Data Set Description](#data-set-description)
+- [ER Diagram](#er-diagram)
 - [Business Benefits](#business-benefits)
 - [Author](#author)
 - [License](#license)
@@ -29,6 +30,11 @@ Airports, Airline, Route, Plane, and Country
 
 The OpenFlights/Airline Route Mapper Route Database contains 
 67663 routes between 3321 airports on 548 airlines spanning the globe.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## ER Diagram
+![alt text](https://github.com/clkride/airline_routes/blob/main/ERD%20.png?raw=true)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Business Benefits
