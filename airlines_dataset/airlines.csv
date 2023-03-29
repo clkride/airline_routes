@@ -1,0 +1,501 @@
+airline_id,name,alias,iata,icao,callsign,country,active
+415,Aerojet de Costa Rica,,,ARJ, S.A.,,FALSE
+1509,Bellview Airlines,,,BVU, Sierra Leone,,FALSE
+1516,BAX Global,,8W,,,,FALSE
+2080,Electronic Data Systems,,,1Y,,,FALSE
+2636,Gulf African Airlines - Gambia,,,GUF,GULF AFRICAN,,FALSE
+2649,Guyana Airways 2000,,GY,,,,FALSE
+2804,ICAO,,,YYY,,,FALSE
+3562,Multiflight,,,MFT,YORKAIR,,FALSE
+4051,Princess Air,,8Q,,,,FALSE
+4430,Scorpio Aviation,,8S,,,,FALSE
+4679,Sky Trek International Airlines,,1I,,,,FALSE
+4854,Sirin,,R1,,,,FALSE
+5199,Transports et Travaux A,,OF,,,,FALSE
+5556,buzz,,UK,BUZ,,,FALSE
+1390,British Gulf International,,,BGI,BRITISH GULF,S,FALSE
+2290,Express International Cargo,,,EIC,EXCARGO,S,FALSE
+3208,LASTP,,,OTN,LASTP,S,FALSE
+3286,Linhas Aereas Santomenses,,,SMS,SANTOMENSES,S,FALSE
+3591,Natalco Air Lines,,,NCO,NATALCO,S,FALSE
+3207,LAP Colombia - Lineas Aereas Petroleras,,,APT, S.A.,LAP,FALSE
+4456,Southern Jersey Airways,,,ALC, Inc.,ACOM,FALSE
+1851,Compania Boliviana de Transporte Aereo Privado Aerosur,,,ASU, S.A.,ASUR,FALSE
+400,Aeroatlas,,,AQA, S.A.,ATCO,FALSE
+513,Aerolineas Uruguayas,,,AUY, S.A.,AUSA,FALSE
+433,Air Tchad,,,HTT,HOTEL TANGO,Chad,FALSE
+894,Air Affaires Tchad,,,FTC,AFFAIRES TCHAD,Chad,FALSE
+1312,Air Horizon,,,TPK,TCHAD-HORIZON,Chad,FALSE
+1733,Chari Aviation Services,,S8,CSU,CHARI SERVICE,Chad,FALSE
+3262,Lignes Aeriennes Du Tchad,,,LKD,LATCHAD,Chad,FALSE
+3577,Nada Air Service,,,NHZ,NADA AIR,Chad,FALSE
+4887,Tchad Airlines,,,TCD,TCHADLINES,Chad,FALSE
+4942,Toumai Air Tchad,,,THE,TOUMAI AIR,Chad,FALSE
+2191,Empresa Aerocaribbean,,,CRN,AEROCARIBBEAN,Cuba,FALSE
+2194,Empresa Nacional De Servicios Aereos,,,CNI,SERAER,Cuba,FALSE
+2196,Empresa de Aviacion Aerogaviota,,,GTV,GAVIOTA,Cuba,FALSE
+866,Air Fiji,,PC,FAJ,FIJIAIR,Fiji,FALSE
+4522,Sun Air (Fiji),,PI,SUF,SUNFLOWER,Fiji,FALSE
+4977,Turtle Airways,,,TLT,TURTLE,Fiji,FALSE
+39,Aban Air,,K5,ABE,ABAN,Iran,FALSE
+961,Arvand Airlines,,,IRD,ARVAND,Iran,FALSE
+962,Atlas Aviation Group,,,IRH,ATLAS AVIA,Iran,FALSE
+963,Aram Airline,,,IRW,ARAM,Iran,FALSE
+964,Aria Tour,,,IRX,ARIA,Iran,FALSE
+1540,Bonyad Airlines,,,IRJ,BONYAD AIR,Iran,FALSE
+1719,Chabahar Airlines,,,IRU,CHABAHAR,Iran,FALSE
+2210,Eram Air,,,IRY,ERAM AIR,Iran,FALSE
+2924,Iranair Tours,,,IRB,,Iran,FALSE
+2925,Naft Air Lines,,,IRG,NAFT,Iran,FALSE
+3135,Khoezestan Photros Air Lines,,,KHP,PHOTROS AIR,Iran,FALSE
+3623,Navid,,,IRI,NAVID,Iran,FALSE
+3909,Pariz Air,,,IRE,PARIZAIR,Iran,FALSE
+3910,Pars Aviation Service,,,PRA,PARSAVIA,Iran,FALSE
+3919,Payam Air,,,IRP,PAYAMAIR,Iran,FALSE
+4093,Qeshm Air,,,IRQ,QESHM AIR,Iran,FALSE
+4390,Safiran Airlines,,,SFN,SAFIRAN,Iran,FALSE
+4647,Safat Airlines,,,IRV,SAFAT AIR,Iran,FALSE
+4648,Saha Airlines Services,,,IRZ,SAHA,Iran,FALSE
+4880,Taban Air Lines,,,TBM,TABAN AIR,Iran,FALSE
+4949,Tehran Airline,,,THR,TEHRAN AIR,Iran,FALSE
+5063,Taftan Airlines,,,SBT,TAFTAN,Iran,FALSE
+5148,TA-Air Airline,,,IRF,TA-AIR,Iran,FALSE
+5149,Tara Air Line,,,IRR,TARAIR,Iran,FALSE
+5505,Zagros Airlines,,,IZG,ZAGROS,Iran,FALSE
+872,African Airlines,,,FDA,AIR SANKORE,Mali,FALSE
+996,Air Mali International,,,KLB,TRANS MALI,Mali,FALSE
+1075,Air Mali,,,MLI,AIR MALI,Mali,FALSE
+1846,Compagnie Aerienne du Mali,,,CMM,CAMALI,Mali,FALSE
+3380,Mali Air Express,,,VXP,AVION EXPRESS,Mali,FALSE
+3381,Mali Airways,,,MTZ,MALI AIRWAYS,Mali,FALSE
+3588,Nas Air,,P9,,,Mali,FALSE
+4316,Sahel Aviation Service,,,SAO,SAVSER,Mali,FALSE
+4325,STA-MALI,,,SBA,STA-MALI,Mali,FALSE
+1657,Cargoman,,,CGM,HOTEL CHARLIE,Oman,FALSE
+3779,Oman Royal Flight,,,ORF,OMAN,Oman,FALSE
+4242,Royal Air Force of Oman,,RS,MJN,MAJAN,Oman,FALSE
+4269,Royal Oman Police,,,ROP,,Oman,FALSE
+310,Aero Transporte S.A. (ATSA),,,AMP,ATSA,Peru,FALSE
+1081,Airmax,,,MMX,PERUMAX,Peru,FALSE
+1780,Cielos Airlines,,A2,CIU,CIELOS,Peru,FALSE
+3209,LC Busre,,,LCB,BUSRE,Peru,FALSE
+3749,Nuevo Continente,,N6,ACQ,AERO CONTINENTE,Peru,FALSE
+3943,Peruvian Air Force,,,FPR,,Peru,FALSE
+3944,Peruvian Navy,,,INP,,Peru,FALSE
+4347,South American Airlines,,,SCN,SOUTH AMERICAN,Peru,FALSE
+4478,Star Up,,,SRU,STAR-UP,Peru,FALSE
+5031,Trans American Airlines (Trans Am),,,TPU,TRANS PERU,Peru,FALSE
+5136,Transportes Aereos Nacionales De Selva Tans,,,ELV,AEREOS SELVA,Peru,FALSE
+9853,Nazca,,-.,,,Peru,FALSE
+16093,Transportes Aéreos Nacionales de Selva,,TJ,,Aereos Selva,Peru,FALSE
+16437,Aerocontinente (Priv),,N6,,,Peru,FALSE
+16804,Compania de Aviacion Faucett,,,CFP,,Peru,FALSE
+62,Air Togo,,YT,TGA,AIR TOGO,Togo,FALSE
+949,Air Horizon,,8C,HZT,HORIZON TOGO,Togo,FALSE
+2170,Elite Air,,,EAI,ELAIR,Togo,FALSE
+431,Air Xpress,,,ARX, Inc.,AIREX,FALSE
+517,Alamo Aviacion,,,AVD, S.L.,ALAMO,FALSE
+348,Alcon Servicios Aereos,,,AOA, S.A. de C.V.,ALCON,FALSE
+849,Air S,,KY,EQL,EQUATORIAL,Air S,FALSE
+408,Avia Air N.V.,,,ARB,AVIAIR,Aruba,FALSE
+1175,Arubaexel,,,RBX,ARUBA,Aruba,FALSE
+2842,Ilpo Aruba Cargo,,,ILP,,Aruba,FALSE
+4251,Royal Aruban Airline,,V5,RYL,ROYAL ARUBAN,Aruba,FALSE
+1171,Aur Rum Benin,,,RBE,RUM BENIN,Benin,FALSE
+1392,Benin Golf Air,,A8,BGL,BENIN GOLF,Benin,FALSE
+1546,Benin Littoral Airways,,,LTL,LITTORAL,Benin,FALSE
+4996,Trans Air-Benin,,,TNB,TRANS-BENIN,Benin,FALSE
+5405,West African Airlines,,,WSF,,Benin,FALSE
+97,Aerofumigaciones Sam,,,AEG,FUMIGACIONES SAM,Chile,FALSE
+171,Aerogala,,,AGQ,GALASERVICE,Chile,FALSE
+200,Alpine Air Chile,,,AIH,ALPINE CHILE,Chile,FALSE
+427,Aeromet Servicios,,,ARS,METSERVICE,Chile,FALSE
+660,Aeropuelche,,,PUE,PUELCHE,Chile,FALSE
+752,Aerocardal,,,CDA,CARDAL,Chile,FALSE
+795,Aerovias DAP,,,DAP,DAP,Chile,FALSE
+809,Aerolineas Del Sur,,,DLU,DEL SUR,Chile,FALSE
+852,Aerosec,,,ERK,AEROSEC,Chile,FALSE
+936,Aerohein,,,HEI,AEROHEIN,Chile,FALSE
+958,Aeroingenieria,,,ING,AEROINGE,Chile,FALSE
+1100,Aeromet Linea Aerea,,,MTE,AEROMET,Chile,FALSE
+1670,Carranza,,,CRR,CARRANZA,Chile,FALSE
+1782,Cirrus,,,RRU,HELICIRRUS,Chile,FALSE
+1950,DAP Helicopteros,,,DHE,HELIDAP,Chile,FALSE
+2026,Didier Rousset Buy,,,DRB,DIDIER,Chile,FALSE
+2190,Empresa Aero-Servicios Parrague,,,PRG,ASPAR,Chile,FALSE
+2201,Enrique Gleisner Vivanco,,,EGV,GLEISNER,Chile,FALSE
+2552,Gestar,,,GTR,STAR GESTAR,Chile,FALSE
+2727,Helicopteros Agroforestal,,,HAA,AGROFORESTAL,Chile,FALSE
+2746,Heliworks,,,HLW,HELIWORKS,Chile,FALSE
+3202,LAN Cargo,,,LCO,LAN CARGO,Chile,FALSE
+3268,Linea Aerea Costa Norte,,,NOT,COSTA NORTE,Chile,FALSE
+3270,Linea Aerea SAPSA,,L7,LNP,SAPSA,Chile,FALSE
+3271,Linea Aerea de Fumig Aguas Negras,,,NEG,AGUAS NEGRAS,Chile,FALSE
+3273,Linea De Aeroservicios,,,LSE,,Chile,FALSE
+3313,Los Cedros Aviacion,,,LSC,CEDROS,Chile,FALSE
+3596,National Airlines,,N4,NCN,,Chile,FALSE
+4402,Servicios Aereos Agricolas,,,SGI,SERAGRI,Chile,FALSE
+4654,Servicios Aereos Copters,,,KOP,COPTERS,Chile,FALSE
+4927,Transportes Aereos San Rafael,,,SRF,SAN RAFEAL,Chile,FALSE
+5084,Turismo Aereo de Chile,,,TUC,TURICHILE,Chile,FALSE
+5130,Transportes Aereos Don Carlos,,,DCL,DON CARLOS,Chile,FALSE
+5180,Transportes Aereos I.R. Crusoe,,,ROU,ROBINSON CRUSOE,Chile,FALSE
+5378,Victor Tagle Larrain,,,VTL,VITALA,Chile,FALSE
+20580,Aguilar Connect,,3X,GUI,Moonexpress,Chile,FALSE
+746,Air China Cargo,,,CAO,AIRCHINA FREIGHT,China,FALSE
+762,Air Great Wall,,,CGW,CHANGCHENG,China,FALSE
+784,Air Tenglong,,,CTE,TENGLONG,China,FALSE
+842,Shenzhen Donghai Airlines,,,EPA,DONGHAI AIR,China,FALSE
+1627,Canair,,,CWW,CANAIR,China,FALSE
+1729,Changan Airlines,,2Z,CGN,CHANGAN,China,FALSE
+1757,China Cargo Airlines,,CK,CKK,CARGO KING,China,FALSE
+1759,China Express Airlines,,,HXA,CHINA EXPRESS,China,FALSE
+1760,China Flying Dragon Aviation,,,CFA,FEILONG,China,FALSE
+1761,China General Aviation Corporation,,,CTH,TONGHANG,China,FALSE
+1762,China National Aviation Corporation,,,CAG,CHINA NATIONAL,China,FALSE
+1763,China Northern Airlines,,CJ,CBF,CHINA NORTHERN,China,FALSE
+1764,China Northwest Airlines,,WH,CNW,CHINA NORTHWEST,China,FALSE
+1765,China Ocean Helicopter Corporation,,,CHC,CHINA HELICOPTER,China,FALSE
+1766,China Postal Airlines,,8Y,CYZ,CHINA POST,China,FALSE
+1768,China Southwest Airlines,,,CXN,CHINA SOUTHWEST,China,FALSE
+1770,China Xinhua Airlines,,XO,CXH,XINHUA,China,FALSE
+1788,Citic General Aviation,,,HZX,ZHONGXIN,China,FALSE
+2003,Deer Jet,,,DER,DEER JET,China,FALSE
+2113,East Star Airlines,,,DXH,EAST STAR,China,FALSE
+2380,Flight Inspection Center of the General Administration of Civil Aviation in China,,,CFI,CHINA JET,China,FALSE
+2473,Fujian Airlines,,,CFJ,FUJIAN,China,FALSE
+2610,Great Wall Airlines,,IJ,GWL,GREAT WALL,China,FALSE
+2632,Guizhou Airlines,,,CGH,GUIZHOU,China,FALSE
+2661,Hainan Phoenix Information Systems,,1R,,,China,FALSE
+2980,Jade Cargo International,,,JAE,JADE CARGO,China,FALSE
+3176,Kunpeng Airlines,,VD,KPA,KUNPENG,China,FALSE
+3316,Lucky Air,,,LKE,LUCKY AIR,China,FALSE
+3559,Mudanjiang General Aviation,,,CMJ,MUDANJIANG,China,FALSE
+3583,Nanjing Airlines,,,CNJ,NINGHANG,China,FALSE
+3718,Northern Airlines Sanya,,,BYC,BEIYA,China,FALSE
+3772,Okay Airways,,,OKA,OKAYJET,China,FALSE
+4425,Shanghai Airlines Cargo,,,SHQ,SHANGHAI CARGO,China,FALSE
+4610,Shuangyang General Aviation,,,CSY,SHUANGYANG,China,FALSE
+4612,Shanxi Airlines,,8C,CXI,SHANXI,China,FALSE
+4712,Shandong Airlines Rainbow Jet,,,RBW,CAI HONG,China,FALSE
+5168,Travelsky Technology,,1E,,,China,FALSE
+5212,United Eagle Airlines,,,UEA,UNITED EAGLE,China,FALSE
+5474,Wuhan Airlines,,,CWU,WUHAN AIR,China,FALSE
+5485,Xinjiang Airlines,,,CXJ,XINJIANG,China,FALSE
+5494,Yangtze River Express,,Y8,YZR,YANGTZE RIVER,China,FALSE
+5516,Zhejiang Airlines,,,CJG,ZHEJIANG,China,FALSE
+5519,Zhongfei General Aviation,,,CFZ,ZHONGFEI,China,FALSE
+5520,Zhongyuan Aviation,,,CYN,ZHONGYUAN,China,FALSE
+13923,THREE,,H3,T33,,China,FALSE
+163,Arab Agricultural Aviation Company,,,AGC,AGRICO,Egypt,FALSE
+610,Air Memphis,,,MHS,AIR MEMPHIS,Egypt,FALSE
+992,Alexandria Airlines,,,KHH,,Egypt,FALSE
+1015,Aleem,,,LEM,,Egypt,FALSE
+1020,Al Ahram Aviation,,,LHR,AL AHRAM,Egypt,FALSE
+1094,Air Cairo,,,MSC,,Egypt,FALSE
+1146,Al Farana Airline,,,PHR,PHARAOH,Egypt,FALSE
+1603,Cairo Air Transport Company,,,CCE,,Egypt,FALSE
+2144,Egyptair Cargo,,,MSX,EGYPTAIR CARGO,Egypt,FALSE
+2145,Egyptian Air Force,,,EGY,,Egypt,FALSE
+2146,Egyptian Aviation,,,EJX,,Egypt,FALSE
+2147,Egyptian Aviation Company,,,EMA,,Egypt,FALSE
+2369,Flash Airlines,,,FSH,FLASH,Egypt,FALSE
+2897,International Air Cargo Corporation,,,IAK,AIR CARGO EGYPT,Egypt,FALSE
+3314,Lotus Air,,,TAS,LOTUS FLOWER,Egypt,FALSE
+3333,Luxor Air,,,LXO,,Egypt,FALSE
+3449,Mediterranean Airways,,,MDY,,Egypt,FALSE
+3508,Mina Airline Company,,,NAB,,Egypt,FALSE
+3518,Misr Overseas Airways,,,MOS,,Egypt,FALSE
+3602,National Aviation Company,,,GTY,,Egypt,FALSE
+3610,National Overseas Airlines Company,,,NOL,NAT AIRLINE,Egypt,FALSE
+3664,Nile Valley Aviation Company,,,NVA,,Egypt,FALSE
+3802,Orca Air,,,ORK,ORCA TAXI,Egypt,FALSE
+3819,Orscom Tourist Installations Company,,,OAD,ORSCOM,Egypt,FALSE
+3876,Palestinian Airlines,,PF,PNW,PALESTINIAN,Egypt,FALSE
+4087,Pyramid Air Lines,,,PYR,PYAIR,Egypt,FALSE
+4141,Raslan Air Service,,,MWR,RASLAN,Egypt,FALSE
+4159,Red Sea Aviation,,,RDV,RED AVIATION,Egypt,FALSE
+4351,Scorpio,,,SCP,SCORPIO,Egypt,FALSE
+4419,Shorouk Air,,,SHK,,Egypt,FALSE
+4444,Saber Airlines,,,SIS,,Egypt,FALSE
+4528,Sun Air,,,SUR,,Egypt,FALSE
+4884,Tropican Air Services,,,TCA,TROPICANA,Egypt,FALSE
+4982,Transmed Airlines,,,TMD,,Egypt,FALSE
+5075,Tristar Air,,,TSY,TRIPLE STAR,Egypt,FALSE
+5512,ZAS Airlines of Egypt,,,ZAS,ZAS AIRLINES,Egypt,FALSE
+142,Air Gabon,,GN,AGN,GOLF NOVEMBER,Gabon,FALSE
+162,Air Service Gabon,,G8,AGB,,Gabon,FALSE
+219,Air Inter Gabon,,,AIG, ,Gabon,FALSE
+613,Air Max Africa,,,AZX,AZIMA,Gabon,FALSE
+719,Avirex,,G2,VXG,AVIREX-GABON,Gabon,FALSE
+900,Atlantic Airlines,,,GBN,ATLANTIC GABON,Gabon,FALSE
+2501,Gabon Express,,,GBE,GABEX,Gabon,FALSE
+2502,Gabon-Air-Transport,,,GRT,,Gabon,FALSE
+3769,Ogooue Air Cargo,,,GBO,,Gabon,FALSE
+4938,Transair Gabon],,,TGX,TRANSGABON,Gabon,FALSE
+48,Antrak Air,,4,ABV,ANTRAK,Ghana,FALSE
+902,Aerogem Cargo,,,GCK,AEROGEM,Ghana,FALSE
+907,Air Ghana,,,GHN,AIR GHANA,Ghana,FALSE
+953,Aero Survey,,,IKM,GHANA SURVEY,Ghana,FALSE
+1329,Afra Airlines,,,UAG,AFRALINE,Ghana,FALSE
+1599,CTK Network Aviation,,,CTQ,CITYLINK,Ghana,FALSE
+2555,Ghana Airways,,,GHA,GHANA,Ghana,FALSE
+3023,Jet Trans Aviation,,,JTC,JETRANS,Ghana,FALSE
+3068,Johnsons Air,,,JON,JOHNSONSAIR,Ghana,FALSE
+3356,MK Airline,,,MKA,KRUGER-AIR,Ghana,FALSE
+4132,Race Cargo Airlines,,,ACE,Fastcargo,Ghana,FALSE
+4154,Real Aviation,,,RLV,REAL,Ghana,FALSE
+4257,Royal Ghanaian Airlines,,,RGA,ROYAL GHANA,Ghana,FALSE
+4330,Sobel Airlines of Ghana,,,SBL,SOBGHANA,Ghana,FALSE
+4515,Southern Aviation,,,STV,SOUTHERN AVIATION,Ghana,FALSE
+5403,West Africa Airlines,,,WCB,KILO YANKEE,Ghana,FALSE
+5412,West Coast Airlines,,,WCG,WHISKY INDIA,Ghana,FALSE
+933,Air D'Ayiti,,H9,HAD,HAITI AVIA,Haiti,FALSE
+940,Air Haiti,,,HJA,AIRHAITI,Haiti,FALSE
+1667,Caribintair,,,CRT,CARIBINTAIR,Haiti,FALSE
+2662,Haiti Air Freight,,,HLS,,Haiti,FALSE
+2664,Haiti International Air,,,HTI,HAITI INTERNATIONAL,Haiti,FALSE
+2665,Haiti International Airline,,,HRB,HAITI AIRLINE,Haiti,FALSE
+2666,Haiti National Airlines (HANA),,,HNR,HANAIR,Haiti,FALSE
+2667,Haiti North Airline,,,HTN,,Haiti,FALSE
+2668,Haiti Trans Air,,,HTC,HAITI TRANSAIR,Haiti,FALSE
+2669,Haitian Aviation Line,,,HBC,HALISA,Haiti,FALSE
+3901,Papair Terminal,,,HMP,PAPAIR TERMINAL,Haiti,FALSE
+3923,Pearl Airways,,HP,HPA,PEARL AIRWAYS,Haiti,FALSE
+4100,Quisqueya Airlines,,,QAS,QUISQUEYA,Haiti,FALSE
+4877,Tropical Airways,,M7,TBG,,Haiti,FALSE
+1026,Alliance Air,,CD,LLR,ALLIED,India,FALSE
+1370,Blue Dart Aviation,,BZ,BDA,BLUE DART,India,FALSE
+2001,Deccan Aviation,,,DKN,DECCAN,India,FALSE
+2634,Gujarat Airways,,G8,GUJ,GUJARATAIR,India,FALSE
+2851,India International Airways,,,IIL,INDIA INTER,India,FALSE
+2852,Indian Air Force,,,IFC,INDIAN AIRFORCE,India,FALSE
+3918,Pawan Hans,,,PHE,PAWAN HANS,India,FALSE
+13905,Skyline nepc,,D5,,,India,FALSE
+16738,NEPC Airlines,,D5,,,India,FALSE
+136,Alba Servizi Aerotrasporti,,,AFQ,ALBA,Italy,FALSE
+194,Air Viggi San Raffaele,,,AHS,AIRSAR,Italy,FALSE
+351,Air One Executive,,,AOE, ,Italy,FALSE
+494,Air Corporate,,,CPV,AIRCORPORATE,Italy,FALSE
+636,Airvallee,,,RVL,AIR VALLEE,Italy,FALSE
+662,Azzurra Air,,,AZI,AZZURRA,Italy,FALSE
+696,Air Walser,,,WLR,AIRWALSER,Italy,FALSE
+790,Air One Cityliner,,,CYL,CITYLINER,Italy,FALSE
+839,Alpi Eagles,,E8,ELG,ALPI EAGLES,Italy,FALSE
+841,Eliossola,,,EOS,ELIOSSOLA,Italy,FALSE
+884,Avio Nord,,,FNM,,Italy,FALSE
+986,Air Mach,,,KAM,ICO-AIR,Italy,FALSE
+1021,Alidaunia,,D4,LID,ALIDA,Italy,FALSE
+1049,Aliven,,,LVN,ALIVEN,Italy,FALSE
+1077,Aermarche,,,MMC,AERMARCHE,Italy,FALSE
+1134,Action Air,,,ORS,AVIATION SERVICE,Italy,FALSE
+1137,Aliparma,,,PAJ,ALIPARMA,Italy,FALSE
+1185,Air Service Center,,,RCX,SERVICE CENTER,Italy,FALSE
+1222,Aeroitalia,,,ROO,AEROITALIA,Italy,FALSE
+1335,Air Umbria,,,UMB,AIR UMBRIA,Italy,FALSE
+1533,Bond Aviation,,,EBA,BOND AVIATION,Italy,FALSE
+1580,CAI,,,CPI,AIRCAI,Italy,FALSE
+1654,Cargoitalia,,2G,CRG,WHITE PELICAN,Italy,FALSE
+1794,Cityfly,,,CII,CITYFLY,Italy,FALSE
+1812,Club Air,,6P,ISG,CLUBAIR,Italy,FALSE
+1845,Compagnia Generale Ripreseaeree,,,CGR,COMPRIP,Italy,FALSE
+2088,ESI Eliservizi Italiani,,,ESI,ELISERVIZI,Italy,FALSE
+2160,Elicar,,,PDV,ELICAR,Italy,FALSE
+2161,Elidolomiti,,,EDO,ELIDOLOMITI,Italy,FALSE
+2162,Elieuro,,,ELB,ELILOBARDIA,Italy,FALSE
+2163,Elifriulia,,,EFG,ELIFRIULIA,Italy,FALSE
+2164,Elilario Italia,,,ELH,LARIO,Italy,FALSE
+2165,Elilombarda,,,EOA,LOMBARDA,Italy,FALSE
+2166,Elimediterranea,,,MEE,ELIMEDITERRANEA,Italy,FALSE
+2167,Elios,,,VUL,ELIOS,Italy,FALSE
+2168,Elipiu',,,IEP,ELIPIU,Italy,FALSE
+2172,Elitellina,,,FGS,ELITELLINA,Italy,FALSE
+2221,Eti 2000,,,MJM,ELCO ETI,Italy,FALSE
+2224,Euraviation,,,EVN,EURAVIATION,Italy,FALSE
+2238,Eurofly,,,EEZ,E-FLY,Italy,FALSE
+2241,Eurojet Italia,,,ERJ,JET ITALIA,Italy,FALSE
+2416,Fly Wex,,,IAD,FLYWEX,Italy,FALSE
+2450,Foxair,,,FXR,WILDFOX,Italy,FALSE
+2516,Gandalf Airlines,,G7,GNF,Gandalf,Italy,FALSE
+2742,Helitalia,,,HIT,HELITALIA,Italy,FALSE
+2832,Icaro,,,ICA,ICARFLY,Italy,FALSE
+2833,Icarus,,,IUS,ICARUS,Italy,FALSE
+2838,Il Ciocco International Travel Service,,,CIO,CIOCCO,Italy,FALSE
+2889,Interfly,,,RFL,INFLY,Italy,FALSE
+2894,Interjet,,,MTF,INTERJET,Italy,FALSE
+2956,Itali Airlines,,9X,ACL,ITALI,Italy,FALSE
+2957,Italy First,,,IFS,RIVIERA,Italy,FALSE
+3240,Lauda Air Italy,,,LDI,LAUDA ITALY,Italy,FALSE
+3294,Livingston,,LM,LVG,LIVINGSTON,Italy,FALSE
+3512,Miniliner,,,MNL,MINILINER,Italy,FALSE
+3524,Mistral Air,,,MSA,AIRMERCI,Italy,FALSE
+3567,My Way Airlines,,,MYW,FRANKY,Italy,FALSE
+3638,Neos,,NO,NOS,MOONFLOWER,Italy,FALSE
+3761,Ocean Airlines,,VC,VCX,OCEANCARGO,Italy,FALSE
+4065,Professione VOlare,,,PVL,VOLARE,Italy,FALSE
+4442,Sirio,,,SIO,SIRIO,Italy,FALSE
+4447,Sirio Executive,,,SIW,SIRIO EXECUTIVE,Italy,FALSE
+4557,Star Work Sky,,,SWP,STAR WORK,Italy,FALSE
+4656,Skybridge Airops,,,KYB,SKY AIROPS,Italy,FALSE
+4746,Starfly,,,SLF,ELISTARFLY,Italy,FALSE
+4784,Servizi Aerei,,,SNM,SERVIZI AEREI,Italy,FALSE
+5095,Transavio,,,TVO,TRANS-BALLERIO,Italy,FALSE
+5261,Unifly Servizi Aerei,,,UNU,UNIEURO,Italy,FALSE
+9808,Minerva Airlines,,N4,,,Italy,FALSE
+10902,Alpi Eagles (E8),,E8,,,Italy,FALSE
+16811,Alinord,,DN,,,Italy,FALSE
+19317,Gulisano airways,,GU,GU1,,Italy,FALSE
+20261,International Flying Service,IFS,F4,,,Italy,FALSE
+71,Advanced Air Co.,,,ADD,,Japan,FALSE
+248,ANA & JP Express,,,AJV,AYJAY CARGO,Japan,FALSE
+266,Air Nippon Network Co. Ltd.,,EH,AKX,ALFA WING,Japan,FALSE
+779,Air Central,,NV,CRF,AIR CENTRAL,Japan,FALSE
+1105,AVC Airlines,,,MZK,,Japan,FALSE
+1126,Air Next,,,NXA,BLUE-DOLPHIN,Japan,FALSE
+1318,airtransse,,,TSQ,AIRTRA,Japan,FALSE
+2355,First Air Transport,,,JRF,,Japan,FALSE
+2509,Galaxy Airlines,,,GXY,GALAX,Japan,FALSE
+2573,Global Wings,,,GLW,,Japan,FALSE
+2764,Hokkaido Air System,,,NTH,NORTH AIR,Japan,FALSE
+2766,Hokuriki-Koukuu Company,,,ABH,,Japan,FALSE
+2811,IKI International Airlines,,,IKK,IKIAIR,Japan,FALSE
+2815,INFINI Travel Information,,1F,,,Japan,FALSE
+2944,Island Link,,,ILC,,Japan,FALSE
+2962,Iwamoto Crane Co Ltd,,,OIC,,Japan,FALSE
+2968,J-Air,,,JLJ,J AIR,Japan,FALSE
+2985,Japan Air Commuter,,,JAC,COMMUTER,Japan,FALSE
+2986,Japan Aircraft Service,,,JSV,,Japan,FALSE
+3667,Nippon Cargo Airlines,,KZ,NCA,NIPPON CARGO,Japan,FALSE
+3812,Oriental Air Bridge,,,NGK,ORIENTAL BRIDGE,Japan,FALSE
+4439,Seco International,,,SIJ,,Japan,FALSE
+4634,Skyhaul,,,HAU,SKYHAUL,Japan,FALSE
+5499,Yuhi Air Lines,,,AYU,,Japan,FALSE
+16025,Nihon.jet,,NJ,,,Japan,FALSE
+20438,Naka Nihon Airlines Service,,NV,ALS,,Japan,FALSE
+21240,TDA Toa Domestic Airlines,TDA,,TDA,Toa Domes,Japan,FALSE
+58,Air Cargo Transportation System,,,ACU,AFRISPIRIT,Kenya,FALSE
+203,African Airlines International Limited,,,AIK,AFRICAN AIRLINES,Kenya,FALSE
+574,African Express Airways,,,AXK,EXPRESS JET,Kenya,FALSE
+703,Airkenya,,,XAK,SUNEXPRESS,Kenya,FALSE
+873,African Medical and Research Foundation,,,FDS,FLYDOC,Kenya,FALSE
+890,Afrika Aviation Handlers,,,FRK,AFRIFAST,Kenya,FALSE
+1166,African Safari Airways,,QS,QSC,ZEBRA,Kenya,FALSE
+1363,Blue Bird Aviation,,,BBZ,COBRA,Kenya,FALSE
+1573,Boskovic Air Charters Limited,,,ZBA,BOSKY,Kenya,FALSE
+1634,Capital Airlines,,,CPD,CAPITAL DELTA,Kenya,FALSE
+2105,East African Safari Air,,S9,HSA,DUMA,Kenya,FALSE
+2106,East African Safari Air Express,,,EXZ,TWIGA,Kenya,FALSE
+3042,Jetlink Express,,,JLX,KEN JET,Kenya,FALSE
+3531,Mombasa Air Safari,,,RRV,SKYROVER,Kenya,FALSE
+3880,Pan African Airways,,,ODM,,Kenya,FALSE
+4526,Superior Aviation Services,,,SUK,SKYCARGO,Kenya,FALSE
+4576,Safari Express Cargo,,,SXY,SAFARI EXPRESS,Kenya,FALSE
+4649,Sunline Express,,,JAM,SUNTRACK,Kenya,FALSE
+4845,Safarilink Aviation,,,XLK,SAFARILINK,Kenya,FALSE
+5495,Yellow Wings Air Services,,,ELW,YELLOW WINGS,Kenya,FALSE
+256,Air Jamahiriya Company,,,LJA,AIR JAMAHIRIYA,Libya,FALSE
+334,Alajnihah for Air Transport,,,ANH,ALAJNIHAH,Libya,FALSE
+593,Awsaj Aviation Services,,,AYS,,Libya,FALSE
+632,Air Libya Tibesti,,,TLR,AIR LIBYA,Libya,FALSE
+987,Air Kufra,,,KAV,AIRKUFRA,Libya,FALSE
+1028,Alamia Air,,,LML,ALAMIA AIR,Libya,FALSE
+1131,Air One Nine,,,ONR,EDER,Libya,FALSE
+1275,Alsaqer Aviation,,,SQR,ALSAQER AVIATION,Libya,FALSE
+1449,Benina Air,,,BNE,BENINA AIR,Libya,FALSE
+2554,Ghadames Air Transport,,,GHT,,Libya,FALSE
+2564,Global Aviation and Services Group,,,GAK,AVIAGROUP,Libya,FALSE
+2642,Gulf Pearl Air Lines,,,GPC,AIR GULFPEARL,Libya,FALSE
+2780,Horizon Air for Transport and Training,,,HSM,ALOFUKAIR,Libya,FALSE
+2981,Jamahiriya Airways,,,JAW,JAW,Libya,FALSE
+3096,Kallat El Saker Air Company,,,KES,KALLAT EL SKER,Libya,FALSE
+3257,Libyan Airlines,,,LYW,LIBYAN AIRWAYS,Libya,FALSE
+3259,Libyan Arab Air Cargo,,,LCR,LIBAC,Libya,FALSE
+3365,Madina Air,,,MDH,MADINA AIR,Libya,FALSE
+3565,Musrata Air Transport,,,MMR,MUSRATA AIR,Libya,FALSE
+3629,Nayzak Air Transport,,,NZA,,Libya,FALSE
+3711,Northafrican Air Transport,,,NLL,NORTHAFRICAN AIR,Libya,FALSE
+4101,Qurinea Air Service,,,QAQ,QURINEA AIR,Libya,FALSE
+5010,Tobruk Air,,7T,TOB,TOBRUK AIR,Libya,FALSE
+2107,East Asia Airlines,,,EMU,,Macao,FALSE
+2242,Eurojet Limited,,,JLN,JET LINE,Malta,FALSE
+2249,European 2000 Airlines,,,EUT,FIESTA,Malta,FALSE
+3388,Malta Wings,,,MWS,MALTA WINGS,Malta,FALSE
+3445,Medavia Company,,,MDM,MEDAVIA,Malta,FALSE
+3824,Our Airline,,ON,RON,OUR AIRLINE,Nauru,FALSE
+457,Air Nepal International,,,NPL,AIR NEPAL,Nepal,FALSE
+1396,Buddha Air,,,BHA,BUDDHA AIR,Nepal,FALSE
+1910,Cosmic Air,,F5,COZ,COSMIC AIR,Nepal,FALSE
+2595,Gorkha Airlines,,G1,IKA,GORKHA AIRLINES,Nepal,FALSE
+3631,Necon Air,,,NEC,NECON AIR,Nepal,FALSE
+557,Air Niamey,,,AWN,AIR NIAMEY,Niger,FALSE
+3988,Point Afrique Niger,,,PAZ,POINTAIR NIGER,Niger,FALSE
+4536,Sahel Airlines,,,AWJ,SAHEL AIRLINES,Niger,FALSE
+3072,Jonsson,,,ODI, H Air Taxi,ODINN,FALSE
+3874,Palau Asia Pacific Airlines,,,PPC,PALAU ASIAPAC,Palau,FALSE
+3875,Palau Trans Pacific Airline,,GP,PTP,TRANS PACIFIC,Palau,FALSE
+4090,Qatar Air Cargo,,,QAC,QATAR CARGO,Qatar,FALSE
+4092,Qatar Amiri Flight,,,QAF,AMIRI,Qatar,FALSE
+20,Aero Albatros,,,ABM,ALBATROS ESPANA,Spain,FALSE
+73,Aerea Flying Training Organization,,,ADG,AEREA TRAINING,Spain,FALSE
+74,Audeli Air,,,ADI,AUDELI,Spain,FALSE
+101,Aero Madrid,,,AEM,AEROMADRID,Spain,FALSE
+104,Aerotec,,,AEP,AEROTEC,Spain,FALSE
+172,Amadeus Global Travel Distribution,,1A,AGT,AMADEUS,Spain,FALSE
+206,Alicante Internacional Airlines,,,AIU,ALIA,Spain,FALSE
+223,Air Sureste,,,AIS,SURESTE,Spain,FALSE
+419,Aero Link Air Services S.L.,,,ARK,LINK SERVICE,Spain,FALSE
+421,Aeromarket Express,,,ARM,AMEX,Spain,FALSE
+532,Avialsa T-35,,,AVS,AVIALSA,Spain,FALSE
+553,Air Valencia,,,AVZ,AIR VALENCIA,Spain,FALSE
+578,Aeromax,,,AXP,AEROMAX SPAIN,Spain,FALSE
+628,Aero Nova,,,OVA,AERONOVA,Spain,FALSE
+642,Air Pal,,,PLL,AIRPAL,Spain,FALSE
+643,Air Pullmantur,,,PLM,PULLMANTUR,Spain,FALSE
+676,Aero Taxi Los Valles,,,VAD,VALLES,Spain,FALSE
+686,Air Evans,,,VAE,AIR-EVANS,Spain,FALSE
+756,Aerofan,,,CFF,AEROFAN,Spain,FALSE
+775,Air Consul,,,CNU,AIR CONSUL,Spain,FALSE
+814,Aeroynamics Malaga,,,DNC,FLYINGOLIVE,Spain,FALSE
+832,Aeronautica Castellana,,,ECL,AERO CASTELLANA,Spain,FALSE
+835,Air Este,,,EET,AESTE,Spain,FALSE
+843,Aeronaves Del Noroeste,,,ENW,AERONOR,Spain,FALSE
+885,Aeroflota Del Noroeste,,,FNO,RIAZOR,Spain,FALSE
+901,Aeronor,,,GCF,AEROCARTO,Spain,FALSE
+960,Airpull Aviation,,,IPL,IPULL,Spain,FALSE
+968,Air Executive,,,IVE,COMPANY EXEC,Spain,FALSE
+1024,Airlink Solutions,,,LKS,AIRLIN,Spain,FALSE
+1056,Aerodromo De La Mancha,,,MAM,AEROMAN,Spain,FALSE
+1141,Air Pack Express,,,PCK,AIRPACK EXPRESS,Spain,FALSE
+1184,Atlantic S.L.,,,RCU,AIR COURIER,Spain,FALSE
+1199,Aeris Gestion,,,RIS,AERIS,Spain,FALSE
+1337,Aeroclub Flaps,,,FLP,AEROCLUB FLAPS,Spain,FALSE
+1362,Bravo Airlines,,,BBV,BRAVO EUROPE,Spain,FALSE
+1378,Balear Express,,,BEF,BALEAR EXPRESS,Spain,FALSE
+1430,Blue Jet,,,BLJ,BLUEWAY,Spain,FALSE
+1526,BKS Air (Rivaflecha),,,CKM,COSMOS,Spain,FALSE
+1575,C N Air,,,ORO,CAPRI,Spain,FALSE
+1612,Campania Helicopteros De Transporte,,,HSO,HELIASTURIAS,Spain,FALSE
+1692,Center Vol,,,CVO,CENTERVOL,Spain,FALSE
+1713,Centro de Formacion Aeronautica de Canarias,,,ACF,FORCAN,Spain,FALSE
+1849,Compania Aerea de Valencia,,,AIF,,Spain,FALSE
+1850,Compania Aerotecnicas Fotograficas,,,ATF,AEROTECNICAS,Spain,FALSE
+1852,Compania De Actividades Y Servicios De Aviacion,,,LCT,STELLAIR,Spain,FALSE
+1854,Compania Helicopteros Del Sureste,,,HSE,HELISURESTE,Spain,FALSE
+1857,Compania Transportes Aereos Del Sur,,,HSS,TAS HELICOPTEROS,Spain,FALSE
+1858,Compania de Servicios Aereos Tavisa,,,TAV,TAVISA,Spain,FALSE
+1939,Cygnus Air,,,RGN,CYGNUS AIR,Spain,FALSE
+2016,Departmento De Agricultura De La Generalitat De Cataluna,,,FGC,FORESTALES,Spain,FALSE
+2030,Direccion General de Aviacion Civil y Telecomunicasciones,,,ENA,ENA,Spain,FALSE
+2046,Dominguez Toledo (Grupo Mayoral),,,MYO,MAYORAL,Spain,FALSE
+2214,Escuela De Pilotos Are Aviacion,,,CTV,ARE AVIACION,Spain,FALSE
+2225,Euro Continental AIE,,,ECN,EURO CONTINENTAL,Spain,FALSE
+2278,Executive Airlines,,,EXU,SACAIR,Spain,FALSE
+2344,Feria Aviacion,,,FER,FERIA,Spain,FALSE
+2390,Flight Training Europe,,,AYR,CYGNET,Spain,FALSE
+2414,Fly Line,,,FIL,FLYLINE,Spain,FALSE
+2422,Flycolumbia,,,FCE,FLYCOLUMBIA,Spain,FALSE
+2433,Flylink Express,,,FLK,FLYLINK,Spain,FALSE
+2446,Fotografia F3,,,FTE,FOTOGRAFIA,Spain,FALSE
+2475,Fumigacion Aerea Andaluza,,,FAM,FAASA,Spain,FALSE
+2477,Fundació Rego,,,ROG,REGO,Spain,FALSE
+2480,Futura International Airways,,FH,FUA,FUTURA,Spain,FALSE
