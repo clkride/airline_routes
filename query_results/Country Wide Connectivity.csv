@@ -1,0 +1,501 @@
+source_country,destination_country,source_airport,source_lat,source_lon,destination_lat,destination_lon,destination_airport,num_direct_flights,num_connecting_flights
+United States,United States,Chicago O'Hare International Airport,41.9786,-87.9048,33.6367,-84.428101,Hartsfield Jackson Atlanta International Airport,20,0
+United States,United States,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,41.9786,-87.9048,Chicago O'Hare International Airport,19,0
+Thailand,Thailand,Phuket International Airport,8.1132,98.316902,13.68109989,100.7470016,Suvarnabhumi Airport,13,0
+United States,United States,Chicago O'Hare International Airport,41.9786,-87.9048,29.99340057,-90.25800323,Louis Armstrong New Orleans International Airport,13,0
+United States,United Kingdom,John F Kennedy International Airport,40.63980103,-73.77890015,51.4706,-0.461941,London Heathrow Airport,12,0
+United Kingdom,United States,London Heathrow Airport,51.4706,-0.461941,40.63980103,-73.77890015,John F Kennedy International Airport,12,0
+China,China,Guangzhou Baiyun International Airport,23.39240074,113.2990036,30.22949982,120.4339981,Hangzhou Xiaoshan International Airport,12,0
+Thailand,Hong Kong,Suvarnabhumi Airport,13.68109989,100.7470016,22.308901,113.915001,Hong Kong International Airport,12,0
+Hong Kong,Thailand,Hong Kong International Airport,22.308901,113.915001,13.68109989,100.7470016,Suvarnabhumi Airport,12,0
+United States,United States,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,25.79319954,-80.29060364,Miami International Airport,12,0
+United States,United States,Miami International Airport,25.79319954,-80.29060364,33.6367,-84.428101,Hartsfield Jackson Atlanta International Airport,12,0
+Qatar,Bahrain,Hamad International Airport,25.273056,51.608056,26.27079964,50.63359833,Bahrain International Airport,12,0
+United Arab Emirates,Oman,Abu Dhabi International Airport,24.43300056,54.65110016,23.59329987,58.28440094,Muscat International Airport,12,0
+United States,United States,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,32.896801,-97.038002,Dallas Fort Worth International Airport,11,0
+France,United States,Charles de Gaulle International Airport,49.012798,2.55,40.63980103,-73.77890015,John F Kennedy International Airport,11,0
+United States,France,John F Kennedy International Airport,40.63980103,-73.77890015,49.012798,2.55,Charles de Gaulle International Airport,11,0
+United States,United Kingdom,Los Angeles International Airport,33.94250107,-118.4079971,51.4706,-0.461941,London Heathrow Airport,11,0
+United Kingdom,United States,London Heathrow Airport,51.4706,-0.461941,33.94250107,-118.4079971,Los Angeles International Airport,11,0
+United States,United States,John F Kennedy International Airport,40.63980103,-73.77890015,29.99340057,-90.25800323,Louis Armstrong New Orleans International Airport,11,0
+United States,United States,Louis Armstrong New Orleans International Airport,29.99340057,-90.25800323,40.63980103,-73.77890015,John F Kennedy International Airport,11,0
+United States,United States,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,39.86169815,-104.6729965,Denver International Airport,11,0
+United States,United States,Denver International Airport,39.86169815,-104.6729965,33.6367,-84.428101,Hartsfield Jackson Atlanta International Airport,11,0
+United States,United States,San Francisco International Airport,37.61899948,-122.375,33.6367,-84.428101,Hartsfield Jackson Atlanta International Airport,11,0
+Zimbabwe,Zambia,Robert Gabriel Mugabe International Airport,-17.931801,31.0928,-15.33080006,28.45260048,Kenneth Kaunda International Airport Lusaka,11,0
+Australia,New Zealand,Sydney Kingsford Smith International Airport,-33.94609833,151.177002,-37.0080986,174.7920074,Auckland International Airport,11,0
+Thailand,Thailand,Chiang Mai International Airport,18.76679993,98.96260071,13.68109989,100.7470016,Suvarnabhumi Airport,11,0
+Rwanda,Uganda,Kigali International Airport,-1.96863,30.1395,0.042386,32.443501,Entebbe International Airport,11,0
+Oman,United Arab Emirates,Muscat International Airport,23.59329987,58.28440094,24.43300056,54.65110016,Abu Dhabi International Airport,11,0
+United States,United States,Dallas Fort Worth International Airport,32.896801,-97.038002,33.6367,-84.428101,Hartsfield Jackson Atlanta International Airport,10,0
+Hong Kong,South Korea,Hong Kong International Airport,22.308901,113.915001,37.46910095,126.4509964,Incheon International Airport,10,0
+South Korea,Hong Kong,Incheon International Airport,37.46910095,126.4509964,22.308901,113.915001,Hong Kong International Airport,10,0
+United Kingdom,United States,London Heathrow Airport,51.4706,-0.461941,37.61899948,-122.375,San Francisco International Airport,10,0
+United States,United Kingdom,San Francisco International Airport,37.61899948,-122.375,51.4706,-0.461941,London Heathrow Airport,10,0
+Japan,Taiwan,Narita International Airport,35.76470184,140.3860016,25.0777,121.233002,Taiwan Taoyuan International Airport,10,0
+Taiwan,Japan,Taiwan Taoyuan International Airport,25.0777,121.233002,35.76470184,140.3860016,Narita International Airport,10,0
+China,China,Hangzhou Xiaoshan International Airport,30.22949982,120.4339981,23.39240074,113.2990036,Guangzhou Baiyun International Airport,10,0
+Thailand,Singapore,Suvarnabhumi Airport,13.68109989,100.7470016,1.35019,103.994003,Singapore Changi Airport,10,0
+United States,United States,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,40.63980103,-73.77890015,John F Kennedy International Airport,10,0
+United States,United States,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,33.94250107,-118.4079971,Los Angeles International Airport,10,0
+United States,Italy,John F Kennedy International Airport,40.63980103,-73.77890015,45.6306,8.72811,Malpensa International Airport,10,0
+Italy,United States,Malpensa International Airport,45.6306,8.72811,40.63980103,-73.77890015,John F Kennedy International Airport,10,0
+New Zealand,Australia,Auckland International Airport,-37.0080986,174.7920074,-33.94609833,151.177002,Sydney Kingsford Smith International Airport,10,0
+Sri Lanka,Maldives,Bandaranaike International Colombo Airport,7.180759907,79.88410187,4.191830158,73.52909851,Malé International Airport,10,0
+Maldives,Sri Lanka,Malé International Airport,4.191830158,73.52909851,7.180759907,79.88410187,Bandaranaike International Colombo Airport,10,0
+Indonesia,Singapore,Soekarno-Hatta International Airport,-6.12556982,106.6559982,1.35019,103.994003,Singapore Changi Airport,10,0
+Indonesia,Singapore,Ngurah Rai (Bali) International Airport,-8.748169899,115.1669998,1.35019,103.994003,Singapore Changi Airport,10,0
+Singapore,Indonesia,Singapore Changi Airport,1.35019,103.994003,-6.12556982,106.6559982,Soekarno-Hatta International Airport,10,0
+Singapore,Indonesia,Singapore Changi Airport,1.35019,103.994003,-8.748169899,115.1669998,Ngurah Rai (Bali) International Airport,10,0
+Malaysia,Singapore,Kuala Lumpur International Airport,2.745579958,101.7099991,1.35019,103.994003,Singapore Changi Airport,10,0
+Singapore,Malaysia,Singapore Changi Airport,1.35019,103.994003,2.745579958,101.7099991,Kuala Lumpur International Airport,10,0
+Indonesia,Malaysia,Soekarno-Hatta International Airport,-6.12556982,106.6559982,2.745579958,101.7099991,Kuala Lumpur International Airport,10,0
+Malaysia,Indonesia,Kuala Lumpur International Airport,2.745579958,101.7099991,-6.12556982,106.6559982,Soekarno-Hatta International Airport,10,0
+Thailand,South Korea,Suvarnabhumi Airport,13.68109989,100.7470016,37.46910095,126.4509964,Incheon International Airport,10,0
+South Korea,Thailand,Incheon International Airport,37.46910095,126.4509964,13.68109989,100.7470016,Suvarnabhumi Airport,10,0
+South Korea,Japan,Incheon International Airport,37.46910095,126.4509964,35.76470184,140.3860016,Narita International Airport,10,0
+Japan,South Korea,Narita International Airport,35.76470184,140.3860016,37.46910095,126.4509964,Incheon International Airport,10,0
+China,China,Xishuangbanna Gasa Airport,21.97389984,100.7600021,25.1019444,102.9291667,Kunming Changshui International Airport,10,0
+China,China,Kunming Changshui International Airport,25.1019444,102.9291667,21.97389984,100.7600021,Xishuangbanna Gasa Airport,10,0
+Bahrain,Qatar,Bahrain International Airport,26.27079964,50.63359833,25.273056,51.608056,Hamad International Airport,10,0
+Thailand,Thailand,Suvarnabhumi Airport,13.68109989,100.7470016,18.76679993,98.96260071,Chiang Mai International Airport,10,0
+Thailand,Thailand,Suvarnabhumi Airport,13.68109989,100.7470016,8.1132,98.316902,Phuket International Airport,10,0
+China,China,Zhoushuizi Airport,38.96569824,121.5390015,30.22949982,120.4339981,Hangzhou Xiaoshan International Airport,10,0
+China,China,Chongqing Jiangbei International Airport,29.71920013,106.6419983,34.447102,108.751999,Xi'an Xianyang International Airport,10,0
+China,China,Xi'an Xianyang International Airport,34.447102,108.751999,29.71920013,106.6419983,Chongqing Jiangbei International Airport,10,0
+China,China,Zhengzhou Xinzheng International Airport,34.5196991,113.8410034,30.22949982,120.4339981,Hangzhou Xiaoshan International Airport,10,0
+China,China,Hangzhou Xiaoshan International Airport,30.22949982,120.4339981,34.5196991,113.8410034,Zhengzhou Xinzheng International Airport,10,0
+China,China,Hangzhou Xiaoshan International Airport,30.22949982,120.4339981,38.96569824,121.5390015,Zhoushuizi Airport,10,0
+France,United States,Charles de Gaulle International Airport,49.012798,2.55,41.9786,-87.9048,Chicago O'Hare International Airport,10,0
+United States,France,Chicago O'Hare International Airport,41.9786,-87.9048,49.012798,2.55,Charles de Gaulle International Airport,10,0
+United States,United States,McCarran International Airport,36.08010101,-115.1520004,33.94250107,-118.4079971,Los Angeles International Airport,9,0
+United States,United States,Los Angeles International Airport,33.94250107,-118.4079971,36.08010101,-115.1520004,McCarran International Airport,9,0
+China,China,Chengdu Shuangliu International Airport,30.57850075,103.9469986,25.1019444,102.9291667,Kunming Changshui International Airport,9,0
+China,China,Kunming Changshui International Airport,25.1019444,102.9291667,30.57850075,103.9469986,Chengdu Shuangliu International Airport,9,0
+United States,Spain,John F Kennedy International Airport,40.63980103,-73.77890015,40.471926,-3.56264,Adolfo Suárez Madrid–Barajas Airport,9,0
+United States,Japan,Los Angeles International Airport,33.94250107,-118.4079971,35.76470184,140.3860016,Narita International Airport,9,0
+United Kingdom,United States,London Heathrow Airport,51.4706,-0.461941,41.9786,-87.9048,Chicago O'Hare International Airport,9,0
+Spain,United States,Adolfo Suárez Madrid–Barajas Airport,40.471926,-3.56264,40.63980103,-73.77890015,John F Kennedy International Airport,9,0
+United States,United Kingdom,Chicago O'Hare International Airport,41.9786,-87.9048,51.4706,-0.461941,London Heathrow Airport,9,0
+United States,United Kingdom,General Edward Lawrence Logan International Airport,42.36429977,-71.00520325,51.4706,-0.461941,London Heathrow Airport,9,0
+United Kingdom,United States,London Heathrow Airport,51.4706,-0.461941,42.36429977,-71.00520325,General Edward Lawrence Logan International Airport,9,0
+China,China,Ürümqi Diwopu International Airport,43.90710068,87.47419739,34.447102,108.751999,Xi'an Xianyang International Airport,9,0
+China,China,Xi'an Xianyang International Airport,34.447102,108.751999,43.90710068,87.47419739,Ürümqi Diwopu International Airport,9,0
+Singapore,Thailand,Singapore Changi Airport,1.35019,103.994003,13.68109989,100.7470016,Suvarnabhumi Airport,9,0
+China,China,Zhengzhou Xinzheng International Airport,34.5196991,113.8410034,43.90710068,87.47419739,Ürümqi Diwopu International Airport,9,0
+China,China,Chongqing Jiangbei International Airport,29.71920013,106.6419983,25.1019444,102.9291667,Kunming Changshui International Airport,9,0
+China,China,Hangzhou Xiaoshan International Airport,30.22949982,120.4339981,36.26610184,120.3740005,Liuting Airport,9,0
+China,China,Kashgar Airport,39.54290009,76.01999664,43.90710068,87.47419739,Ürümqi Diwopu International Airport,9,0
+China,China,Kunming Changshui International Airport,25.1019444,102.9291667,29.71920013,106.6419983,Chongqing Jiangbei International Airport,9,0
+China,China,Lanzhou Zhongchuan Airport,36.51520157,103.6200027,43.90710068,87.47419739,Ürümqi Diwopu International Airport,9,0
+China,China,Liuting Airport,36.26610184,120.3740005,30.22949982,120.4339981,Hangzhou Xiaoshan International Airport,9,0
+China,China,Ürümqi Diwopu International Airport,43.90710068,87.47419739,34.5196991,113.8410034,Zhengzhou Xinzheng International Airport,9,0
+China,China,Ürümqi Diwopu International Airport,43.90710068,87.47419739,39.54290009,76.01999664,Kashgar Airport,9,0
+United States,Mexico,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,21.03650093,-86.87709808,Cancún International Airport,9,0
+United States,United States,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,38.94449997,-77.45580292,Washington Dulles International Airport,9,0
+United States,United States,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,29.9843998,-95.34140015,George Bush Intercontinental Houston Airport,9,0
+United States,United States,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,39.7173,-86.294403,Indianapolis International Airport,9,0
+United States,United States,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,30.49410057,-81.68789673,Jacksonville International Airport,9,0
+United States,United States,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,29.99340057,-90.25800323,Louis Armstrong New Orleans International Airport,9,0
+United States,United States,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,39.87189865,-75.2410965,Philadelphia International Airport,9,0
+United States,United States,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,33.43429947,-112.012001,Phoenix Sky Harbor International Airport,9,0
+United States,United States,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,35.87760162,-78.78749847,Raleigh Durham International Airport,9,0
+United States,United States,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,37.61899948,-122.375,San Francisco International Airport,9,0
+Mexico,United States,Cancún International Airport,21.03650093,-86.87709808,33.6367,-84.428101,Hartsfield Jackson Atlanta International Airport,9,0
+Ireland,United States,Dublin Airport,53.421299,-6.27007,40.63980103,-73.77890015,John F Kennedy International Airport,9,0
+United States,United States,Daniel K Inouye International Airport,21.32062,-157.924228,33.94250107,-118.4079971,Los Angeles International Airport,9,0
+United States,United States,Washington Dulles International Airport,38.94449997,-77.45580292,33.6367,-84.428101,Hartsfield Jackson Atlanta International Airport,9,0
+United States,United States,George Bush Intercontinental Houston Airport,29.9843998,-95.34140015,33.6367,-84.428101,Hartsfield Jackson Atlanta International Airport,9,0
+United States,United States,Indianapolis International Airport,39.7173,-86.294403,33.6367,-84.428101,Hartsfield Jackson Atlanta International Airport,9,0
+United States,United States,Jacksonville International Airport,30.49410057,-81.68789673,33.6367,-84.428101,Hartsfield Jackson Atlanta International Airport,9,0
+United States,Ireland,John F Kennedy International Airport,40.63980103,-73.77890015,53.421299,-6.27007,Dublin Airport,9,0
+United States,United States,Los Angeles International Airport,33.94250107,-118.4079971,33.6367,-84.428101,Hartsfield Jackson Atlanta International Airport,9,0
+United States,United States,Louis Armstrong New Orleans International Airport,29.99340057,-90.25800323,33.6367,-84.428101,Hartsfield Jackson Atlanta International Airport,9,0
+United States,United States,Philadelphia International Airport,39.87189865,-75.2410965,33.6367,-84.428101,Hartsfield Jackson Atlanta International Airport,9,0
+United States,United States,Phoenix Sky Harbor International Airport,33.43429947,-112.012001,33.6367,-84.428101,Hartsfield Jackson Atlanta International Airport,9,0
+United States,United States,Raleigh Durham International Airport,35.87760162,-78.78749847,33.6367,-84.428101,Hartsfield Jackson Atlanta International Airport,9,0
+Australia,Singapore,Perth International Airport,-31.94029999,115.9670029,1.35019,103.994003,Singapore Changi Airport,9,0
+Singapore,Australia,Singapore Changi Airport,1.35019,103.994003,-33.94609833,151.177002,Sydney Kingsford Smith International Airport,9,0
+Australia,Singapore,Sydney Kingsford Smith International Airport,-33.94609833,151.177002,1.35019,103.994003,Singapore Changi Airport,9,0
+South Africa,South Africa,Cape Town International Airport,-33.96480179,18.60169983,-26.1392,28.246,OR Tambo International Airport,9,0
+South Africa,South Africa,OR Tambo International Airport,-26.1392,28.246,-33.96480179,18.60169983,Cape Town International Airport,9,0
+China,China,Taoxian Airport,41.63980103,123.4830017,36.26610184,120.3740005,Liuting Airport,9,0
+China,China,Liuting Airport,36.26610184,120.3740005,41.63980103,123.4830017,Taoxian Airport,9,0
+Thailand,Malaysia,Suvarnabhumi Airport,13.68109989,100.7470016,2.745579958,101.7099991,Kuala Lumpur International Airport,9,0
+Malaysia,Thailand,Kuala Lumpur International Airport,2.745579958,101.7099991,13.68109989,100.7470016,Suvarnabhumi Airport,9,0
+Australia,Singapore,Brisbane International Airport,-27.38419914,153.1170044,1.35019,103.994003,Singapore Changi Airport,9,0
+Singapore,Australia,Singapore Changi Airport,1.35019,103.994003,-27.38419914,153.1170044,Brisbane International Airport,9,0
+Singapore,Australia,Singapore Changi Airport,1.35019,103.994003,-31.94029999,115.9670029,Perth International Airport,9,0
+Spain,United Kingdom,Lanzarote Airport,28.945499,-13.6052,51.148102,-0.190278,London Gatwick Airport,9,0
+United Kingdom,Spain,London Gatwick Airport,51.148102,-0.190278,28.945499,-13.6052,Lanzarote Airport,9,0
+United States,United States,Los Angeles International Airport,33.94250107,-118.4079971,29.99340057,-90.25800323,Louis Armstrong New Orleans International Airport,9,0
+United States,United States,Louis Armstrong New Orleans International Airport,29.99340057,-90.25800323,33.94250107,-118.4079971,Los Angeles International Airport,9,0
+United States,United States,Norman Y. Mineta San Jose International Airport,37.362598,-121.929001,33.94250107,-118.4079971,Los Angeles International Airport,9,0
+China,China,Xi'an Xianyang International Airport,34.447102,108.751999,36.5275,102.042999,Xining Caojiabu Airport,9,0
+China,China,Xining Caojiabu Airport,36.5275,102.042999,34.447102,108.751999,Xi'an Xianyang International Airport,9,0
+China,China,Xiamen Gaoqi International Airport,24.54400063,118.1279984,31.74200058,118.8619995,Nanjing Lukou Airport,9,0
+Australia,Australia,Cairns International Airport,-16.88579941,145.7550049,-27.38419914,153.1170044,Brisbane International Airport,9,0
+China,China,Chengdu Shuangliu International Airport,30.57850075,103.9469986,30.22949982,120.4339981,Hangzhou Xiaoshan International Airport,9,0
+China,China,Hangzhou Xiaoshan International Airport,30.22949982,120.4339981,30.57850075,103.9469986,Chengdu Shuangliu International Airport,9,0
+Spain,United States,Barcelona International Airport,41.2971,2.07846,40.63980103,-73.77890015,John F Kennedy International Airport,9,0
+United States,Spain,John F Kennedy International Airport,40.63980103,-73.77890015,41.2971,2.07846,Barcelona International Airport,9,0
+United States,Germany,Dallas Fort Worth International Airport,32.896801,-97.038002,50.033333,8.570556,Frankfurt am Main Airport,9,0
+Germany,United States,Frankfurt am Main Airport,50.033333,8.570556,32.896801,-97.038002,Dallas Fort Worth International Airport,9,0
+France,United States,Charles de Gaulle International Airport,49.012798,2.55,25.79319954,-80.29060364,Miami International Airport,9,0
+China,China,Kunming Changshui International Airport,25.1019444,102.9291667,30.7838,114.208,Wuhan Tianhe International Airport,8,0
+China,China,Wuhan Tianhe International Airport,30.7838,114.208,25.1019444,102.9291667,Kunming Changshui International Airport,8,0
+United States,United States,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,44.882,-93.221802,Minneapolis-St Paul International/Wold-Chamberlain Airport,8,0
+United States,United States,John F Kennedy International Airport,40.63980103,-73.77890015,33.94250107,-118.4079971,Los Angeles International Airport,8,0
+United States,United States,Los Angeles International Airport,33.94250107,-118.4079971,40.63980103,-73.77890015,John F Kennedy International Airport,8,0
+United States,United Kingdom,Miami International Airport,25.79319954,-80.29060364,51.4706,-0.461941,London Heathrow Airport,8,0
+Japan,United States,Narita International Airport,35.76470184,140.3860016,33.94250107,-118.4079971,Los Angeles International Airport,8,0
+France,France,Charles de Gaulle International Airport,49.012798,2.55,43.629101,1.36382,Toulouse-Blagnac Airport,8,0
+United Kingdom,United States,London Heathrow Airport,51.4706,-0.461941,47.449001,-122.308998,Seattle Tacoma International Airport,8,0
+Mexico,United States,Licenciado Benito Juarez International Airport,19.4363,-99.072098,33.6367,-84.428101,Hartsfield Jackson Atlanta International Airport,8,0
+France,France,Marseille Provence Airport,43.43927192,5.221424103,49.012798,2.55,Charles de Gaulle International Airport,8,0
+United States,United Kingdom,Seattle Tacoma International Airport,47.449001,-122.308998,51.4706,-0.461941,London Heathrow Airport,8,0
+United States,United Kingdom,Newark Liberty International Airport,40.69250107,-74.16870117,51.4706,-0.461941,London Heathrow Airport,8,0
+United States,United Kingdom,Washington Dulles International Airport,38.94449997,-77.45580292,51.4706,-0.461941,London Heathrow Airport,8,0
+United Kingdom,United States,London Heathrow Airport,51.4706,-0.461941,40.69250107,-74.16870117,Newark Liberty International Airport,8,0
+United Kingdom,United States,London Heathrow Airport,51.4706,-0.461941,38.94449997,-77.45580292,Washington Dulles International Airport,8,0
+Japan,Taiwan,Kansai International Airport,34.4272995,135.2440033,25.0777,121.233002,Taiwan Taoyuan International Airport,8,0
+China,Taiwan,Shanghai Pudong International Airport,31.14340019,121.8050003,25.0777,121.233002,Taiwan Taoyuan International Airport,8,0
+Taiwan,Japan,Taiwan Taoyuan International Airport,25.0777,121.233002,34.4272995,135.2440033,Kansai International Airport,8,0
+Taiwan,China,Taiwan Taoyuan International Airport,25.0777,121.233002,31.14340019,121.8050003,Shanghai Pudong International Airport,8,0
+China,China,Guangzhou Baiyun International Airport,23.39240074,113.2990036,29.71920013,106.6419983,Chongqing Jiangbei International Airport,8,0
+China,China,Chongqing Jiangbei International Airport,29.71920013,106.6419983,23.39240074,113.2990036,Guangzhou Baiyun International Airport,8,0
+China,China,Changsha Huanghua International Airport,28.18919945,113.2200012,25.1019444,102.9291667,Kunming Changshui International Airport,8,0
+China,China,Hangzhou Xiaoshan International Airport,30.22949982,120.4339981,40.08010101,116.5849991,Beijing Capital International Airport,8,0
+China,China,Kunming Changshui International Airport,25.1019444,102.9291667,28.18919945,113.2200012,Changsha Huanghua International Airport,8,0
+China,China,Beijing Capital International Airport,40.08010101,116.5849991,30.22949982,120.4339981,Hangzhou Xiaoshan International Airport,8,0
+Hong Kong,Singapore,Hong Kong International Airport,22.308901,113.915001,1.35019,103.994003,Singapore Changi Airport,8,0
+Singapore,Hong Kong,Singapore Changi Airport,1.35019,103.994003,22.308901,113.915001,Hong Kong International Airport,8,0
+China,China,Kunming Changshui International Airport,25.1019444,102.9291667,34.447102,108.751999,Xi'an Xianyang International Airport,8,0
+China,China,Longdongbao Airport,26.53849983,106.8010025,34.447102,108.751999,Xi'an Xianyang International Airport,8,0
+China,China,Shanghai Pudong International Airport,31.14340019,121.8050003,34.447102,108.751999,Xi'an Xianyang International Airport,8,0
+China,China,Ürümqi Diwopu International Airport,43.90710068,87.47419739,36.51520157,103.6200027,Lanzhou Zhongchuan Airport,8,0
+China,China,Wuhan Tianhe International Airport,30.7838,114.208,24.54400063,118.1279984,Xiamen Gaoqi International Airport,8,0
+China,China,Xi'an Xianyang International Airport,34.447102,108.751999,25.1019444,102.9291667,Kunming Changshui International Airport,8,0
+China,China,Xi'an Xianyang International Airport,34.447102,108.751999,26.53849983,106.8010025,Longdongbao Airport,8,0
+China,China,Xi'an Xianyang International Airport,34.447102,108.751999,31.14340019,121.8050003,Shanghai Pudong International Airport,8,0
+United States,United States,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,42.36429977,-71.00520325,General Edward Lawrence Logan International Airport,8,0
+United States,United States,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,35.2140007,-80.94309998,Charlotte Douglas International Airport,8,0
+United States,United States,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,39.998001,-82.891899,John Glenn Columbus International Airport,8,0
+United States,United States,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,42.21239853,-83.35340118,Detroit Metropolitan Wayne County Airport,8,0
+United States,United States,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,26.072599,-80.152702,Fort Lauderdale Hollywood International Airport,8,0
+United States,United States,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,40.77719879,-73.87259674,La Guardia Airport,8,0
+United States,United Kingdom,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,51.4706,-0.461941,London Heathrow Airport,8,0
+United States,United States,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,39.2976,-94.713898,Kansas City International Airport,8,0
+United States,United States,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,28.42939949,-81.30899811,Orlando International Airport,8,0
+United States,United States,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,26.68320084,-80.09559631,Palm Beach International Airport,8,0
+United States,United States,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,26.53619957,-81.75520325,Southwest Florida International Airport,8,0
+United States,United States,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,32.73360062,-117.1900024,San Diego International Airport,8,0
+United States,United States,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,38.748697,-90.370003,St Louis Lambert International Airport,8,0
+Thailand,Japan,Suvarnabhumi Airport,13.68109989,100.7470016,35.76470184,140.3860016,Narita International Airport,8,0
+United States,United States,Charlotte Douglas International Airport,35.2140007,-80.94309998,33.6367,-84.428101,Hartsfield Jackson Atlanta International Airport,8,0
+United States,United States,John Glenn Columbus International Airport,39.998001,-82.891899,33.6367,-84.428101,Hartsfield Jackson Atlanta International Airport,8,0
+United States,United States,Detroit Metropolitan Wayne County Airport,42.21239853,-83.35340118,33.6367,-84.428101,Hartsfield Jackson Atlanta International Airport,8,0
+United States,United States,Fort Lauderdale Hollywood International Airport,26.072599,-80.152702,33.6367,-84.428101,Hartsfield Jackson Atlanta International Airport,8,0
+Germany,United States,Frankfurt am Main Airport,50.033333,8.570556,40.63980103,-73.77890015,John F Kennedy International Airport,8,0
+United States,Germany,John F Kennedy International Airport,40.63980103,-73.77890015,50.033333,8.570556,Frankfurt am Main Airport,8,0
+United States,United States,John F Kennedy International Airport,40.63980103,-73.77890015,36.08010101,-115.1520004,McCarran International Airport,8,0
+United States,United States,McCarran International Airport,36.08010101,-115.1520004,40.63980103,-73.77890015,John F Kennedy International Airport,8,0
+United Kingdom,United States,London Heathrow Airport,51.4706,-0.461941,33.6367,-84.428101,Hartsfield Jackson Atlanta International Airport,8,0
+United States,United States,Kansas City International Airport,39.2976,-94.713898,33.6367,-84.428101,Hartsfield Jackson Atlanta International Airport,8,0
+United States,United States,Orlando International Airport,28.42939949,-81.30899811,33.6367,-84.428101,Hartsfield Jackson Atlanta International Airport,8,0
+Japan,Thailand,Narita International Airport,35.76470184,140.3860016,13.68109989,100.7470016,Suvarnabhumi Airport,8,0
+Japan,Singapore,Narita International Airport,35.76470184,140.3860016,1.35019,103.994003,Singapore Changi Airport,8,0
+United States,United States,Palm Beach International Airport,26.68320084,-80.09559631,33.6367,-84.428101,Hartsfield Jackson Atlanta International Airport,8,0
+United States,United States,Southwest Florida International Airport,26.53619957,-81.75520325,33.6367,-84.428101,Hartsfield Jackson Atlanta International Airport,8,0
+United States,United States,San Diego International Airport,32.73360062,-117.1900024,33.6367,-84.428101,Hartsfield Jackson Atlanta International Airport,8,0
+Singapore,Japan,Singapore Changi Airport,1.35019,103.994003,35.76470184,140.3860016,Narita International Airport,8,0
+Puerto Rico,United States,Luis Munoz Marin International Airport,18.43939972,-66.00180054,33.6367,-84.428101,Hartsfield Jackson Atlanta International Airport,8,0
+United States,United States,St Louis Lambert International Airport,38.748697,-90.370003,33.6367,-84.428101,Hartsfield Jackson Atlanta International Airport,8,0
+United States,United States,Tampa International Airport,27.97550011,-82.53320313,33.6367,-84.428101,Hartsfield Jackson Atlanta International Airport,8,0
+Ghana,Cote d'Ivoire,Kotoka International Airport,5.6051898,-0.166786,5.261390209,-3.926290035,Port Bouet Airport,8,0
+Australia,New Zealand,Brisbane International Airport,-27.38419914,153.1170044,-37.0080986,174.7920074,Auckland International Airport,8,0
+Australia,New Zealand,Melbourne International Airport,-37.673302,144.843002,-37.0080986,174.7920074,Auckland International Airport,8,0
+Benin,Cote d'Ivoire,Cadjehoun Airport,6.357230186,2.384350061,5.261390209,-3.926290035,Port Bouet Airport,8,0
+Niger,Burkina Faso,Diori Hamani International Airport,13.4815,2.18361,12.3532,-1.51242,Ouagadougou Airport,8,0
+United Arab Emirates,Bahrain,Abu Dhabi International Airport,24.43300056,54.65110016,26.27079964,50.63359833,Bahrain International Airport,8,0
+Bahrain,United Arab Emirates,Bahrain International Airport,26.27079964,50.63359833,24.43300056,54.65110016,Abu Dhabi International Airport,8,0
+Portugal,Netherlands,Humberto Delgado Airport (Lisbon Portela Airport),38.7813,-9.13592,52.308601,4.76389,Amsterdam Airport Schiphol,8,0
+China,China,Zhoushuizi Airport,38.96569824,121.5390015,39.12440109,117.3460007,Tianjin Binhai International Airport,8,0
+China,China,Tianjin Binhai International Airport,39.12440109,117.3460007,38.96569824,121.5390015,Zhoushuizi Airport,8,0
+Netherlands,Portugal,Amsterdam Airport Schiphol,52.308601,4.76389,38.7813,-9.13592,Humberto Delgado Airport (Lisbon Portela Airport),8,0
+Ecuador,Ecuador,Mariscal Sucre International Airport,-0.129166667,-78.3575,-2.15741992,-79.88359833,José Joaquín de Olmedo International Airport,8,0
+Germany,Spain,Frankfurt am Main Airport,50.033333,8.570556,40.471926,-3.56264,Adolfo Suárez Madrid–Barajas Airport,8,0
+Spain,Germany,Adolfo Suárez Madrid–Barajas Airport,40.471926,-3.56264,50.033333,8.570556,Frankfurt am Main Airport,8,0
+Germany,United States,Düsseldorf Airport,51.289501,6.76678,41.9786,-87.9048,Chicago O'Hare International Airport,8,0
+United States,Germany,Chicago O'Hare International Airport,41.9786,-87.9048,51.289501,6.76678,Düsseldorf Airport,8,0
+United Kingdom,Spain,Manchester Airport,53.35369873,-2.274950027,39.55170059,2.738810062,Palma De Mallorca Airport,8,0
+United Kingdom,Spain,Manchester Airport,53.35369873,-2.274950027,28.04450035,-16.57250023,Tenerife South Airport,8,0
+Spain,United Kingdom,Palma De Mallorca Airport,39.55170059,2.738810062,53.35369873,-2.274950027,Manchester Airport,8,0
+Indonesia,Singapore,Juanda International Airport,-7.379829884,112.7870026,1.35019,103.994003,Singapore Changi Airport,8,0
+United Kingdom,Spain,London Gatwick Airport,51.148102,-0.190278,28.04450035,-16.57250023,Tenerife South Airport,8,0
+Spain,United Kingdom,Tenerife South Airport,28.04450035,-16.57250023,51.148102,-0.190278,London Gatwick Airport,8,0
+Thailand,Thailand,Suvarnabhumi Airport,13.68109989,100.7470016,19.95229912,99.88289642,Chiang Rai International Airport,8,0
+Thailand,Thailand,Suvarnabhumi Airport,13.68109989,100.7470016,8.09912014,98.98619843,Krabi Airport,8,0
+Thailand,Thailand,Chiang Rai International Airport,19.95229912,99.88289642,13.68109989,100.7470016,Suvarnabhumi Airport,8,0
+Thailand,Thailand,Krabi Airport,8.09912014,98.98619843,13.68109989,100.7470016,Suvarnabhumi Airport,8,0
+Belgium,Portugal,Brussels Airport,50.90140152,4.48443985,38.7813,-9.13592,Humberto Delgado Airport (Lisbon Portela Airport),8,0
+Portugal,Belgium,Humberto Delgado Airport (Lisbon Portela Airport),38.7813,-9.13592,50.90140152,4.48443985,Brussels Airport,8,0
+United States,United States,Los Angeles International Airport,33.94250107,-118.4079971,20.8986,-156.429993,Kahului Airport,8,0
+United States,United States,Louis Armstrong New Orleans International Airport,29.99340057,-90.25800323,41.9786,-87.9048,Chicago O'Hare International Airport,8,0
+China,China,Fuzhou Changle International Airport,25.93510056,119.663002,31.74200058,118.8619995,Nanjing Lukou Airport,8,0
+China,China,Nanjing Lukou Airport,31.74200058,118.8619995,25.93510056,119.663002,Fuzhou Changle International Airport,8,0
+China,China,Chengdu Shuangliu International Airport,30.57850075,103.9469986,36.85720062,117.2160034,Yaoqiang Airport,8,0
+China,China,Chengdu Shuangliu International Airport,30.57850075,103.9469986,34.447102,108.751999,Xi'an Xianyang International Airport,8,0
+China,China,Sanya Phoenix International Airport,18.30290031,109.4120026,30.22949982,120.4339981,Hangzhou Xiaoshan International Airport,8,0
+China,China,Shenzhen Bao'an International Airport,22.63929939,113.810997,30.22949982,120.4339981,Hangzhou Xiaoshan International Airport,8,0
+Australia,Australia,Brisbane International Airport,-27.38419914,153.1170044,-16.88579941,145.7550049,Cairns International Airport,8,0
+China,China,Hangzhou Xiaoshan International Airport,30.22949982,120.4339981,25.1019444,102.9291667,Kunming Changshui International Airport,8,0
+China,China,Kunming Changshui International Airport,25.1019444,102.9291667,30.22949982,120.4339981,Hangzhou Xiaoshan International Airport,8,0
+China,China,Chongqing Jiangbei International Airport,29.71920013,106.6419983,29.29780006,90.91190338,Lhasa Gonggar Airport,8,0
+China,China,Lhasa Gonggar Airport,29.29780006,90.91190338,29.71920013,106.6419983,Chongqing Jiangbei International Airport,8,0
+China,China,Nanjing Lukou Airport,31.74200058,118.8619995,24.54400063,118.1279984,Xiamen Gaoqi International Airport,8,0
+China,China,Hangzhou Xiaoshan International Airport,30.22949982,120.4339981,18.30290031,109.4120026,Sanya Phoenix International Airport,8,0
+China,China,Xi'an Xianyang International Airport,34.447102,108.751999,30.57850075,103.9469986,Chengdu Shuangliu International Airport,8,0
+China,China,Hangzhou Xiaoshan International Airport,30.22949982,120.4339981,25.21809959,110.0390015,Guilin Liangjiang International Airport,8,0
+China,China,Taiping Airport,45.62340164,126.25,39.12440109,117.3460007,Tianjin Binhai International Airport,8,0
+China,China,Guilin Liangjiang International Airport,25.21809959,110.0390015,30.22949982,120.4339981,Hangzhou Xiaoshan International Airport,8,0
+China,China,Tianjin Binhai International Airport,39.12440109,117.3460007,45.62340164,126.25,Taiping Airport,8,0
+China,China,Changsha Huanghua International Airport,28.18919945,113.2200012,24.54400063,118.1279984,Xiamen Gaoqi International Airport,8,0
+China,China,Xiamen Gaoqi International Airport,24.54400063,118.1279984,28.18919945,113.2200012,Changsha Huanghua International Airport,8,0
+China,China,Beijing Capital International Airport,40.08010101,116.5849991,38.481899,106.009003,Yinchuan Airport,8,0
+China,China,Kunming Changshui International Airport,25.1019444,102.9291667,31.74200058,118.8619995,Nanjing Lukou Airport,8,0
+China,China,Kunming Changshui International Airport,25.1019444,102.9291667,24.54400063,118.1279984,Xiamen Gaoqi International Airport,8,0
+China,China,Nanjing Lukou Airport,31.74200058,118.8619995,25.1019444,102.9291667,Kunming Changshui International Airport,8,0
+China,China,Xiamen Gaoqi International Airport,24.54400063,118.1279984,25.1019444,102.9291667,Kunming Changshui International Airport,8,0
+Mexico,United States,Licenciado Benito Juarez International Airport,19.4363,-99.072098,25.79319954,-80.29060364,Miami International Airport,8,0
+Guinea,Senegal,Conakry International Airport,9.57689,-13.612,14.73970032,-17.49020004,Léopold Sédar Senghor International Airport,8,0
+Senegal,Guinea,Léopold Sédar Senghor International Airport,14.73970032,-17.49020004,9.57689,-13.612,Conakry International Airport,8,0
+United States,France,Miami International Airport,25.79319954,-80.29060364,49.012798,2.55,Charles de Gaulle International Airport,8,0
+Cote d'Ivoire,Burkina Faso,Port Bouet Airport,5.261390209,-3.926290035,12.3532,-1.51242,Ouagadougou Airport,7,0
+Burkina Faso,Cote d'Ivoire,Ouagadougou Airport,12.3532,-1.51242,5.261390209,-3.926290035,Port Bouet Airport,7,0
+China,China,Chengdu Shuangliu International Airport,30.57850075,103.9469986,31.14340019,121.8050003,Shanghai Pudong International Airport,7,0
+China,China,Shanghai Pudong International Airport,31.14340019,121.8050003,30.57850075,103.9469986,Chengdu Shuangliu International Airport,7,0
+China,China,Zhengzhou Xinzheng International Airport,34.5196991,113.8410034,25.1019444,102.9291667,Kunming Changshui International Airport,7,0
+China,China,Kunming Changshui International Airport,25.1019444,102.9291667,34.5196991,113.8410034,Zhengzhou Xinzheng International Airport,7,0
+China,China,Kunming Changshui International Airport,25.1019444,102.9291667,26.53849983,106.8010025,Longdongbao Airport,7,0
+China,China,Longdongbao Airport,26.53849983,106.8010025,25.1019444,102.9291667,Kunming Changshui International Airport,7,0
+China,China,Lijiang Airport,26.68000031,100.2460022,25.1019444,102.9291667,Kunming Changshui International Airport,7,0
+United States,United States,Minneapolis-St Paul International/Wold-Chamberlain Airport,44.882,-93.221802,33.6367,-84.428101,Hartsfield Jackson Atlanta International Airport,7,0
+India,India,Chhatrapati Shivaji International Airport,19.08869934,72.86789703,12.99000549,80.16929626,Chennai International Airport,7,0
+India,India,Chennai International Airport,12.99000549,80.16929626,19.08869934,72.86789703,Chhatrapati Shivaji International Airport,7,0
+United States,United States,General Edward Lawrence Logan International Airport,42.36429977,-71.00520325,33.94250107,-118.4079971,Los Angeles International Airport,7,0
+United States,Japan,Daniel K Inouye International Airport,21.32062,-157.924228,35.76470184,140.3860016,Narita International Airport,7,0
+United States,United States,John F Kennedy International Airport,40.63980103,-73.77890015,37.61899948,-122.375,San Francisco International Airport,7,0
+United States,United States,Los Angeles International Airport,33.94250107,-118.4079971,42.36429977,-71.00520325,General Edward Lawrence Logan International Airport,7,0
+United Kingdom,United States,London Heathrow Airport,51.4706,-0.461941,32.896801,-97.038002,Dallas Fort Worth International Airport,7,0
+United Kingdom,United States,London Heathrow Airport,51.4706,-0.461941,25.79319954,-80.29060364,Miami International Airport,7,0
+Japan,United States,Narita International Airport,35.76470184,140.3860016,21.32062,-157.924228,Daniel K Inouye International Airport,7,0
+United States,United States,San Francisco International Airport,37.61899948,-122.375,40.63980103,-73.77890015,John F Kennedy International Airport,7,0
+United Kingdom,Canada,London Heathrow Airport,51.4706,-0.461941,43.67720032,-79.63059998,Lester B. Pearson International Airport,7,0
+Canada,Canada,Lester B. Pearson International Airport,43.67720032,-79.63059998,45.47060013,-73.74079895,Montreal / Pierre Elliott Trudeau International Airport,7,0
+Australia,Australia,Melbourne International Airport,-37.673302,144.843002,-33.94609833,151.177002,Sydney Kingsford Smith International Airport,7,0
+Australia,Australia,Sydney Kingsford Smith International Airport,-33.94609833,151.177002,-37.673302,144.843002,Melbourne International Airport,7,0
+United Arab Emirates,Pakistan,Abu Dhabi International Airport,24.43300056,54.65110016,31.52160072,74.4036026,Alama Iqbal International Airport,7,0
+Italy,United States,Leonardo da Vinci–Fiumicino Airport,41.8002778,12.2388889,40.63980103,-73.77890015,John F Kennedy International Airport,7,0
+Italy,United States,Leonardo da Vinci–Fiumicino Airport,41.8002778,12.2388889,41.9786,-87.9048,Chicago O'Hare International Airport,7,0
+Italy,Czech Republic,Leonardo da Vinci–Fiumicino Airport,41.8002778,12.2388889,50.1008,14.26,Václav Havel Airport Prague,7,0
+United States,Italy,John F Kennedy International Airport,40.63980103,-73.77890015,41.8002778,12.2388889,Leonardo da Vinci–Fiumicino Airport,7,0
+Pakistan,United Arab Emirates,Alama Iqbal International Airport,31.52160072,74.4036026,24.43300056,54.65110016,Abu Dhabi International Airport,7,0
+United States,Italy,Chicago O'Hare International Airport,41.9786,-87.9048,41.8002778,12.2388889,Leonardo da Vinci–Fiumicino Airport,7,0
+Czech Republic,Italy,Václav Havel Airport Prague,50.1008,14.26,41.8002778,12.2388889,Leonardo da Vinci–Fiumicino Airport,7,0
+Sierra Leone,Liberia,Lungi International Airport,8.61644,-13.1955,6.23379,-10.3623,Roberts International Airport,7,0
+South Korea,Taiwan,Incheon International Airport,37.46910095,126.4509964,25.0777,121.233002,Taiwan Taoyuan International Airport,7,0
+Singapore,Taiwan,Singapore Changi Airport,1.35019,103.994003,25.0777,121.233002,Taiwan Taoyuan International Airport,7,0
+Taiwan,South Korea,Taiwan Taoyuan International Airport,25.0777,121.233002,37.46910095,126.4509964,Incheon International Airport,7,0
+Taiwan,Singapore,Taiwan Taoyuan International Airport,25.0777,121.233002,1.35019,103.994003,Singapore Changi Airport,7,0
+China,China,Chongqing Jiangbei International Airport,29.71920013,106.6419983,31.14340019,121.8050003,Shanghai Pudong International Airport,7,0
+China,China,Chengdu Shuangliu International Airport,30.57850075,103.9469986,22.63929939,113.810997,Shenzhen Bao'an International Airport,7,0
+Japan,China,Kansai International Airport,34.4272995,135.2440033,31.14340019,121.8050003,Shanghai Pudong International Airport,7,0
+China,China,Beijing Capital International Airport,40.08010101,116.5849991,31.19790077,121.3359985,Shanghai Hongqiao International Airport,7,0
+China,China,Shanghai Pudong International Airport,31.14340019,121.8050003,29.71920013,106.6419983,Chongqing Jiangbei International Airport,7,0
+China,Japan,Shanghai Pudong International Airport,31.14340019,121.8050003,34.4272995,135.2440033,Kansai International Airport,7,0
+China,China,Shanghai Hongqiao International Airport,31.19790077,121.3359985,40.08010101,116.5849991,Beijing Capital International Airport,7,0
+China,China,Shenzhen Bao'an International Airport,22.63929939,113.810997,30.57850075,103.9469986,Chengdu Shuangliu International Airport,7,0
+China,Hong Kong,Hangzhou Xiaoshan International Airport,30.22949982,120.4339981,22.308901,113.915001,Hong Kong International Airport,7,0
+Hong Kong,China,Hong Kong International Airport,22.308901,113.915001,30.22949982,120.4339981,Hangzhou Xiaoshan International Airport,7,0
+Hong Kong,China,Hong Kong International Airport,22.308901,113.915001,31.14340019,121.8050003,Shanghai Pudong International Airport,7,0
+China,Hong Kong,Shanghai Pudong International Airport,31.14340019,121.8050003,22.308901,113.915001,Hong Kong International Airport,7,0
+China,China,Guangzhou Baiyun International Airport,23.39240074,113.2990036,31.19790077,121.3359985,Shanghai Hongqiao International Airport,7,0
+China,China,Shanghai Hongqiao International Airport,31.19790077,121.3359985,23.39240074,113.2990036,Guangzhou Baiyun International Airport,7,0
+China,China,Shanghai Hongqiao International Airport,31.19790077,121.3359985,22.63929939,113.810997,Shenzhen Bao'an International Airport,7,0
+China,China,Shenzhen Bao'an International Airport,22.63929939,113.810997,31.19790077,121.3359985,Shanghai Hongqiao International Airport,7,0
+China,China,Yaoqiang Airport,36.85720062,117.2160034,34.447102,108.751999,Xi'an Xianyang International Airport,7,0
+China,China,Xi'an Xianyang International Airport,34.447102,108.751999,25.21809959,110.0390015,Guilin Liangjiang International Airport,7,0
+China,China,Xi'an Xianyang International Airport,34.447102,108.751999,36.85720062,117.2160034,Yaoqiang Airport,7,0
+China,China,Xiamen Gaoqi International Airport,24.54400063,118.1279984,30.7838,114.208,Wuhan Tianhe International Airport,7,0
+United States,United States,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,30.19449997,-97.66989899,Austin Bergstrom International Airport,7,0
+United States,United States,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,41.93889999,-72.68319702,Bradley International Airport,7,0
+United States,United States,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,36.12450027,-86.67819977,Nashville International Airport,7,0
+United States,United States,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,39.1754,-76.668297,Baltimore/Washington International Thurgood Marshall Airport,7,0
+United States,United States,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,32.89860153,-80.04049683,Charleston Air Force Base-International Airport,7,0
+United States,United States,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,39.04880142,-84.6678009,Cincinnati Northern Kentucky International Airport,7,0
+United States,United States,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,38.8521,-77.037697,Ronald Reagan Washington National Airport,7,0
+United States,United States,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,40.69250107,-74.16870117,Newark Liberty International Airport,7,0
+United States,United States,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,36.08010101,-115.1520004,McCarran International Airport,7,0
+United States,United States,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,35.04240036,-89.97669983,Memphis International Airport,7,0
+United States,Mexico,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,19.4363,-99.072098,Licenciado Benito Juarez International Airport,7,0
+United States,United States,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,35.39310074,-97.60070038,Will Rogers World Airport,7,0
+United States,United States,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,36.89459991,-76.20120239,Norfolk International Airport,7,0
+United States,United States,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,40.49150085,-80.23290253,Pittsburgh International Airport,7,0
+United States,United States,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,37.50519943,-77.31970215,Richmond International Airport,7,0
+United States,United States,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,29.53370094,-98.46980286,San Antonio International Airport,7,0
+United States,Puerto Rico,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,18.43939972,-66.00180054,Luis Munoz Marin International Airport,7,0
+United States,United States,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,27.97550011,-82.53320313,Tampa International Airport,7,0
+United States,United States,Austin Bergstrom International Airport,30.19449997,-97.66989899,33.6367,-84.428101,Hartsfield Jackson Atlanta International Airport,7,0
+United States,United States,Bradley International Airport,41.93889999,-72.68319702,33.6367,-84.428101,Hartsfield Jackson Atlanta International Airport,7,0
+United States,United States,General Edward Lawrence Logan International Airport,42.36429977,-71.00520325,33.6367,-84.428101,Hartsfield Jackson Atlanta International Airport,7,0
+United States,United States,Baltimore/Washington International Thurgood Marshall Airport,39.1754,-76.668297,33.6367,-84.428101,Hartsfield Jackson Atlanta International Airport,7,0
+United States,United States,Cincinnati Northern Kentucky International Airport,39.04880142,-84.6678009,33.6367,-84.428101,Hartsfield Jackson Atlanta International Airport,7,0
+United States,United States,Ronald Reagan Washington National Airport,38.8521,-77.037697,33.6367,-84.428101,Hartsfield Jackson Atlanta International Airport,7,0
+United States,United States,Newark Liberty International Airport,40.69250107,-74.16870117,33.6367,-84.428101,Hartsfield Jackson Atlanta International Airport,7,0
+United States,United States,John F Kennedy International Airport,40.63980103,-73.77890015,33.6367,-84.428101,Hartsfield Jackson Atlanta International Airport,7,0
+United States,Canada,John F Kennedy International Airport,40.63980103,-73.77890015,43.67720032,-79.63059998,Lester B. Pearson International Airport,7,0
+United States,United States,McCarran International Airport,36.08010101,-115.1520004,33.6367,-84.428101,Hartsfield Jackson Atlanta International Airport,7,0
+United States,United States,Los Angeles International Airport,33.94250107,-118.4079971,21.32062,-157.924228,Daniel K Inouye International Airport,7,0
+United States,United States,La Guardia Airport,40.77719879,-73.87259674,33.6367,-84.428101,Hartsfield Jackson Atlanta International Airport,7,0
+United States,United States,Memphis International Airport,35.04240036,-89.97669983,33.6367,-84.428101,Hartsfield Jackson Atlanta International Airport,7,0
+United States,United States,General Mitchell International Airport,42.94720078,-87.89659882,33.6367,-84.428101,Hartsfield Jackson Atlanta International Airport,7,0
+United States,United States,Minneapolis-St Paul International/Wold-Chamberlain Airport,44.882,-93.221802,33.94250107,-118.4079971,Los Angeles International Airport,7,0
+United States,United States,Norfolk International Airport,36.89459991,-76.20120239,33.6367,-84.428101,Hartsfield Jackson Atlanta International Airport,7,0
+United States,United States,Pittsburgh International Airport,40.49150085,-80.23290253,33.6367,-84.428101,Hartsfield Jackson Atlanta International Airport,7,0
+United States,United States,Richmond International Airport,37.50519943,-77.31970215,33.6367,-84.428101,Hartsfield Jackson Atlanta International Airport,7,0
+United States,United States,San Antonio International Airport,29.53370094,-98.46980286,33.6367,-84.428101,Hartsfield Jackson Atlanta International Airport,7,0
+United States,United States,Salt Lake City International Airport,40.78839874,-111.9779968,33.94250107,-118.4079971,Los Angeles International Airport,7,0
+Cote d'Ivoire,Ghana,Port Bouet Airport,5.261390209,-3.926290035,5.6051898,-0.166786,Kotoka International Airport,7,0
+Ireland,United States,Dublin Airport,53.421299,-6.27007,41.9786,-87.9048,Chicago O'Hare International Airport,7,0
+United States,Ireland,Chicago O'Hare International Airport,41.9786,-87.9048,53.421299,-6.27007,Dublin Airport,7,0
+New Zealand,Australia,Auckland International Airport,-37.0080986,174.7920074,-27.38419914,153.1170044,Brisbane International Airport,7,0
+New Zealand,Australia,Auckland International Airport,-37.0080986,174.7920074,-37.673302,144.843002,Melbourne International Airport,7,0
+Zambia,Zimbabwe,Kenneth Kaunda International Airport Lusaka,-15.33080006,28.45260048,-17.931801,31.0928,Robert Gabriel Mugabe International Airport,7,0
+Australia,Singapore,Melbourne International Airport,-37.673302,144.843002,1.35019,103.994003,Singapore Changi Airport,7,0
+Burkina Faso,Niger,Ouagadougou Airport,12.3532,-1.51242,13.4815,2.18361,Diori Hamani International Airport,7,0
+Singapore,Australia,Singapore Changi Airport,1.35019,103.994003,-37.673302,144.843002,Melbourne International Airport,7,0
+China,China,Chongqing Jiangbei International Airport,29.71920013,106.6419983,31.19790077,121.3359985,Shanghai Hongqiao International Airport,7,0
+China,China,Chengdu Shuangliu International Airport,30.57850075,103.9469986,31.19790077,121.3359985,Shanghai Hongqiao International Airport,7,0
+China,China,Zhoushuizi Airport,38.96569824,121.5390015,31.14340019,121.8050003,Shanghai Pudong International Airport,7,0
+China,China,Guilin Liangjiang International Airport,25.21809959,110.0390015,31.14340019,121.8050003,Shanghai Pudong International Airport,7,0
+China,China,Shanghai Pudong International Airport,31.14340019,121.8050003,38.96569824,121.5390015,Zhoushuizi Airport,7,0
+China,China,Shanghai Pudong International Airport,31.14340019,121.8050003,25.21809959,110.0390015,Guilin Liangjiang International Airport,7,0
+China,China,Shanghai Hongqiao International Airport,31.19790077,121.3359985,29.71920013,106.6419983,Chongqing Jiangbei International Airport,7,0
+China,China,Shanghai Hongqiao International Airport,31.19790077,121.3359985,30.57850075,103.9469986,Chengdu Shuangliu International Airport,7,0
+China,China,Shanghai Hongqiao International Airport,31.19790077,121.3359985,39.12440109,117.3460007,Tianjin Binhai International Airport,7,0
+China,China,Tianjin Binhai International Airport,39.12440109,117.3460007,31.19790077,121.3359985,Shanghai Hongqiao International Airport,7,0
+Indonesia,Indonesia,Soekarno-Hatta International Airport,-6.12556982,106.6559982,-8.748169899,115.1669998,Ngurah Rai (Bali) International Airport,7,0
+Indonesia,Indonesia,Ngurah Rai (Bali) International Airport,-8.748169899,115.1669998,-6.12556982,106.6559982,Soekarno-Hatta International Airport,7,0
+China,China,Nanning Wuxu Airport,22.60829926,108.1719971,30.7838,114.208,Wuhan Tianhe International Airport,7,0
+China,China,Tianjin Binhai International Airport,39.12440109,117.3460007,34.447102,108.751999,Xi'an Xianyang International Airport,7,0
+China,China,Wuhan Tianhe International Airport,30.7838,114.208,22.60829926,108.1719971,Nanning Wuxu Airport,7,0
+China,China,Xi'an Xianyang International Airport,34.447102,108.751999,39.12440109,117.3460007,Tianjin Binhai International Airport,7,0
+Argentina,Brazil,Ministro Pistarini International Airport,-34.8222,-58.5358,-23.43555641,-46.47305679,Guarulhos - Governador André Franco Montoro International Airport,7,0
+Brazil,Argentina,Guarulhos - Governador André Franco Montoro International Airport,-23.43555641,-46.47305679,-34.8222,-58.5358,Ministro Pistarini International Airport,7,0
+Philippines,South Korea,Mactan Cebu International Airport,10.30749989,123.9789963,37.46910095,126.4509964,Incheon International Airport,7,0
+Japan,South Korea,Fukuoka Airport,33.58589935,130.451004,37.46910095,126.4509964,Incheon International Airport,7,0
+South Korea,Philippines,Incheon International Airport,37.46910095,126.4509964,10.30749989,123.9789963,Mactan Cebu International Airport,7,0
+South Korea,Japan,Incheon International Airport,37.46910095,126.4509964,33.58589935,130.451004,Fukuoka Airport,7,0
+South Korea,Japan,Incheon International Airport,37.46910095,126.4509964,34.4272995,135.2440033,Kansai International Airport,7,0
+South Korea,United States,Incheon International Airport,37.46910095,126.4509964,37.61899948,-122.375,San Francisco International Airport,7,0
+Japan,South Korea,Kansai International Airport,34.4272995,135.2440033,37.46910095,126.4509964,Incheon International Airport,7,0
+United States,South Korea,San Francisco International Airport,37.61899948,-122.375,37.46910095,126.4509964,Incheon International Airport,7,0
+Rwanda,Burundi,Kigali International Airport,-1.96863,30.1395,-3.324019909,29.31850052,Bujumbura International Airport,7,0
+Rwanda,Kenya,Kigali International Airport,-1.96863,30.1395,-1.319239974,36.92779922,Jomo Kenyatta International Airport,7,0
+Spain,United Kingdom,Lanzarote Airport,28.945499,-13.6052,53.35369873,-2.274950027,Manchester Airport,7,0
+United Kingdom,Spain,Manchester Airport,53.35369873,-2.274950027,28.945499,-13.6052,Lanzarote Airport,7,0
+United Kingdom,Cyprus,Manchester Airport,53.35369873,-2.274950027,34.7179985,32.4856987,Paphos International Airport,7,0
+Spain,United Kingdom,Tenerife South Airport,28.04450035,-16.57250023,53.35369873,-2.274950027,Manchester Airport,7,0
+Singapore,Indonesia,Singapore Changi Airport,1.35019,103.994003,-7.379829884,112.7870026,Juanda International Airport,7,0
+China,China,Chengdu Shuangliu International Airport,30.57850075,103.9469986,32.85333333,103.6822222,Jiuzhai Huanglong Airport,7,0
+China,China,Jiuzhai Huanglong Airport,32.85333333,103.6822222,30.57850075,103.9469986,Chengdu Shuangliu International Airport,7,0
+China,China,Kunming Changshui International Airport,25.1019444,102.9291667,31.14340019,121.8050003,Shanghai Pudong International Airport,7,0
+United States,China,Los Angeles International Airport,33.94250107,-118.4079971,31.14340019,121.8050003,Shanghai Pudong International Airport,7,0
+China,China,Hangzhou Xiaoshan International Airport,30.22949982,120.4339981,38.28070068,114.6969986,Shijiazhuang Daguocun International Airport,7,0
+China,China,Shijiazhuang Daguocun International Airport,38.28070068,114.6969986,30.22949982,120.4339981,Hangzhou Xiaoshan International Airport,7,0
+Cameroon,Cameroon,Yaoundé Nsimalen International Airport,3.722559929,11.5532999,4.006080151,9.719479561,Douala International Airport,7,0
+China,China,Liuting Airport,36.26610184,120.3740005,34.447102,108.751999,Xi'an Xianyang International Airport,7,0
+China,China,Xi'an Xianyang International Airport,34.447102,108.751999,36.26610184,120.3740005,Liuting Airport,7,0
+Saudi Arabia,Egypt,King Abdulaziz International Airport,21.6796,39.156502,30.91769981,29.69639969,Borg El Arab International Airport,7,0
+Cyprus,United Kingdom,Larnaca International Airport,34.87509918,33.62490082,51.148102,-0.190278,London Gatwick Airport,7,0
+United Kingdom,Cyprus,London Gatwick Airport,51.148102,-0.190278,34.87509918,33.62490082,Larnaca International Airport,7,0
+United Kingdom,Portugal,London Heathrow Airport,51.4706,-0.461941,38.7813,-9.13592,Humberto Delgado Airport (Lisbon Portela Airport),7,0
+United States,United States,Denver International Airport,39.86169815,-104.6729965,33.94250107,-118.4079971,Los Angeles International Airport,7,0
+United States,United States,Denver International Airport,39.86169815,-104.6729965,33.43429947,-112.012001,Phoenix Sky Harbor International Airport,7,0
+United States,United States,Los Angeles International Airport,33.94250107,-118.4079971,39.86169815,-104.6729965,Denver International Airport,7,0
+United States,United States,Los Angeles International Airport,33.94250107,-118.4079971,41.9786,-87.9048,Chicago O'Hare International Airport,7,0
+United States,United States,Los Angeles International Airport,33.94250107,-118.4079971,37.61899948,-122.375,San Francisco International Airport,7,0
+United States,United States,Kahului Airport,20.8986,-156.429993,33.94250107,-118.4079971,Los Angeles International Airport,7,0
+United States,United States,Phoenix Sky Harbor International Airport,33.43429947,-112.012001,39.86169815,-104.6729965,Denver International Airport,7,0
+United States,United States,San Francisco International Airport,37.61899948,-122.375,33.94250107,-118.4079971,Los Angeles International Airport,7,0
+United Kingdom,United States,London Gatwick Airport,51.148102,-0.190278,28.42939949,-81.30899811,Orlando International Airport,7,0
+United States,United Kingdom,Orlando International Airport,28.42939949,-81.30899811,51.148102,-0.190278,London Gatwick Airport,7,0
+United States,United States,Sacramento International Airport,38.69540024,-121.5910034,33.94250107,-118.4079971,Los Angeles International Airport,7,0
+China,China,Haikou Meilan International Airport,19.93490028,110.4589996,30.22949982,120.4339981,Hangzhou Xiaoshan International Airport,7,0
+China,China,Taiping Airport,45.62340164,126.25,34.5196991,113.8410034,Zhengzhou Xinzheng International Airport,7,0
+China,China,Taoxian Airport,41.63980103,123.4830017,30.22949982,120.4339981,Hangzhou Xiaoshan International Airport,7,0
+New Zealand,Australia,Christchurch International Airport,-43.48939896,172.5319977,-33.94609833,151.177002,Sydney Kingsford Smith International Airport,7,0
+Australia,New Zealand,Sydney Kingsford Smith International Airport,-33.94609833,151.177002,-43.48939896,172.5319977,Christchurch International Airport,7,0
+China,China,Chongqing Jiangbei International Airport,29.71920013,106.6419983,26.68000031,100.2460022,Lijiang Airport,7,0
+China,China,Chongqing Jiangbei International Airport,29.71920013,106.6419983,39.12440109,117.3460007,Tianjin Binhai International Airport,7,0
+China,China,Chengdu Shuangliu International Airport,30.57850075,103.9469986,30.7838,114.208,Wuhan Tianhe International Airport,7,0
+China,China,Lijiang Airport,26.68000031,100.2460022,29.71920013,106.6419983,Chongqing Jiangbei International Airport,7,0
+China,China,Tianjin Binhai International Airport,39.12440109,117.3460007,29.71920013,106.6419983,Chongqing Jiangbei International Airport,7,0
+China,China,Wuhan Tianhe International Airport,30.7838,114.208,30.57850075,103.9469986,Chengdu Shuangliu International Airport,7,0
+China,China,Xi'an Xianyang International Airport,34.447102,108.751999,24.54400063,118.1279984,Xiamen Gaoqi International Airport,7,0
+China,China,Xiamen Gaoqi International Airport,24.54400063,118.1279984,34.447102,108.751999,Xi'an Xianyang International Airport,7,0
+India,India,Chhatrapati Shivaji International Airport,19.08869934,72.86789703,10.152,76.401901,Cochin International Airport,7,0
+India,India,Cochin International Airport,10.152,76.401901,19.08869934,72.86789703,Chhatrapati Shivaji International Airport,7,0
+China,China,Hangzhou Xiaoshan International Airport,30.22949982,120.4339981,19.93490028,110.4589996,Haikou Meilan International Airport,7,0
+China,China,Zhengzhou Xinzheng International Airport,34.5196991,113.8410034,26.53849983,106.8010025,Longdongbao Airport,7,0
+China,China,Longdongbao Airport,26.53849983,106.8010025,34.5196991,113.8410034,Zhengzhou Xinzheng International Airport,7,0
+China,China,Yaoqiang Airport,36.85720062,117.2160034,30.57850075,103.9469986,Chengdu Shuangliu International Airport,7,0
+China,China,Hefei Luogang International Airport,31.78000069,117.2979965,24.54400063,118.1279984,Xiamen Gaoqi International Airport,7,0
+China,China,Xiamen Gaoqi International Airport,24.54400063,118.1279984,31.78000069,117.2979965,Hefei Luogang International Airport,7,0
+China,China,Yinchuan Airport,38.481899,106.009003,40.08010101,116.5849991,Beijing Capital International Airport,7,0
+Mexico,United States,Don Miguel Hidalgo Y Costilla International Airport,20.52179909,-103.310997,33.94250107,-118.4079971,Los Angeles International Airport,7,0
+United States,Mexico,Los Angeles International Airport,33.94250107,-118.4079971,20.52179909,-103.310997,Don Miguel Hidalgo Y Costilla International Airport,7,0
+China,China,Zhengzhou Xinzheng International Airport,34.5196991,113.8410034,45.62340164,126.25,Taiping Airport,7,0
+China,China,Chongqing Jiangbei International Airport,29.71920013,106.6419983,36.5275,102.042999,Xining Caojiabu Airport,7,0
+China,China,Xining Caojiabu Airport,36.5275,102.042999,29.71920013,106.6419983,Chongqing Jiangbei International Airport,7,0
+United States,Mexico,Miami International Airport,25.79319954,-80.29060364,19.4363,-99.072098,Licenciado Benito Juarez International Airport,7,0
+India,Singapore,Chennai International Airport,12.99000549,80.16929626,1.35019,103.994003,Singapore Changi Airport,7,0
+Singapore,India,Singapore Changi Airport,1.35019,103.994003,12.99000549,80.16929626,Chennai International Airport,7,0
+China,China,Hangzhou Xiaoshan International Airport,30.22949982,120.4339981,41.63980103,123.4830017,Taoxian Airport,7,0
+China,China,Hangzhou Xiaoshan International Airport,30.22949982,120.4339981,22.63929939,113.810997,Shenzhen Bao'an International Airport,7,0
+China,China,Changsha Huanghua International Airport,28.18919945,113.2200012,34.447102,108.751999,Xi'an Xianyang International Airport,7,0
+China,China,Taiping Airport,45.62340164,126.25,36.85720062,117.2160034,Yaoqiang Airport,7,0
+China,China,Yaoqiang Airport,36.85720062,117.2160034,45.62340164,126.25,Taiping Airport,7,0
+China,China,Xi'an Xianyang International Airport,34.447102,108.751999,28.18919945,113.2200012,Changsha Huanghua International Airport,7,0
+Egypt,Saudi Arabia,Borg El Arab International Airport,30.91769981,29.69639969,21.6796,39.156502,King Abdulaziz International Airport,7,0
+China,China,Hangzhou Xiaoshan International Airport,30.22949982,120.4339981,34.447102,108.751999,Xi'an Xianyang International Airport,7,0
+China,China,Xi'an Xianyang International Airport,34.447102,108.751999,30.22949982,120.4339981,Hangzhou Xiaoshan International Airport,7,0
+United States,Mexico,Los Angeles International Airport,33.94250107,-118.4079971,19.4363,-99.072098,Licenciado Benito Juarez International Airport,7,0
+Mexico,United States,Licenciado Benito Juarez International Airport,19.4363,-99.072098,33.94250107,-118.4079971,Los Angeles International Airport,7,0
+Netherlands,United Arab Emirates,Amsterdam Airport Schiphol,52.308601,4.76389,24.43300056,54.65110016,Abu Dhabi International Airport,7,0
+United Arab Emirates,Netherlands,Abu Dhabi International Airport,24.43300056,54.65110016,52.308601,4.76389,Amsterdam Airport Schiphol,7,0
+China,China,Guangzhou Baiyun International Airport,23.39240074,113.2990036,30.57850075,103.9469986,Chengdu Shuangliu International Airport,6,0
+China,China,Chongqing Jiangbei International Airport,29.71920013,106.6419983,28.18919945,113.2200012,Changsha Huanghua International Airport,6,0
+China,China,Chongqing Jiangbei International Airport,29.71920013,106.6419983,40.08010101,116.5849991,Beijing Capital International Airport,6,0
+China,China,Changsha Huanghua International Airport,28.18919945,113.2200012,29.71920013,106.6419983,Chongqing Jiangbei International Airport,6,0
+China,China,Chengdu Shuangliu International Airport,30.57850075,103.9469986,23.39240074,113.2990036,Guangzhou Baiyun International Airport,6,0
+China,China,Chengdu Shuangliu International Airport,30.57850075,103.9469986,40.08010101,116.5849991,Beijing Capital International Airport,6,0
+China,China,Beijing Capital International Airport,40.08010101,116.5849991,29.71920013,106.6419983,Chongqing Jiangbei International Airport,6,0
+China,China,Beijing Capital International Airport,40.08010101,116.5849991,30.57850075,103.9469986,Chengdu Shuangliu International Airport,6,0
+Philippines,Philippines,Kalibo International Airport,11.67940044,122.3759995,14.5086,121.019997,Ninoy Aquino International Airport,6,0
+Philippines,Philippines,Ninoy Aquino International Airport,14.5086,121.019997,11.67940044,122.3759995,Kalibo International Airport,6,0
+Canada,Canada,Yellowknife Airport,62.46279907,-114.4400024,53.30970001,-113.5800018,Edmonton International Airport,6,0
+South Korea,South Korea,Gimpo International Airport,37.5583,126.791,33.51129913,126.4929962,Jeju International Airport,6,0
+Aruba,Venezuela,Queen Beatrix International Airport,12.5014,-70.015198,10.601194,-66.991222,Simón Bolívar International Airport,6,0
+Venezuela,Aruba,Simón Bolívar International Airport,10.601194,-66.991222,12.5014,-70.015198,Queen Beatrix International Airport,6,0
+China,China,Kunming Changshui International Airport,25.1019444,102.9291667,26.68000031,100.2460022,Lijiang Airport,6,0
+China,China,Kunming Changshui International Airport,25.1019444,102.9291667,40.08010101,116.5849991,Beijing Capital International Airport,6,0
+China,China,Beijing Capital International Airport,40.08010101,116.5849991,25.1019444,102.9291667,Kunming Changshui International Airport,6,0
+United States,United States,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,35.81100082,-83.9940033,McGhee Tyson Airport,6,0
+United States,United States,McGhee Tyson Airport,35.81100082,-83.9940033,33.6367,-84.428101,Hartsfield Jackson Atlanta International Airport,6,0
+India,India,Kempegowda International Airport,13.1979,77.706299,19.08869934,72.86789703,Chhatrapati Shivaji International Airport,6,0
+India,India,Kempegowda International Airport,13.1979,77.706299,28.5665,77.103104,Indira Gandhi International Airport,6,0
+India,India,Chhatrapati Shivaji International Airport,19.08869934,72.86789703,13.1979,77.706299,Kempegowda International Airport,6,0
+India,India,Chhatrapati Shivaji International Airport,19.08869934,72.86789703,28.5665,77.103104,Indira Gandhi International Airport,6,0
+India,India,Indira Gandhi International Airport,28.5665,77.103104,13.1979,77.706299,Kempegowda International Airport,6,0
