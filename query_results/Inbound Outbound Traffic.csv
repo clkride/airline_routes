@@ -1,0 +1,501 @@
+airport_id,airport_name,airport_country,num_outbound_flights,num_inbound_flights,num_connecting_flights
+3682,Hartsfield Jackson Atlanta International Airport,United States,915,911,0
+3830,Chicago O'Hare International Airport,United States,558,550,0
+3364,Beijing Capital International Airport,China,535,534,0
+507,London Heathrow Airport,United Kingdom,527,524,0
+1382,Charles de Gaulle International Airport,France,524,517,0
+340,Frankfurt am Main Airport,Germany,497,493,0
+3484,Los Angeles International Airport,United States,492,498,0
+3670,Dallas Fort Worth International Airport,United States,469,467,0
+3797,John F Kennedy International Airport,United States,456,455,0
+580,Amsterdam Airport Schiphol,Netherlands,453,450,0
+3406,Shanghai Pudong International Airport,China,411,414,0
+3316,Singapore Changi Airport,Singapore,408,412,0
+1218,Barcelona International Airport,Spain,391,392,0
+3930,Incheon International Airport,South Korea,370,370,0
+3576,Miami International Airport,United States,368,366,0
+346,Munich Airport,Germany,368,360,0
+3751,Denver International Airport,United States,361,374,0
+1701,Atatürk International Airport,Turkey,358,361,0
+2188,Dubai International Airport,United Arab Emirates,356,354,0
+502,London Gatwick Airport,United Kingdom,356,352,0
+3077,Hong Kong International Airport,Hong Kong,355,355,0
+3370,Guangzhou Baiyun International Airport,China,338,336,0
+1555,Leonardo da Vinci–Fiumicino Airport,Italy,331,331,0
+1229,Adolfo Suárez Madrid–Barajas Airport,Spain,330,331,0
+3885,Suvarnabhumi Airport,Thailand,326,330,0
+4029,Domodedovo International Airport,Russia,324,325,0
+3395,Chengdu Shuangliu International Airport,China,324,323,0
+193,Lester B. Pearson International Airport,Canada,319,317,0
+302,Brussels Airport,Belgium,316,315,1
+478,Manchester Airport,United Kingdom,316,311,0
+1613,Vienna International Airport,Austria,308,308,0
+3876,Charlotte Douglas International Airport,United States,301,299,0
+3752,Philadelphia International Airport,United States,289,287,0
+2279,Narita International Airport,Japan,286,289,0
+345,Düsseldorf Airport,Germany,285,285,0
+3379,Xi'an Xianyang International Airport,China,283,280,0
+3382,Kunming Changshui International Airport,China,273,272,0
+3998,Palma De Mallorca Airport,Spain,271,277,0
+3393,Chongqing Jiangbei International Airport,China,270,270,0
+3093,Indira Gandhi International Airport,India,264,263,0
+2276,Taiwan Taoyuan International Airport,Taiwan,264,263,0
+3304,Kuala Lumpur International Airport,Malaysia,257,257,0
+3494,Newark Liberty International Airport,United States,253,252,0
+3386,Hangzhou Xiaoshan International Airport,China,252,254,0
+3462,Phoenix Sky Harbor International Airport,United States,251,257,0
+3469,San Francisco International Airport,United States,249,250,0
+1678,Zürich Airport,Switzerland,247,247,0
+3877,McCarran International Airport,United States,246,252,0
+3550,George Bush Intercontinental Houston Airport,United States,243,242,0
+1824,Licenciado Benito Juarez International Airport,Mexico,243,242,0
+2179,Abu Dhabi International Airport,United Arab Emirates,241,236,0
+3878,Orlando International Airport,United States,237,238,1
+3374,Shenzhen Bao'an International Airport,China,234,233,0
+3383,Xiamen Gaoqi International Airport,China,233,233,0
+609,Copenhagen Kastrup Airport,Denmark,229,228,0
+2997,Chhatrapati Shivaji International Airport,India,227,225,0
+737,Stockholm-Arlanda Airport,Sweden,219,220,0
+3858,Minneapolis-St Paul International/Wold-Chamberlain Airport,United States,218,212,0
+3645,Detroit Metropolitan Wayne County Airport,United States,216,217,0
+1638,Humberto Delgado Airport (Lisbon Portela Airport),Portugal,214,221,0
+3448,General Edward Lawrence Logan International Airport,United States,212,212,1
+351,Berlin-Tegel Airport,Germany,208,210,0
+3361,Sydney Kingsford Smith International Airport,Australia,208,202,0
+599,Dublin Airport,Ireland,207,207,0
+1230,Málaga Airport,Spain,206,204,0
+3391,Shanghai Hongqiao International Airport,China,205,206,0
+1386,Paris-Orly Airport,France,201,203,0
+3577,Seattle Tacoma International Airport,United States,201,202,0
+2985,Sheremetyevo International Airport,Russia,199,198,0
+3941,Eleftherios Venizelos International Airport,Greece,197,206,0
+3520,Ronald Reagan Washington National Airport,United States,196,192,0
+3714,Washington Dulles International Airport,United States,196,190,0
+2072,King Abdulaziz International Airport,Saudi Arabia,194,183,0
+2564,Guarulhos - Governador André Franco Montoro International Airport,Brazil,193,194,0
+2397,Ninoy Aquino International Airport,Philippines,193,193,0
+1524,Malpensa International Airport,Italy,192,194,0
+11051,Hamad International Airport,Qatar,189,188,0
+3371,Changsha Huanghua International Airport,China,189,188,0
+3390,Liuting Airport,China,188,188,0
+3376,Wuhan Tianhe International Airport,China,187,187,0
+3533,Fort Lauderdale Hollywood International Airport,United States,186,188,0
+146,Montreal / Pierre Elliott Trudeau International Airport,Canada,185,186,0
+3275,Soekarno-Hatta International Airport,Indonesia,185,182,0
+2948,Pulkovo Airport,Russia,184,184,0
+644,Oslo Lufthavn,Norway,180,183,0
+1587,Václav Havel Airport Prague,Czech Republic,180,181,0
+3375,Zhengzhou Xinzheng International Airport,China,174,174,0
+548,London Stansted Airport,United Kingdom,173,170,0
+1665,Geneva Cointrin International Airport,Switzerland,166,163,0
+3388,Nanjing Lukou Airport,China,165,165,0
+342,Hamburg Airport,Germany,161,160,0
+813,OR Tambo International Airport,South Africa,159,162,0
+421,Helsinki Vantaa Airport,Finland,159,161,0
+1056,Tenerife South Airport,Spain,159,159,0
+3697,La Guardia Airport,United States,158,158,0
+156,Vancouver International Airport,Canada,158,157,0
+2359,Tokyo Haneda International Airport,Japan,157,158,0
+1212,Alicante International Airport,Spain,157,157,0
+1852,Cancún International Airport,Mexico,157,154,0
+1054,Gran Canaria Airport,Spain,154,154,0
+3399,Ürümqi Diwopu International Airport,China,153,153,0
+2709,El Dorado International Airport,Colombia,152,155,0
+3992,Kansai International Airport,Japan,152,152,0
+3320,Brisbane International Airport,Australia,152,144,0
+1128,Cairo International Airport,Egypt,151,152,0
+3368,Tianjin Binhai International Airport,China,147,147,0
+4317,Sabiha Gökçen International Airport,Turkey,145,145,0
+3849,Baltimore/Washington International Thurgood Marshall Airport,United States,142,144,0
+3404,Zhoushuizi Airport,China,142,143,0
+3536,Salt Lake City International Airport,United States,141,137,0
+3747,Chicago Midway International Airport,United States,139,132,0
+3646,Tampa International Airport,United States,138,138,0
+2082,King Khaled International Airport,Saudi Arabia,137,139,0
+3394,Longdongbao Airport,China,137,137,0
+350,Stuttgart Airport,Germany,137,136,0
+3339,Melbourne International Airport,Australia,137,132,0
+4144,Taoxian Airport,China,136,136,0
+1590,Ben Gurion International Airport,Israel,136,135,0
+1353,Marseille Provence Airport,France,136,129,0
+1335,Lyon Saint-Exupéry Airport,France,135,140,0
+4108,Yaoqiang Airport,China,135,135,0
+1354,Nice-Côte d'Azur Airport,France,135,134,0
+344,Cologne Bonn Airport,Germany,134,131,0
+3385,Fuzhou Changle International Airport,China,133,133,0
+469,Birmingham International Airport,United Kingdom,133,131,0
+4059,Jomo Kenyatta International Airport,Kenya,130,128,0
+3400,Taiping Airport,China,129,130,0
+1688,Antalya International Airport,Turkey,127,126,0
+1074,Mohammed V International Airport,Morocco,125,125,0
+3861,Louis Armstrong New Orleans International Airport,United States,123,125,0
+1551,Venice Marco Polo Airport,Italy,122,123,0
+679,Warsaw Chopin Airport,Poland,120,120,0
+2176,Kuwait International Airport,Kuwait,120,119,0
+3731,San Diego International Airport,United States,119,119,0
+535,Edinburgh Airport,United Kingdom,119,118,0
+3728,Daniel K Inouye International Airport,United States,118,115,0
+1055,Lanzarote Airport,Spain,116,117,0
+1509,Catania-Fontanarossa Airport,Italy,115,118,0
+2789,Jorge Chávez International Airport,Peru,115,115,0
+178,Calgary International Airport,Canada,115,113,0
+3373,Nanning Wuxu Airport,China,114,114,0
+3678,St Louis Lambert International Airport,United States,114,107,0
+3720,Portland International Airport,United States,113,117,0
+1606,Malta International Airport,Malta,113,113,0
+1657,Henri Coandă International Airport,Romania,112,115,0
+2170,Queen Alia International Airport,Jordan,111,112,0
+3369,Taiyuan Wusu Airport,China,110,110,0
+1452,Heraklion International Nikos Kazantzakis Airport,Greece,110,109,0
+3205,Tan Son Nhat International Airport,Vietnam,109,109,0
+4030,Sanya Phoenix International Airport,China,109,109,0
+4120,Haikou Meilan International Airport,China,108,107,0
+492,London Luton Airport,United Kingdom,108,106,0
+3372,Guilin Liangjiang International Airport,China,107,107,0
+3144,Chennai International Airport,India,107,104,0
+1871,Tocumen International Airport,Panama,106,106,0
+1626,Faro Airport,Portugal,106,105,0
+1107,Addis Ababa Bole International Airport,Ethiopia,105,109,0
+2194,Muscat International Airport,Oman,104,104,0
+2890,Luis Munoz Marin International Airport,Puerto Rico,102,102,0
+2939,Boryspil International Airport,Ukraine,102,100,0
+3024,Bandaranaike International Colombo Airport,Sri Lanka,101,102,0
+3953,Riga International Airport,Latvia,101,101,0
+1636,Francisco de Sá Carneiro Airport,Portugal,100,102,0
+3940,Ngurah Rai (Bali) International Airport,Indonesia,100,101,0
+490,Bristol Airport,United Kingdom,100,100,0
+534,Glasgow International Airport,United Kingdom,100,96,0
+1225,Ibiza Airport,Spain,99,103,0
+2975,Koltsovo Airport,Russia,98,101,0
+2531,Presidente Juscelino Kubistschek International Airport,Brazil,98,99,0
+1489,Budapest Liszt Ferenc International Airport,Hungary,98,97,0
+2560,Rio Galeão – Tom Jobim International Airport,Brazil,98,96,0
+2191,Sharjah International Airport,United Arab Emirates,97,98,0
+3131,Kempegowda International Airport,India,97,98,0
+3043,Netaji Subhash Chandra Bose International Airport,India,97,97,0
+1051,Fuerteventura Airport,Spain,97,95,0
+2006,Auckland International Airport,New Zealand,96,117,0
+523,East Midlands Airport,United Kingdom,95,97,0
+1423,EuroAirport Basel-Mulhouse-Freiburg Airport,France,95,94,0
+1197,Larnaca International Airport,Cyprus,93,97,0
+1804,Don Miguel Hidalgo Y Costilla International Airport,Mexico,93,92,0
+1418,Nantes Atlantique Airport,France,92,91,0
+3351,Perth International Airport,Australia,92,90,0
+2851,Simón Bolívar International Airport,Venezuela,90,91,0
+1538,Bologna Guglielmo Marconi Airport,Italy,88,88,0
+210,Houari Boumediene Airport,Algeria,88,88,0
+4078,Tolmachevo Airport,Russia,87,90,0
+287,Tunis Carthage International Airport,Tunisia,87,88,0
+1486,Thessaloniki Macedonia International Airport,Greece,87,87,0
+3199,Noi Bai International Airport,Vietnam,87,87,0
+6345,Baita International Airport,China,87,87,0
+3384,Nanchang Changbei International Airport,China,86,86,0
+2988,Vnukovo International Airport,Russia,86,85,0
+1739,Belgrade Nikola Tesla Airport,Serbia,86,85,0
+2305,Fukuoka Airport,Japan,85,85,0
+2057,Bahrain International Airport,Bahrain,84,86,0
+3942,Chubu Centrair International Airport,Japan,84,85,0
+3378,Lanzhou Zhongchuan Airport,China,84,84,0
+3387,Ningbo Lishe International Airport,China,84,84,0
+304,Brussels South Charleroi Airport,Belgium,84,84,0
+521,Newcastle Airport,United Kingdom,84,81,0
+3626,Raleigh Durham International Airport,United States,83,84,0
+3673,Austin Bergstrom International Airport,United States,83,84,0
+337,Berlin-Schönefeld Airport,Germany,83,82,0
+1472,Diagoras Airport,Greece,82,86,0
+2064,King Fahd International Airport,Saudi Arabia,82,82,0
+3690,Nashville International Airport,United States,82,82,0
+6347,Shijiazhuang Daguocun International Airport,China,82,82,0
+1246,Valencia Airport,Spain,82,81,0
+3458,Kansas City International Airport,United States,82,77,0
+6392,Wenzhou Longwan International Airport,China,81,81,0
+2287,New Chitose Airport,Japan,81,81,0
+1525,Il Caravaggio International Airport,Italy,81,81,0
+3486,Cleveland Hopkins International Airport,United States,81,80,0
+2983,Tashkent International Airport,Uzbekistan,81,79,0
+517,Leeds Bradford Airport,United Kingdom,80,80,0
+6341,Beijing Nanyuan Airport,China,80,80,0
+2372,Gimhae International Airport,South Korea,80,80,0
+2650,Comodoro Arturo Merino Benítez International Airport,Chile,79,79,0
+3121,Macau International Airport,Macau,79,79,0
+1561,Naples International Airport,Italy,79,79,0
+3566,William P Hobby Airport,United States,79,70,1
+1273,Toulouse-Blagnac Airport,France,78,83,0
+3389,Hefei Luogang International Airport,China,77,77,0
+1562,Pisa International Airport,Italy,76,76,0
+352,Hannover Airport,Germany,76,76,0
+1885,Juan Santamaria International Airport,Costa Rica,76,73,0
+3488,Cincinnati Northern Kentucky International Airport,United States,75,75,0
+3988,Ministro Pistarini International Airport,Argentina,75,74,0
+3570,Pittsburgh International Airport,United States,74,74,0
+3076,Hazrat Shahjalal International Airport,Bangladesh,74,74,0
+1075,Menara Airport,Morocco,73,72,0
+1760,Punta Cana International Airport,Dominican Republic,73,70,0
+1825,General Mariano Escobedo International Airport,Mexico,72,73,0
+3179,Phuket International Airport,Thailand,71,67,0
+629,Luxembourg-Findel International Airport,Luxembourg,70,70,0
+3585,Indianapolis International Airport,United States,69,69,0
+636,Bergen Airport Flesland,Norway,69,68,0
+49,Edmonton International Airport,Canada,68,71,0
+3621,San Antonio International Airport,United States,68,68,1
+585,Eindhoven Airport,Netherlands,68,67,0
+1953,Lynden Pindling International Airport,Bahamas,67,68,0
+1084,Léopold Sédar Senghor International Airport,Senegal,67,67,0
+2908,Almaty Airport,Kazakhstan,67,67,0
+3157,Don Mueang International Airport,Thailand,67,67,0
+1264,Bordeaux-Mérignac Airport,France,67,67,0
+2177,Beirut Rafic Hariri International Airport,Lebanon,67,66,0
+1706,Adnan Menderes International Airport,Turkey,66,67,0
+1194,Sofia Airport,Bulgaria,66,66,0
+3928,Juanda International Airport,Indonesia,65,66,0
+4085,Yinchuan Airport,China,65,66,0
+2264,Kaohsiung International Airport,Taiwan,65,64,0
+4033,Lijiang Airport,China,65,64,0
+2442,Jorge Newbery Airpark,Argentina,65,63,0
+4331,Mashhad International Airport,Iran,65,63,0
+1216,Bilbao Airport,Spain,65,63,0
+1253,Sevilla Airport,Spain,65,62,0
+3717,General Mitchell International Airport,United States,65,60,0
+4380,Longjia Airport,China,64,67,0
+2922,Heydar Aliyev International Airport,Azerbaijan,64,64,0
+3759,John Glenn Columbus International Airport,United States,63,65,0
+3793,Southwest Florida International Airport,United States,63,65,0
+1512,Falcone–Borsellino Airport,Italy,63,63,0
+503,London City Airport,United Kingdom,62,66,0
+2131,Mehrabad International Airport,Iran,62,63,0
+2206,Jinnah International Airport,Pakistan,62,63,0
+2384,Naha Airport,Japan,61,62,0
+4330,Imam Khomeini International Airport,Iran,60,62,0
+1200,Dubrovnik Airport,Croatia,60,61,0
+3748,Norman Y. Mineta San Jose International Airport,United States,60,60,0
+1529,Milano Linate Airport,Italy,60,60,0
+1367,Paris Beauvais Tillé Airport,France,60,60,0
+6355,Zhuhai Jinwan Airport,China,60,59,0
+273,Murtala Muhammed International Airport,Nigeria,60,59,0
+3136,Cochin International Airport,India,59,59,0
+2370,Jeju International Airport,South Korea,59,59,0
+3774,Ted Stevens Anchorage International Airport,United States,59,59,0
+2223,Benazir Bhutto International Airport,Pakistan,58,59,0
+491,Liverpool John Lennon Airport,United Kingdom,58,58,0
+3959,Vilnius International Airport,Lithuania,58,58,0
+2621,Deputado Luiz Eduardo Magalhães International Airport,Brazil,58,58,0
+2899,Princess Juliana International Airport,Netherlands Antilles,58,56,0
+3473,Memphis International Airport,United States,58,54,0
+1715,Dalaman International Airport,Turkey,57,59,0
+2578,Viracopos International Airport,Brazil,57,57,0
+669,Kraków John Paul II International Airport,Poland,57,57,0
+3240,Hasanuddin International Airport,Indonesia,56,56,0
+3392,Yantai Laishan Airport,China,56,56,0
+2207,Alama Iqbal International Airport,Pakistan,56,55,0
+3322,Cairns International Airport,Australia,56,54,0
+2537,Tancredo Neves International Airport,Brazil,55,55,0
+3817,Sacramento International Airport,United States,55,53,0
+3453,Metropolitan Oakland International Airport,United States,54,57,0
+2954,Minsk National Airport,Belarus,54,54,0
+248,Kotoka International Airport,Ghana,54,53,0
+666,Stavanger Airport Sola,Norway,54,52,0
+1563,Peretola Airport,Italy,53,53,0
+1892,Monseñor Óscar Arnulfo Romero International Airport,El Salvador,53,52,0
+2979,Dushanbe Airport,Tajikistan,52,54,0
+687,Gothenburg-Landvetter Airport,Sweden,52,54,0
+1682,Esenboğa International Airport,Turkey,52,53,0
+4091,Madeira Airport,Portugal,52,52,0
+2910,Astana International Airport,Kazakhstan,52,52,0
+3269,Kota Kinabalu International Airport,Malaysia,52,52,0
+1520,Olbia Costa Smeralda Airport,Italy,52,52,0
+5,Port Moresby Jacksons International Airport,Papua New Guinea,52,50,0
+3825,Bradley International Airport,United States,51,52,0
+3341,Adelaide International Airport,Australia,51,51,0
+1840,Los Cabos International Airport,Mexico,51,50,0
+668,Gdańsk Lech Wałęsa Airport,Poland,51,50,0
+897,Douala International Airport,Cameroon,51,47,0
+1460,Ioannis Kapodistrias International Airport,Greece,50,53,0
+253,Port Bouet Airport,Cote d'Ivoire,50,52,0
+1501,Bari Karol Wojtyła Airport,Italy,50,50,0
+1553,Ciampino–G. B. Pastine International Airport,Italy,50,50,0
+353,Bremen Airport,Germany,50,50,0
+3239,Yangon International Airport,Burma,49,50,0
+6366,Xining Caojiabu Airport,China,49,50,0
+1222,Girona Airport,Spain,49,49,0
+4167,Orlando Sanford International Airport,United States,49,48,0
+4206,Mactan Cebu International Airport,Philippines,49,48,0
+1206,Split Airport,Croatia,49,48,0
+1157,Tripoli International Airport,Libya,48,47,0
+3931,Chiang Mai International Airport,Thailand,48,47,0
+347,Nuremberg Airport,Germany,48,47,0
+8076,Al Maktoum International Airport,United Arab Emirates,48,44,0
+2618,Congonhas Airport,Brazil,47,47,0
+6390,Sunan Shuofang International Airport,China,47,47,0
+355,Frankfurt-Hahn Airport,Germany,47,47,0
+608,Billund Airport,Denmark,47,47,0
+1836,Licenciado Gustavo Díaz Ordaz International Airport,Mexico,47,45,0
+951,Quatro de Fevereiro Airport,Angola,46,46,0
+2960,Krasnodar Pashkovsky International Airport,Russia,46,45,0
+3712,Jacksonville International Airport,United States,46,45,0
+3999,Darwin International Airport,Australia,46,44,0
+1762,Las Américas International Airport,Dominican Republic,45,48,0
+4374,Yemelyanovo Airport,Russia,45,47,0
+16,Keflavik International Airport,Iceland,45,46,0
+3964,Zvartnots International Airport,Armenia,45,45,0
+2912,Manas International Airport,Kyrgyzstan,45,45,0
+7447,Enfidha - Hammamet International Airport,Tunisia,45,45,0
+1780,Sangster International Airport,Jamaica,45,44,0
+100,Ottawa Macdonald-Cartier International Airport,Canada,45,44,0
+1909,José Martí International Airport,Cuba,45,42,1
+1474,Chania International Airport,Greece,44,46,0
+2895,Queen Beatrix International Airport,Aruba,44,46,0
+3722,Palm Beach International Airport,United States,44,44,0
+3125,Tribhuvan International Airport,Nepal,44,44,0
+6386,Quanzhou Jinjiang International Airport,China,44,44,0
+797,Cape Town International Airport,South Africa,44,42,0
+665,Trondheim Airport Værnes,Norway,44,42,0
+1526,Turin Airport,Italy,44,42,0
+3156,Malé International Airport,Maldives,44,41,0
+73,Halifax / Stanfield International Airport,Canada,43,52,0
+1458,Kos Airport,Greece,43,47,0
+2545,Afonso Pena Airport,Brazil,43,43,0
+1519,Cagliari Elmas Airport,Italy,43,43,0
+1960,Nadi International Airport,Fiji,43,40,0
+2599,Salgado Filho Airport,Brazil,42,44,0
+3867,John Wayne Airport-Orange County Airport,United States,42,44,0
+1198,Paphos International Airport,Cyprus,42,43,0
+1208,Zagreb Airport,Croatia,42,43,0
+3153,Trivandrum International Airport,India,42,42,0
+3308,Penang International Airport,Malaysia,42,42,0
+2334,Osaka International Airport,Japan,42,42,0
+3456,Kahului Airport,United States,42,42,0
+4019,Albuquerque International Sunport,United States,42,41,0
+1847,General Abelardo L. Rodríguez International Airport,Mexico,42,41,0
+3410,Borg El Arab International Airport,Egypt,42,39,0
+3035,Siem Reap International Airport,Cambodia,42,39,0
+4014,Louisville International Standiford Field,United States,41,42,0
+532,Aberdeen Dyce Airport,United Kingdom,41,41,0
+893,Sir Seewoosagur Ramgoolam International Airport,Mauritius,41,41,0
+2937,Irkutsk Airport,Russia,41,41,0
+1175,Khartoum International Airport,Sudan,41,40,0
+160,Winnipeg / James Armstrong Richardson International Airport,Canada,41,40,0
+245,Cadjehoun Airport,Benin,41,39,0
+3863,Will Rogers World Airport,United States,40,41,0
+2275,Taipei Songshan Airport,Taiwan,40,40,0
+1399,Lille-Lesquin Airport,France,40,40,0
+1130,Hurghada International Airport,Egypt,40,39,0
+348,Leipzig/Halle Airport,Germany,40,39,0
+1165,Kigali International Airport,Rwanda,40,38,0
+2074,Prince Mohammad Bin Abdulaziz Airport,Saudi Arabia,39,59,0
+2157,Shiraz Shahid Dastghaib International Airport,Iran,39,39,0
+2688,Mariscal Sucre International Airport,Ecuador,39,39,0
+2378,Gimpo International Airport,South Korea,39,39,0
+1324,Ajaccio-Napoléon Bonaparte Airport,France,39,39,0
+1550,Verona Villafranca Airport,Italy,39,38,0
+3502,Dallas Love Field,United States,39,36,0
+4057,Sharm El Sheikh International Airport,Egypt,38,39,0
+4075,Faa'a International Airport,French Polynesia,38,39,0
+499,Jersey Airport,Jersey,38,38,0
+415,Lennart Meri Tallinn Airport,Estonia,38,38,0
+3608,Richmond International Airport,United States,38,38,0
+2923,Yakutsk Airport,Russia,38,38,0
+1539,Treviso-Sant'Angelo Airport,Italy,38,38,0
+4198,Weeze Airport,Germany,38,38,0
+2927,Khabarovsk-Novy Airport,Russia,38,37,0
+1767,La Aurora Airport,Guatemala,37,40,0
+3980,Sana'a International Airport,Yemen,37,38,0
+4109,Changzhou Benniu Airport,China,37,37,0
+657,"Moss Airport, Rygge",Norway,37,37,0
+664,"Sandefjord Airport, Torp",Norway,37,37,0
+293,Djerba Zarzis International Airport,Tunisia,37,36,0
+3611,Norfolk International Airport,United States,36,38,1
+2610,Guararapes - Gilberto Freyre International Airport,Brazil,36,36,0
+3919,Sultan Aji Muhamad Sulaiman Airport,Indonesia,36,36,0
+1321,Bastia-Poretta Airport,France,36,36,0
+1190,Tirana International Airport Mother Teresa,Albania,36,36,0
+2559,Pinto Martins International Airport,Brazil,36,35,0
+3820,Buffalo Niagara International Airport,United States,36,35,0
+3811,Birmingham-Shuttlesworth International Airport,United States,36,35,0
+465,Belfast International Airport,United Kingdom,36,34,0
+2526,Val de Cans/Júlio Cezar Ribeiro International Airport,Brazil,36,34,0
+1243,Santiago de Compostela Airport,Spain,36,34,0
+2673,José Joaquín de Olmedo International Airport,Ecuador,35,36,0
+4302,Jieyang Chaoshan International Airport,China,35,36,0
+2902,Piarco International Airport,Trinidad and Tobago,35,35,0
+2994,Sardar Vallabhbhai Patel International Airport,India,35,35,0
+2246,Antonio B. Won Pat International Airport,Guam,35,35,0
+2874,V.C. Bird International Airport,Antigua and Barbuda,35,34,0
+1177,Julius Nyerere International Airport,Tanzania,35,32,0
+2009,Christchurch International Airport,New Zealand,34,38,0
+1231,Menorca Airport,Spain,34,36,0
+3973,Tbilisi International Airport,Georgia,34,35,0
+3806,Charleston Air Force Base-International Airport,United States,34,35,0
+3454,Eppley Airfield,United States,34,35,0
+1435,Strasbourg Airport,France,34,35,0
+1612,Salzburg Airport,Austria,34,35,0
+596,Cork Airport,Ireland,34,34,0
+1735,Chişinău International Airport,Moldova,34,34,0
+3515,Myrtle Beach International Airport,United States,34,34,0
+231,Es Senia Airport,Algeria,34,34,0
+907,Kenneth Kaunda International Airport Lusaka,Zambia,34,33,0
+1187,Entebbe International Airport,Uganda,34,33,0
+2883,Cyril E. King Airport,Virgin Islands,34,32,0
+3017,Pune Airport,India,33,35,0
+373,Dortmund Airport,Germany,33,34,0
+495,Southampton Airport,United Kingdom,33,33,0
+246,Ouagadougou Airport,Burkina Faso,33,33,0
+2548,Marechal Rondon Airport,Brazil,33,33,0
+6147,Khudzhand Airport,Tajikistan,33,33,0
+3196,Da Nang International Airport,Vietnam,33,33,0
+680,Copernicus Wrocław Airport,Poland,33,33,0
+591,Rotterdam The Hague Airport,Netherlands,33,33,0
+1569,Ljubljana Jože Pučnik Airport,Slovenia,33,33,0
+1057,Tenerife Norte Airport,Spain,32,34,0
+2551,Eduardo Gomes International Airport,Brazil,32,32,0
+3627,James M Cox Dayton International Airport,United States,32,32,0
+6505,Phoenix-Mesa-Gateway Airport,United States,32,32,0
+2042,Wellington International Airport,New Zealand,32,32,0
+488,Cardiff International Airport,United Kingdom,32,31,0
+4315,Milas Bodrum International Airport,Turkey,31,32,0
+2897,Hato International Airport,Netherlands Antilles,31,32,0
+6173,Lokpriya Gopinath Bordoloi International Airport,India,31,32,0
+1754,Providenciales Airport,Turks and Caicos Islands,31,31,0
+3617,St Petersburg Clearwater International Airport,United States,31,31,0
+3676,McGhee Tyson Airport,United States,31,31,0
+3636,Tucson International Airport,United States,31,31,0
+2347,Sendai Airport,Japan,31,31,0
+1517,Alghero-Fertilia Airport,Italy,31,31,0
+699,Stockholm Skavsta Airport,Sweden,31,31,0
+3137,Calicut International Airport,India,31,30,0
+3864,Albany International Airport,United States,31,29,0
+2913,Osh Airport,Kyrgyzstan,31,29,0
+2612,Santos Dumont Airport,Brazil,30,31,0
+3989,Erbil International Airport,Iraq,30,30,0
+2219,Peshawar International Airport,Pakistan,30,30,0
+3622,Greater Rochester International Airport,United States,30,30,0
+4097,Lhasa Gonggar Airport,China,30,30,0
+260,Nnamdi Azikiwe International Airport,Nigeria,30,30,0
+1779,Norman Manley International Airport,Jamaica,30,28,0
+196,Yellowknife Airport,Canada,30,28,0
+2715,Alfonso Bonilla Aragon International Airport,Colombia,30,27,0
+3034,Phnom Penh International Airport,Cambodia,29,32,0
+603,Shannon Airport,Ireland,29,29,0
+2881,Pointe-à-Pitre Le Raizet,Guadeloupe,29,29,0
+4034,Greenville Spartanburg International Airport,United States,29,29,0
+3007,Dabolim Airport,India,29,29,0
+3660,Bill & Hillary Clinton National Airport/Adams Field,United States,29,29,0
+3898,Adi Sutjipto International Airport,Indonesia,29,29,0
+2268,Taichung Ching Chuang Kang Airport,Taiwan,29,29,0
+6346,Baotou Airport,China,29,29,0
+6430,Yuncheng Guangong Airport,China,29,29,0
+3408,Sultan Abdul Aziz Shah International Airport,Malaysia,29,29,0
+3729,Des Moines International Airport,United States,29,28,0
+3599,Bethel Airport,United States,29,28,0
+111,Quebec Jean Lesage International Airport,Canada,28,29,0
+1064,Al Massira Airport,Morocco,28,28,0
+2964,Platov International Airport,Russia,28,28,0
+2990,Kazan International Airport,Russia,28,28,0
+3685,Gerald R. Ford International Airport,United States,28,28,0
+1957,Philip S. W. Goldson International Airport,Belize,28,28,0
+3321,Gold Coast Airport,Australia,28,28,0
+1997,Bauerfield International Airport,Vanuatu,28,28,0
+1515,Vincenzo Florio Airport Trapani-Birgi,Italy,28,28,0
+671,Katowice International Airport,Poland,28,28,0
+1044,Modibo Keita International Airport,Mali,28,27,0
+2050,Hamid Karzai International Airport,Afghanistan,28,26,0
+3807,Reno Tahoe International Airport,United States,27,29,0
