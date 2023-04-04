@@ -44,7 +44,7 @@ The OpenFlights/Airline Route Mapper Route Database contains
 * Airports Dataset - It includes unique identifiers, names, cities, countries, IATA and ICAO codes, latitude and longitude coordinates, altitude, timezone, daylight savings time, and type of the location. This dataset is useful for a variety of applications, such as travel planning, transportation analysis, and mapping.
 This dataset is useful for a variety of applications, such as travel planning, transportation analysis, and mapping.
 
-
+* Airline Dataset - It includes a unique identifier for each airline, as well as the name, alias, IATA and ICAO codes, callsign, country of origin, and whether or not the airline is currently active or defunct. This dataset is useful for various applications, such as aviation analysis, travel planning, and research on the history of airlines.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
