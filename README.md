@@ -17,6 +17,7 @@ A comprehensive analysis of airlines and their routes that connect more than 100
 - [Project Description](#project-description)
 - [Data Set Description](#data-set-description)
 - [ER Diagram](#er-diagram)
+- [Looker Dashboard](#looker-dashboard)
 - [Business Benefits](#business-benefits)
 - [Author](#author)
 - [License](#license)
@@ -56,6 +57,10 @@ This dataset is useful for a variety of applications, such as travel planning, t
 
 ## ER Diagram
 ![alt text](https://github.com/clkride/airline_routes/blob/main/ERD%20.png?raw=true)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Looker Dashboard
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
