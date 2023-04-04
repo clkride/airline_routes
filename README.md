@@ -48,7 +48,7 @@ This dataset is useful for a variety of applications, such as travel planning, t
 
 * Routes Dataset - This dataset contains information about flight routes operated by airlines worldwide. It includes the airline's IATA or ICAO code, a unique identifier for the airline, the source and destination airports' IATA or ICAO codes, unique identifiers for the source and destination airports, information on whether or not the flight is a codeshare, the number of stops on the flight, and the 3-letter codes for the plane types used on the flight. 
 
-* 
+* Planes Dataset - This dataset contains information about passenger aircraft used in flights worldwide. It includes a curated selection of 173 aircraft, each with a full name, a unique three-letter IATA code, and a unique four-letter ICAO code. These codes are commonly used in flight schedules and reservation systems.
 
 
 
