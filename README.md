@@ -50,7 +50,7 @@ This dataset is useful for a variety of applications, such as travel planning, t
 
 * Planes Dataset - This dataset contains information about passenger aircraft used in flights worldwide. It includes a curated selection of 173 aircraft, each with a full name, a unique three-letter IATA code, and a unique four-letter ICAO code. These codes are commonly used in flight schedules and reservation systems.
 
-
+* Countries Dataset - This dataset contains a list of ISO 3166-1 country codes. These codes can be used to look up the human-readable country names for the codes used in the Airline and Airport tables. Each entry in the dataset includes the full name of the country or territory, a unique two-letter ISO 3166-1 code, and FIPS country codes as used in DAFIF, which are now obsolete and primarily of historical interest.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
