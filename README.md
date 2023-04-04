@@ -46,6 +46,12 @@ This dataset is useful for a variety of applications, such as travel planning, t
 
 * Airline Dataset - It includes a unique identifier for each airline, as well as the name, alias, IATA and ICAO codes, callsign, country of origin, and whether or not the airline is currently active or defunct. This dataset is useful for various applications, such as aviation analysis, travel planning, and research on the history of airlines.
 
+* Routes Dataset - This dataset contains information about flight routes operated by airlines worldwide. It includes the airline's IATA or ICAO code, a unique identifier for the airline, the source and destination airports' IATA or ICAO codes, unique identifiers for the source and destination airports, information on whether or not the flight is a codeshare, the number of stops on the flight, and the 3-letter codes for the plane types used on the flight. 
+
+* 
+
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## ER Diagram
