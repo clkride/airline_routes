@@ -40,6 +40,12 @@ Airports, Airline, Route, Plane, and Country
 
 The OpenFlights/Airline Route Mapper Route Database contains 
 67663 routes between 3321 airports on 548 airlines spanning the globe.
+
+* Airports Dataset - It includes unique identifiers, names, cities, countries, IATA and ICAO codes, latitude and longitude coordinates, altitude, timezone, daylight savings time, and type of the location. This dataset is useful for a variety of applications, such as travel planning, transportation analysis, and mapping.
+This dataset is useful for a variety of applications, such as travel planning, transportation analysis, and mapping.
+
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## ER Diagram
