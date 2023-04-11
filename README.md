@@ -62,6 +62,8 @@ This dataset is useful for a variety of applications, such as travel planning, t
 
 ## Looker Dashboard
 
+The resulting dashboard provides a comprehensive list of airports with their names, countries, and the number of outbound, inbound, and connecting flights. In addition, it also displays the market share of airline traffic operating on these routes. The dashboard can be an essential tool for travel planning, analysis, and identifying key airports and airlines that dominate these routes.
+
 Link: https://lookerstudio.google.com/s/hm9nWilA0Yc
 
 
