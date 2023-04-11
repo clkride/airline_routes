@@ -1,0 +1,501 @@
+source_country,destination_country,source_airport,destination_airport,source_lat,source_lon,destination_lat,destination_lon,airline_name,airline_iata,num_direct_flights,num_connecting_flights,distance_km
+Australia,United States,Sydney Kingsford Smith International Airport,Dallas Fort Worth International Airport,-33.94609833,151.177002,32.896801,-97.038002,Qantas,QF,1,0,13808.17825
+Australia,United States,Sydney Kingsford Smith International Airport,Dallas Fort Worth International Airport,-33.94609833,151.177002,32.896801,-97.038002,American Airlines,AA,1,0,13808.17825
+United States,South Africa,Hartsfield Jackson Atlanta International Airport,OR Tambo International Airport,33.6367,-84.428101,-26.1392,28.246,Delta Air Lines,DL,1,0,13582.58788
+South Africa,United States,OR Tambo International Airport,Hartsfield Jackson Atlanta International Airport,-26.1392,28.246,33.6367,-84.428101,Delta Air Lines,DL,1,0,13582.58788
+United Arab Emirates,United States,Dubai International Airport,Los Angeles International Airport,25.25279999,55.36439896,33.94250107,-118.4079971,JetBlue Airways,B6,1,0,13400.07703
+United States,United Arab Emirates,Los Angeles International Airport,Dubai International Airport,33.94250107,-118.4079971,25.25279999,55.36439896,JetBlue Airways,B6,1,0,13400.07703
+United Arab Emirates,United States,Dubai International Airport,Los Angeles International Airport,25.25279999,55.36439896,33.94250107,-118.4079971,Emirates,EK,1,0,13400.07703
+United States,United Arab Emirates,Los Angeles International Airport,Dubai International Airport,33.94250107,-118.4079971,25.25279999,55.36439896,Emirates,EK,1,0,13400.07703
+Saudi Arabia,United States,King Abdulaziz International Airport,Los Angeles International Airport,21.6796,39.156502,33.94250107,-118.4079971,Saudi Arabian Airlines,SV,1,0,13389.82006
+United States,Saudi Arabia,Los Angeles International Airport,King Abdulaziz International Airport,33.94250107,-118.4079971,21.6796,39.156502,Saudi Arabian Airlines,SV,1,0,13389.82006
+United States,Australia,Dallas Fort Worth International Airport,Brisbane International Airport,32.896801,-97.038002,-27.38419914,153.1170044,Qantas,QF,1,0,13364.85465
+United States,Australia,Dallas Fort Worth International Airport,Brisbane International Airport,32.896801,-97.038002,-27.38419914,153.1170044,American Airlines,AA,1,0,13364.85465
+United Arab Emirates,United States,Dubai International Airport,George Bush Intercontinental Houston Airport,25.25279999,55.36439896,29.9843998,-95.34140015,JetBlue Airways,B6,1,0,13124.81455
+United States,United Arab Emirates,George Bush Intercontinental Houston Airport,Dubai International Airport,29.9843998,-95.34140015,25.25279999,55.36439896,JetBlue Airways,B6,1,0,13124.81455
+United Arab Emirates,United States,Dubai International Airport,George Bush Intercontinental Houston Airport,25.25279999,55.36439896,29.9843998,-95.34140015,Emirates,EK,1,0,13124.81455
+United States,United Arab Emirates,George Bush Intercontinental Houston Airport,Dubai International Airport,29.9843998,-95.34140015,25.25279999,55.36439896,Emirates,EK,1,0,13124.81455
+United Arab Emirates,United States,Dubai International Airport,San Francisco International Airport,25.25279999,55.36439896,37.61899948,-122.375,JetBlue Airways,B6,1,0,13020.07123
+United States,United Arab Emirates,San Francisco International Airport,Dubai International Airport,37.61899948,-122.375,25.25279999,55.36439896,JetBlue Airways,B6,1,0,13020.07123
+United Arab Emirates,United States,Dubai International Airport,San Francisco International Airport,25.25279999,55.36439896,37.61899948,-122.375,Emirates,EK,1,0,13020.07123
+United States,United Arab Emirates,San Francisco International Airport,Dubai International Airport,37.61899948,-122.375,25.25279999,55.36439896,Emirates,EK,1,0,13020.07123
+Hong Kong,United States,Hong Kong International Airport,John F Kennedy International Airport,22.308901,113.915001,40.63980103,-73.77890015,American Airlines,AA,1,0,12970.38106
+United States,Hong Kong,John F Kennedy International Airport,Hong Kong International Airport,40.63980103,-73.77890015,22.308901,113.915001,American Airlines,AA,1,0,12970.38106
+Hong Kong,United States,Hong Kong International Airport,John F Kennedy International Airport,22.308901,113.915001,40.63980103,-73.77890015,Cathay Pacific,CX,1,0,12970.38106
+United States,Hong Kong,John F Kennedy International Airport,Hong Kong International Airport,40.63980103,-73.77890015,22.308901,113.915001,Cathay Pacific,CX,1,0,12970.38106
+United States,Hong Kong,Newark Liberty International Airport,Hong Kong International Airport,40.69250107,-74.16870117,22.308901,113.915001,American Airlines,AA,1,0,12959.91172
+Hong Kong,United States,Hong Kong International Airport,Newark Liberty International Airport,22.308901,113.915001,40.69250107,-74.16870117,American Airlines,AA,1,0,12959.91172
+United States,Hong Kong,Newark Liberty International Airport,Hong Kong International Airport,40.69250107,-74.16870117,22.308901,113.915001,United Airlines,UA,1,0,12959.91172
+Hong Kong,United States,Hong Kong International Airport,Newark Liberty International Airport,22.308901,113.915001,40.69250107,-74.16870117,United Airlines,UA,1,0,12959.91172
+United States,Hong Kong,Newark Liberty International Airport,Hong Kong International Airport,40.69250107,-74.16870117,22.308901,113.915001,Cathay Pacific,CX,1,0,12959.91172
+Hong Kong,United States,Hong Kong International Airport,Newark Liberty International Airport,22.308901,113.915001,40.69250107,-74.16870117,Cathay Pacific,CX,1,0,12959.91172
+Qatar,United States,Hamad International Airport,George Bush Intercontinental Houston Airport,25.273056,51.608056,29.9843998,-95.34140015,Qatar Airways,QR,1,0,12932.53786
+United States,Qatar,George Bush Intercontinental Houston Airport,Hamad International Airport,29.9843998,-95.34140015,25.273056,51.608056,Qatar Airways,QR,1,0,12932.53786
+Qatar,United States,Hamad International Airport,George Bush Intercontinental Houston Airport,25.273056,51.608056,29.9843998,-95.34140015,US Airways,US,1,0,12932.53786
+United States,Qatar,George Bush Intercontinental Houston Airport,Hamad International Airport,29.9843998,-95.34140015,25.273056,51.608056,US Airways,US,1,0,12932.53786
+Qatar,United States,Hamad International Airport,George Bush Intercontinental Houston Airport,25.273056,51.608056,29.9843998,-95.34140015,American Airlines,AA,1,0,12932.53786
+United States,Qatar,George Bush Intercontinental Houston Airport,Hamad International Airport,29.9843998,-95.34140015,25.273056,51.608056,American Airlines,AA,1,0,12932.53786
+United States,United Arab Emirates,Dallas Fort Worth International Airport,Dubai International Airport,32.896801,-97.038002,25.25279999,55.36439896,JetBlue Airways,B6,1,0,12919.38863
+United Arab Emirates,United States,Dubai International Airport,Dallas Fort Worth International Airport,25.25279999,55.36439896,32.896801,-97.038002,JetBlue Airways,B6,1,0,12919.38863
+United States,United Arab Emirates,Dallas Fort Worth International Airport,Dubai International Airport,32.896801,-97.038002,25.25279999,55.36439896,Emirates,EK,1,0,12919.38863
+United Arab Emirates,United States,Dubai International Airport,Dallas Fort Worth International Airport,25.25279999,55.36439896,32.896801,-97.038002,Emirates,EK,1,0,12919.38863
+United States,South Africa,John F Kennedy International Airport,OR Tambo International Airport,40.63980103,-73.77890015,-26.1392,28.246,JetBlue Airways,B6,1,0,12831.32665
+South Africa,United States,OR Tambo International Airport,John F Kennedy International Airport,-26.1392,28.246,40.63980103,-73.77890015,JetBlue Airways,B6,1,0,12831.32665
+United States,South Africa,John F Kennedy International Airport,OR Tambo International Airport,40.63980103,-73.77890015,-26.1392,28.246,South African Airways,SA,1,0,12831.32665
+South Africa,United States,OR Tambo International Airport,John F Kennedy International Airport,-26.1392,28.246,40.63980103,-73.77890015,South African Airways,SA,1,0,12831.32665
+United States,South Africa,John F Kennedy International Airport,OR Tambo International Airport,40.63980103,-73.77890015,-26.1392,28.246,US Airways,US,1,0,12831.32665
+South Africa,United States,OR Tambo International Airport,John F Kennedy International Airport,-26.1392,28.246,40.63980103,-73.77890015,US Airways,US,1,0,12831.32665
+United States,South Africa,John F Kennedy International Airport,OR Tambo International Airport,40.63980103,-73.77890015,-26.1392,28.246,United Airlines,UA,1,0,12831.32665
+South Africa,United States,OR Tambo International Airport,John F Kennedy International Airport,-26.1392,28.246,40.63980103,-73.77890015,United Airlines,UA,1,0,12831.32665
+United States,Australia,Los Angeles International Airport,Melbourne International Airport,33.94250107,-118.4079971,-37.673302,144.843002,Qantas,QF,1,0,12757.89695
+Australia,United States,Melbourne International Airport,Los Angeles International Airport,-37.673302,144.843002,33.94250107,-118.4079971,Qantas,QF,1,0,12757.89695
+United States,Australia,Los Angeles International Airport,Melbourne International Airport,33.94250107,-118.4079971,-37.673302,144.843002,American Airlines,AA,1,0,12757.89695
+Australia,United States,Melbourne International Airport,Los Angeles International Airport,-37.673302,144.843002,33.94250107,-118.4079971,American Airlines,AA,1,0,12757.89695
+United States,Australia,Los Angeles International Airport,Melbourne International Airport,33.94250107,-118.4079971,-37.673302,144.843002,Virgin Australia,VA,1,0,12757.89695
+Australia,United States,Melbourne International Airport,Los Angeles International Airport,-37.673302,144.843002,33.94250107,-118.4079971,Virgin Australia,VA,1,0,12757.89695
+United States,Australia,Los Angeles International Airport,Melbourne International Airport,33.94250107,-118.4079971,-37.673302,144.843002,Delta Air Lines,DL,1,0,12757.89695
+Australia,United States,Melbourne International Airport,Los Angeles International Airport,-37.673302,144.843002,33.94250107,-118.4079971,Delta Air Lines,DL,1,0,12757.89695
+Hong Kong,Canada,Hong Kong International Airport,Lester B. Pearson International Airport,22.308901,113.915001,43.67720032,-79.63059998,Air Canada,AC,1,0,12548.52925
+Canada,Hong Kong,Lester B. Pearson International Airport,Hong Kong International Airport,43.67720032,-79.63059998,22.308901,113.915001,Air Canada,AC,1,0,12548.52925
+Hong Kong,Canada,Hong Kong International Airport,Lester B. Pearson International Airport,22.308901,113.915001,43.67720032,-79.63059998,Cathay Pacific,CX,1,0,12548.52925
+Canada,Hong Kong,Lester B. Pearson International Airport,Hong Kong International Airport,43.67720032,-79.63059998,22.308901,113.915001,Cathay Pacific,CX,1,0,12548.52925
+India,United States,Chhatrapati Shivaji International Airport,Newark Liberty International Airport,19.08869934,72.86789703,40.69250107,-74.16870117,United Airlines,UA,1,0,12545.8292
+United States,India,Newark Liberty International Airport,Chhatrapati Shivaji International Airport,40.69250107,-74.16870117,19.08869934,72.86789703,United Airlines,UA,1,0,12545.8292
+India,United States,Chhatrapati Shivaji International Airport,Newark Liberty International Airport,19.08869934,72.86789703,40.69250107,-74.16870117,Air India Limited,AI,1,0,12545.8292
+United States,India,Newark Liberty International Airport,Chhatrapati Shivaji International Airport,40.69250107,-74.16870117,19.08869934,72.86789703,Air India Limited,AI,1,0,12545.8292
+United States,Taiwan,John F Kennedy International Airport,Taiwan Taoyuan International Airport,40.63980103,-73.77890015,25.0777,121.233002,EVA Air,BR,1,0,12544.61665
+Taiwan,United States,Taiwan Taoyuan International Airport,John F Kennedy International Airport,25.0777,121.233002,40.63980103,-73.77890015,EVA Air,BR,1,0,12544.61665
+Hong Kong,United States,Hong Kong International Airport,Chicago O'Hare International Airport,22.308901,113.915001,41.9786,-87.9048,American Airlines,AA,1,0,12522.53625
+United States,Hong Kong,Chicago O'Hare International Airport,Hong Kong International Airport,41.9786,-87.9048,22.308901,113.915001,American Airlines,AA,1,0,12522.53625
+Hong Kong,United States,Hong Kong International Airport,Chicago O'Hare International Airport,22.308901,113.915001,41.9786,-87.9048,United Airlines,UA,1,0,12522.53625
+United States,Hong Kong,Chicago O'Hare International Airport,Hong Kong International Airport,41.9786,-87.9048,22.308901,113.915001,United Airlines,UA,1,0,12522.53625
+Hong Kong,United States,Hong Kong International Airport,Chicago O'Hare International Airport,22.308901,113.915001,41.9786,-87.9048,Cathay Pacific,CX,1,0,12522.53625
+United States,Hong Kong,Chicago O'Hare International Airport,Hong Kong International Airport,41.9786,-87.9048,22.308901,113.915001,Cathay Pacific,CX,1,0,12522.53625
+Australia,Canada,Sydney Kingsford Smith International Airport,Vancouver International Airport,-33.94609833,151.177002,49.19390106,-123.1839981,Air Canada,AC,1,0,12500.95213
+Canada,Australia,Vancouver International Airport,Sydney Kingsford Smith International Airport,49.19390106,-123.1839981,-33.94609833,151.177002,Air Canada,AC,1,0,12500.95213
+United Arab Emirates,Brazil,Dubai International Airport,Guarulhos - Governador André Franco Montoro International Airport,25.25279999,55.36439896,-23.43555641,-46.47305679,Emirates,EK,1,0,12217.06283
+Brazil,United Arab Emirates,Guarulhos - Governador André Franco Montoro International Airport,Dubai International Airport,-23.43555641,-46.47305679,25.25279999,55.36439896,Emirates,EK,1,0,12217.06283
+United States,United Arab Emirates,Hartsfield Jackson Atlanta International Airport,Dubai International Airport,33.6367,-84.428101,25.25279999,55.36439896,Delta Air Lines,DL,1,0,12209.3836
+United Arab Emirates,United States,Dubai International Airport,Hartsfield Jackson Atlanta International Airport,25.25279999,55.36439896,33.6367,-84.428101,Delta Air Lines,DL,1,0,12209.3836
+United States,Israel,Los Angeles International Airport,Ben Gurion International Airport,33.94250107,-118.4079971,32.01139832,34.88669968,El Al Israel Airlines,LY,1,0,12166.56957
+Israel,United States,Ben Gurion International Airport,Los Angeles International Airport,32.01139832,34.88669968,33.94250107,-118.4079971,El Al Israel Airlines,LY,1,0,12166.56957
+United Arab Emirates,Brazil,Abu Dhabi International Airport,Guarulhos - Governador André Franco Montoro International Airport,24.43300056,54.65110016,-23.43555641,-46.47305679,Etihad Airways,EY,1,0,12120.96349
+Brazil,United Arab Emirates,Guarulhos - Governador André Franco Montoro International Airport,Abu Dhabi International Airport,-23.43555641,-46.47305679,24.43300056,54.65110016,Etihad Airways,EY,1,0,12120.96349
+Taiwan,Canada,Taiwan Taoyuan International Airport,Lester B. Pearson International Airport,25.0777,121.233002,43.67720032,-79.63059998,EVA Air,BR,1,0,12078.77416
+Canada,Taiwan,Lester B. Pearson International Airport,Taiwan Taoyuan International Airport,43.67720032,-79.63059998,25.0777,121.233002,EVA Air,BR,1,0,12078.77416
+United Arab Emirates,Australia,Abu Dhabi International Airport,Sydney Kingsford Smith International Airport,24.43300056,54.65110016,-33.94609833,151.177002,Etihad Airways,EY,1,0,12061.35426
+Australia,United Arab Emirates,Sydney Kingsford Smith International Airport,Abu Dhabi International Airport,-33.94609833,151.177002,24.43300056,54.65110016,Etihad Airways,EY,1,0,12061.35426
+United Arab Emirates,Australia,Abu Dhabi International Airport,Sydney Kingsford Smith International Airport,24.43300056,54.65110016,-33.94609833,151.177002,Alitalia,AZ,1,0,12061.35426
+Australia,United Arab Emirates,Sydney Kingsford Smith International Airport,Abu Dhabi International Airport,-33.94609833,151.177002,24.43300056,54.65110016,Alitalia,AZ,1,0,12061.35426
+United Arab Emirates,Australia,Abu Dhabi International Airport,Sydney Kingsford Smith International Airport,24.43300056,54.65110016,-33.94609833,151.177002,Virgin Australia,VA,1,0,12061.35426
+Australia,United Arab Emirates,Sydney Kingsford Smith International Airport,Abu Dhabi International Airport,-33.94609833,151.177002,24.43300056,54.65110016,Virgin Australia,VA,1,0,12061.35426
+United States,Australia,Los Angeles International Airport,Sydney Kingsford Smith International Airport,33.94250107,-118.4079971,-33.94609833,151.177002,Delta Air Lines,DL,1,0,12061.12784
+Australia,United States,Sydney Kingsford Smith International Airport,Los Angeles International Airport,-33.94609833,151.177002,33.94250107,-118.4079971,Delta Air Lines,DL,1,0,12061.12784
+United States,Australia,Los Angeles International Airport,Sydney Kingsford Smith International Airport,33.94250107,-118.4079971,-33.94609833,151.177002,Qantas,QF,1,0,12061.12784
+Australia,United States,Sydney Kingsford Smith International Airport,Los Angeles International Airport,-33.94609833,151.177002,33.94250107,-118.4079971,Qantas,QF,1,0,12061.12784
+United States,Australia,Los Angeles International Airport,Sydney Kingsford Smith International Airport,33.94250107,-118.4079971,-33.94609833,151.177002,American Airlines,AA,1,0,12061.12784
+Australia,United States,Sydney Kingsford Smith International Airport,Los Angeles International Airport,-33.94609833,151.177002,33.94250107,-118.4079971,American Airlines,AA,1,0,12061.12784
+United States,Australia,Los Angeles International Airport,Sydney Kingsford Smith International Airport,33.94250107,-118.4079971,-33.94609833,151.177002,United Airlines,UA,1,0,12061.12784
+Australia,United States,Sydney Kingsford Smith International Airport,Los Angeles International Airport,-33.94609833,151.177002,33.94250107,-118.4079971,United Airlines,UA,1,0,12061.12784
+United States,Australia,Los Angeles International Airport,Sydney Kingsford Smith International Airport,33.94250107,-118.4079971,-33.94609833,151.177002,Air New Zealand,NZ,1,0,12061.12784
+Australia,United States,Sydney Kingsford Smith International Airport,Los Angeles International Airport,-33.94609833,151.177002,33.94250107,-118.4079971,Air New Zealand,NZ,1,0,12061.12784
+United States,Australia,Los Angeles International Airport,Sydney Kingsford Smith International Airport,33.94250107,-118.4079971,-33.94609833,151.177002,Virgin Australia,VA,1,0,12061.12784
+Australia,United States,Sydney Kingsford Smith International Airport,Los Angeles International Airport,-33.94609833,151.177002,33.94250107,-118.4079971,Virgin Australia,VA,1,0,12061.12784
+United Arab Emirates,Australia,Dubai International Airport,Sydney Kingsford Smith International Airport,25.25279999,55.36439896,-33.94609833,151.177002,Emirates,EK,1,0,12043.87952
+Australia,United Arab Emirates,Sydney Kingsford Smith International Airport,Dubai International Airport,-33.94609833,151.177002,25.25279999,55.36439896,Emirates,EK,1,0,12043.87952
+United Arab Emirates,Australia,Dubai International Airport,Sydney Kingsford Smith International Airport,25.25279999,55.36439896,-33.94609833,151.177002,Qantas,QF,1,0,12043.87952
+Australia,United Arab Emirates,Sydney Kingsford Smith International Airport,Dubai International Airport,-33.94609833,151.177002,25.25279999,55.36439896,Qantas,QF,1,0,12043.87952
+India,United States,Indira Gandhi International Airport,Chicago O'Hare International Airport,28.5665,77.103104,41.9786,-87.9048,Air India Limited,AI,1,0,12021.27588
+United States,India,Chicago O'Hare International Airport,Indira Gandhi International Airport,41.9786,-87.9048,28.5665,77.103104,Air India Limited,AI,1,0,12021.27588
+Australia,United Arab Emirates,Brisbane International Airport,Dubai International Airport,-27.38419914,153.1170044,25.25279999,55.36439896,Emirates,EK,1,0,11979.18928
+United Arab Emirates,Australia,Dubai International Airport,Brisbane International Airport,25.25279999,55.36439896,-27.38419914,153.1170044,Emirates,EK,1,0,11979.18928
+Australia,United Arab Emirates,Brisbane International Airport,Dubai International Airport,-27.38419914,153.1170044,25.25279999,55.36439896,Qantas,QF,1,0,11979.18928
+United Arab Emirates,Australia,Dubai International Airport,Brisbane International Airport,25.25279999,55.36439896,-27.38419914,153.1170044,Qantas,QF,1,0,11979.18928
+Qatar,Australia,Hamad International Airport,Melbourne International Airport,25.273056,51.608056,-37.673302,144.843002,Qatar Airways,QR,1,0,11957.51406
+Australia,Qatar,Melbourne International Airport,Hamad International Airport,-37.673302,144.843002,25.273056,51.608056,Qatar Airways,QR,1,0,11957.51406
+United States,Australia,San Francisco International Airport,Sydney Kingsford Smith International Airport,37.61899948,-122.375,-33.94609833,151.177002,United Airlines,UA,1,0,11949.74277
+Australia,United States,Sydney Kingsford Smith International Airport,San Francisco International Airport,-33.94609833,151.177002,37.61899948,-122.375,United Airlines,UA,1,0,11949.74277
+United States,Australia,San Francisco International Airport,Sydney Kingsford Smith International Airport,37.61899948,-122.375,-33.94609833,151.177002,Air New Zealand,NZ,1,0,11949.74277
+Australia,United States,Sydney Kingsford Smith International Airport,San Francisco International Airport,-33.94609833,151.177002,37.61899948,-122.375,Air New Zealand,NZ,1,0,11949.74277
+United Arab Emirates,United States,Dubai International Airport,Seattle Tacoma International Airport,25.25279999,55.36439896,47.449001,-122.308998,JetBlue Airways,B6,1,0,11927.6513
+United States,United Arab Emirates,Seattle Tacoma International Airport,Dubai International Airport,47.449001,-122.308998,25.25279999,55.36439896,JetBlue Airways,B6,1,0,11927.6513
+United Arab Emirates,United States,Dubai International Airport,Seattle Tacoma International Airport,25.25279999,55.36439896,47.449001,-122.308998,Emirates,EK,1,0,11927.6513
+United States,United Arab Emirates,Seattle Tacoma International Airport,Dubai International Airport,47.449001,-122.308998,25.25279999,55.36439896,Emirates,EK,1,0,11927.6513
+United Arab Emirates,Brazil,Dubai International Airport,Rio Galeão – Tom Jobim International Airport,25.25279999,55.36439896,-22.80999947,-43.25055695,Emirates,EK,1,0,11883.86741
+Brazil,United Arab Emirates,Rio Galeão – Tom Jobim International Airport,Dubai International Airport,-22.80999947,-43.25055695,25.25279999,55.36439896,Emirates,EK,1,0,11883.86741
+United States,China,John F Kennedy International Airport,Shanghai Pudong International Airport,40.63980103,-73.77890015,31.14340019,121.8050003,Delta Air Lines,DL,1,0,11873.66461
+China,United States,Shanghai Pudong International Airport,John F Kennedy International Airport,31.14340019,121.8050003,40.63980103,-73.77890015,Delta Air Lines,DL,1,0,11873.66461
+United States,China,John F Kennedy International Airport,Shanghai Pudong International Airport,40.63980103,-73.77890015,31.14340019,121.8050003,China Eastern Airlines,MU,1,0,11873.66461
+China,United States,Shanghai Pudong International Airport,John F Kennedy International Airport,31.14340019,121.8050003,40.63980103,-73.77890015,China Eastern Airlines,MU,1,0,11873.66461
+United States,China,Newark Liberty International Airport,Shanghai Pudong International Airport,40.69250107,-74.16870117,31.14340019,121.8050003,United Airlines,UA,1,0,11859.9909
+China,United States,Shanghai Pudong International Airport,Newark Liberty International Airport,31.14340019,121.8050003,40.69250107,-74.16870117,United Airlines,UA,1,0,11859.9909
+United States,China,Newark Liberty International Airport,Shanghai Pudong International Airport,40.69250107,-74.16870117,31.14340019,121.8050003,Air China,CA,1,0,11859.9909
+China,United States,Shanghai Pudong International Airport,Newark Liberty International Airport,31.14340019,121.8050003,40.69250107,-74.16870117,Air China,CA,1,0,11859.9909
+Qatar,Brazil,Hamad International Airport,Guarulhos - Governador André Franco Montoro International Airport,25.273056,51.608056,-23.43555641,-46.47305679,Qatar Airways,QR,1,0,11858.32152
+Brazil,Qatar,Guarulhos - Governador André Franco Montoro International Airport,Hamad International Airport,-23.43555641,-46.47305679,25.273056,51.608056,Qatar Airways,QR,1,0,11858.32152
+Angola,China,Quatro de Fevereiro Airport,Beijing Capital International Airport,-8.85837,13.2312,40.08010101,116.5849991,TAAG Angola Airlines,DT,1,0,11774.23567
+China,Angola,Beijing Capital International Airport,Quatro de Fevereiro Airport,40.08010101,116.5849991,-8.85837,13.2312,TAAG Angola Airlines,DT,1,0,11774.23567
+India,United States,Indira Gandhi International Airport,Newark Liberty International Airport,28.5665,77.103104,40.69250107,-74.16870117,United Airlines,UA,1,0,11763.7353
+United States,India,Newark Liberty International Airport,Indira Gandhi International Airport,40.69250107,-74.16870117,28.5665,77.103104,United Airlines,UA,1,0,11763.7353
+India,United States,Indira Gandhi International Airport,John F Kennedy International Airport,28.5665,77.103104,40.63980103,-73.77890015,Air India Limited,AI,1,0,11754.48392
+United States,India,John F Kennedy International Airport,Indira Gandhi International Airport,40.63980103,-73.77890015,28.5665,77.103104,Air India Limited,AI,1,0,11754.48392
+United States,Philippines,Los Angeles International Airport,Ninoy Aquino International Airport,33.94250107,-118.4079971,14.5086,121.019997,Philippine Airlines,PR,1,0,11740.14488
+Philippines,United States,Ninoy Aquino International Airport,Los Angeles International Airport,14.5086,121.019997,33.94250107,-118.4079971,Philippine Airlines,PR,1,0,11740.14488
+China,South Africa,Beijing Capital International Airport,OR Tambo International Airport,40.08010101,116.5849991,-26.1392,28.246,South African Airways,SA,1,0,11707.9715
+China,South Africa,Beijing Capital International Airport,OR Tambo International Airport,40.08010101,116.5849991,-26.1392,28.246,Air China,CA,1,0,11707.9715
+United Arab Emirates,United States,Abu Dhabi International Airport,Chicago O'Hare International Airport,24.43300056,54.65110016,41.9786,-87.9048,American Airlines,AA,1,0,11687.89363
+United States,United Arab Emirates,Chicago O'Hare International Airport,Abu Dhabi International Airport,41.9786,-87.9048,24.43300056,54.65110016,American Airlines,AA,1,0,11687.89363
+United Arab Emirates,United States,Abu Dhabi International Airport,Chicago O'Hare International Airport,24.43300056,54.65110016,41.9786,-87.9048,Etihad Airways,EY,1,0,11687.89363
+United States,United Arab Emirates,Chicago O'Hare International Airport,Abu Dhabi International Airport,41.9786,-87.9048,24.43300056,54.65110016,Etihad Airways,EY,1,0,11687.89363
+France,Chile,Charles de Gaulle International Airport,Comodoro Arturo Merino Benítez International Airport,49.012798,2.55,-33.39300156,-70.78579712,Air France,AF,1,0,11672.84994
+Chile,France,Comodoro Arturo Merino Benítez International Airport,Charles de Gaulle International Airport,-33.39300156,-70.78579712,49.012798,2.55,Air France,AF,1,0,11672.84994
+France,Chile,Charles de Gaulle International Airport,Comodoro Arturo Merino Benítez International Airport,49.012798,2.55,-33.39300156,-70.78579712,Alitalia,AZ,1,0,11672.84994
+Chile,France,Comodoro Arturo Merino Benítez International Airport,Charles de Gaulle International Airport,-33.39300156,-70.78579712,49.012798,2.55,Alitalia,AZ,1,0,11672.84994
+Pakistan,Canada,Jinnah International Airport,Lester B. Pearson International Airport,24.9065,67.160797,43.67720032,-79.63059998,Pakistan International Airlines,PK,1,0,11670.12317
+Canada,Pakistan,Lester B. Pearson International Airport,Jinnah International Airport,43.67720032,-79.63059998,24.9065,67.160797,Pakistan International Airlines,PK,1,0,11670.12317
+Hong Kong,United States,Hong Kong International Airport,Los Angeles International Airport,22.308901,113.915001,33.94250107,-118.4079971,American Airlines,AA,1,0,11664.47265
+United States,Hong Kong,Los Angeles International Airport,Hong Kong International Airport,33.94250107,-118.4079971,22.308901,113.915001,American Airlines,AA,1,0,11664.47265
+Hong Kong,United States,Hong Kong International Airport,Los Angeles International Airport,22.308901,113.915001,33.94250107,-118.4079971,Cathay Pacific,CX,1,0,11664.47265
+United States,Hong Kong,Los Angeles International Airport,Hong Kong International Airport,33.94250107,-118.4079971,22.308901,113.915001,Cathay Pacific,CX,1,0,11664.47265
+United Arab Emirates,Australia,Abu Dhabi International Airport,Melbourne International Airport,24.43300056,54.65110016,-37.673302,144.843002,Etihad Airways,EY,1,0,11651.65057
+Australia,United Arab Emirates,Melbourne International Airport,Abu Dhabi International Airport,-37.673302,144.843002,24.43300056,54.65110016,Etihad Airways,EY,1,0,11651.65057
+United Arab Emirates,Australia,Abu Dhabi International Airport,Melbourne International Airport,24.43300056,54.65110016,-37.673302,144.843002,Alitalia,AZ,1,0,11651.65057
+Australia,United Arab Emirates,Melbourne International Airport,Abu Dhabi International Airport,-37.673302,144.843002,24.43300056,54.65110016,Alitalia,AZ,1,0,11651.65057
+United Arab Emirates,Australia,Abu Dhabi International Airport,Melbourne International Airport,24.43300056,54.65110016,-37.673302,144.843002,Virgin Australia,VA,1,0,11651.65057
+Australia,United Arab Emirates,Melbourne International Airport,Abu Dhabi International Airport,-37.673302,144.843002,24.43300056,54.65110016,Virgin Australia,VA,1,0,11651.65057
+United Arab Emirates,Australia,Dubai International Airport,Melbourne International Airport,25.25279999,55.36439896,-37.673302,144.843002,Emirates,EK,1,0,11645.11064
+Australia,United Arab Emirates,Melbourne International Airport,Dubai International Airport,-37.673302,144.843002,25.25279999,55.36439896,Emirates,EK,1,0,11645.11064
+United Arab Emirates,Australia,Dubai International Airport,Melbourne International Airport,25.25279999,55.36439896,-37.673302,144.843002,Qantas,QF,1,0,11645.11064
+Australia,United Arab Emirates,Melbourne International Airport,Dubai International Airport,-37.673302,144.843002,25.25279999,55.36439896,Qantas,QF,1,0,11645.11064
+China,United States,Guangzhou Baiyun International Airport,Los Angeles International Airport,23.39240074,113.2990036,33.94250107,-118.4079971,China Southern Airlines,CZ,1,0,11618.35645
+United States,China,Los Angeles International Airport,Guangzhou Baiyun International Airport,33.94250107,-118.4079971,23.39240074,113.2990036,China Southern Airlines,CZ,1,0,11618.35645
+China,United States,Guangzhou Baiyun International Airport,Los Angeles International Airport,23.39240074,113.2990036,33.94250107,-118.4079971,Delta Air Lines,DL,1,0,11618.35645
+United States,China,Los Angeles International Airport,Guangzhou Baiyun International Airport,33.94250107,-118.4079971,23.39240074,113.2990036,Delta Air Lines,DL,1,0,11618.35645
+United States,Ethiopia,Washington Dulles International Airport,Addis Ababa Bole International Airport,38.94449997,-77.45580292,8.977890015,38.79930115,Ethiopian Airlines,ET,1,0,11563.13923
+United States,China,George Bush Intercontinental Houston Airport,Beijing Capital International Airport,29.9843998,-95.34140015,40.08010101,116.5849991,Air China,CA,1,0,11556.30483
+China,United States,Beijing Capital International Airport,George Bush Intercontinental Houston Airport,40.08010101,116.5849991,29.9843998,-95.34140015,Air China,CA,1,0,11556.30483
+United States,China,George Bush Intercontinental Houston Airport,Beijing Capital International Airport,29.9843998,-95.34140015,40.08010101,116.5849991,United Airlines,UA,1,0,11556.30483
+China,United States,Beijing Capital International Airport,George Bush Intercontinental Houston Airport,40.08010101,116.5849991,29.9843998,-95.34140015,United Airlines,UA,1,0,11556.30483
+Australia,United States,Brisbane International Airport,Los Angeles International Airport,-27.38419914,153.1170044,33.94250107,-118.4079971,Qantas,QF,1,0,11533.39534
+United States,Australia,Los Angeles International Airport,Brisbane International Airport,33.94250107,-118.4079971,-27.38419914,153.1170044,Qantas,QF,1,0,11533.39534
+Australia,United States,Brisbane International Airport,Los Angeles International Airport,-27.38419914,153.1170044,33.94250107,-118.4079971,American Airlines,AA,1,0,11533.39534
+United States,Australia,Los Angeles International Airport,Brisbane International Airport,33.94250107,-118.4079971,-27.38419914,153.1170044,American Airlines,AA,1,0,11533.39534
+Australia,United States,Brisbane International Airport,Los Angeles International Airport,-27.38419914,153.1170044,33.94250107,-118.4079971,Virgin Australia,VA,1,0,11533.39534
+United States,Australia,Los Angeles International Airport,Brisbane International Airport,33.94250107,-118.4079971,-27.38419914,153.1170044,Virgin Australia,VA,1,0,11533.39534
+Australia,United States,Brisbane International Airport,Los Angeles International Airport,-27.38419914,153.1170044,33.94250107,-118.4079971,Delta Air Lines,DL,1,0,11533.39534
+United States,Australia,Los Angeles International Airport,Brisbane International Airport,33.94250107,-118.4079971,-27.38419914,153.1170044,Delta Air Lines,DL,1,0,11533.39534
+Argentina,Germany,Ministro Pistarini International Airport,Frankfurt am Main Airport,-34.8222,-58.5358,50.033333,8.570556,Lufthansa,LH,1,0,11502.55731
+Germany,Argentina,Frankfurt am Main Airport,Ministro Pistarini International Airport,50.033333,8.570556,-34.8222,-58.5358,Lufthansa,LH,1,0,11502.55731
+Canada,Ethiopia,Lester B. Pearson International Airport,Addis Ababa Bole International Airport,43.67720032,-79.63059998,8.977890015,38.79930115,Ethiopian Airlines,ET,1,0,11501.40313
+United States,South Korea,Hartsfield Jackson Atlanta International Airport,Incheon International Airport,33.6367,-84.428101,37.46910095,126.4509964,Korean Air,KE,1,0,11487.12971
+South Korea,United States,Incheon International Airport,Hartsfield Jackson Atlanta International Airport,37.46910095,126.4509964,33.6367,-84.428101,Korean Air,KE,1,0,11487.12971
+United States,South Korea,Hartsfield Jackson Atlanta International Airport,Incheon International Airport,33.6367,-84.428101,37.46910095,126.4509964,Delta Air Lines,DL,1,0,11487.12971
+South Korea,United States,Incheon International Airport,Hartsfield Jackson Atlanta International Airport,37.46910095,126.4509964,33.6367,-84.428101,Delta Air Lines,DL,1,0,11487.12971
+Netherlands,Argentina,Amsterdam Airport Schiphol,Ministro Pistarini International Airport,52.308601,4.76389,-34.8222,-58.5358,KLM Royal Dutch Airlines,KL,1,0,11462.16417
+Argentina,Netherlands,Ministro Pistarini International Airport,Amsterdam Airport Schiphol,-34.8222,-58.5358,52.308601,4.76389,KLM Royal Dutch Airlines,KL,1,0,11462.16417
+United States,China,Detroit Metropolitan Wayne County Airport,Shanghai Pudong International Airport,42.21239853,-83.35340118,31.14340019,121.8050003,Delta Air Lines,DL,1,0,11461.84745
+China,United States,Shanghai Pudong International Airport,Detroit Metropolitan Wayne County Airport,31.14340019,121.8050003,42.21239853,-83.35340118,Delta Air Lines,DL,1,0,11461.84745
+United States,China,Detroit Metropolitan Wayne County Airport,Shanghai Pudong International Airport,42.21239853,-83.35340118,31.14340019,121.8050003,China Southern Airlines,CZ,1,0,11461.84745
+China,United States,Shanghai Pudong International Airport,Detroit Metropolitan Wayne County Airport,31.14340019,121.8050003,42.21239853,-83.35340118,China Southern Airlines,CZ,1,0,11461.84745
+United States,China,Detroit Metropolitan Wayne County Airport,Shanghai Pudong International Airport,42.21239853,-83.35340118,31.14340019,121.8050003,China Eastern Airlines,MU,1,0,11461.84745
+China,United States,Shanghai Pudong International Airport,Detroit Metropolitan Wayne County Airport,31.14340019,121.8050003,42.21239853,-83.35340118,China Eastern Airlines,MU,1,0,11461.84745
+Qatar,United States,Hamad International Airport,Chicago O'Hare International Airport,25.273056,51.608056,41.9786,-87.9048,American Airlines,AA,1,0,11458.09056
+United States,Qatar,Chicago O'Hare International Airport,Hamad International Airport,41.9786,-87.9048,25.273056,51.608056,American Airlines,AA,1,0,11458.09056
+Qatar,United States,Hamad International Airport,Chicago O'Hare International Airport,25.273056,51.608056,41.9786,-87.9048,Qatar Airways,QR,1,0,11458.09056
+United States,Qatar,Chicago O'Hare International Airport,Hamad International Airport,41.9786,-87.9048,25.273056,51.608056,Qatar Airways,QR,1,0,11458.09056
+China,Canada,Shanghai Pudong International Airport,Lester B. Pearson International Airport,31.14340019,121.8050003,43.67720032,-79.63059998,Air Canada,AC,1,0,11414.35597
+Canada,China,Lester B. Pearson International Airport,Shanghai Pudong International Airport,43.67720032,-79.63059998,31.14340019,121.8050003,Air Canada,AC,1,0,11414.35597
+China,Canada,Shanghai Pudong International Airport,Lester B. Pearson International Airport,31.14340019,121.8050003,43.67720032,-79.63059998,Air China,CA,1,0,11414.35597
+Canada,China,Lester B. Pearson International Airport,Shanghai Pudong International Airport,43.67720032,-79.63059998,31.14340019,121.8050003,Air China,CA,1,0,11414.35597
+United Arab Emirates,United States,Abu Dhabi International Airport,Washington Dulles International Airport,24.43300056,54.65110016,38.94449997,-77.45580292,Etihad Airways,EY,1,0,11386.79098
+United States,United Arab Emirates,Washington Dulles International Airport,Abu Dhabi International Airport,38.94449997,-77.45580292,24.43300056,54.65110016,Etihad Airways,EY,1,0,11386.79098
+United Arab Emirates,United States,Abu Dhabi International Airport,Washington Dulles International Airport,24.43300056,54.65110016,38.94449997,-77.45580292,American Airlines,AA,1,0,11386.79098
+United States,United Arab Emirates,Washington Dulles International Airport,Abu Dhabi International Airport,38.94449997,-77.45580292,24.43300056,54.65110016,American Airlines,AA,1,0,11386.79098
+Canada,New Zealand,Vancouver International Airport,Auckland International Airport,49.19390106,-123.1839981,-37.0080986,174.7920074,Air Canada,AC,1,0,11360.7799
+Canada,New Zealand,Vancouver International Airport,Auckland International Airport,49.19390106,-123.1839981,-37.0080986,174.7920074,Air New Zealand,NZ,1,0,11360.7799
+United Arab Emirates,United States,Dubai International Airport,Washington Dulles International Airport,25.25279999,55.36439896,38.94449997,-77.45580292,United Airlines,UA,1,0,11355.26176
+United States,United Arab Emirates,Washington Dulles International Airport,Dubai International Airport,38.94449997,-77.45580292,25.25279999,55.36439896,United Airlines,UA,1,0,11355.26176
+United Arab Emirates,United States,Dubai International Airport,Washington Dulles International Airport,25.25279999,55.36439896,38.94449997,-77.45580292,JetBlue Airways,B6,1,0,11355.26176
+United States,United Arab Emirates,Washington Dulles International Airport,Dubai International Airport,38.94449997,-77.45580292,25.25279999,55.36439896,JetBlue Airways,B6,1,0,11355.26176
+United Arab Emirates,United States,Dubai International Airport,Washington Dulles International Airport,25.25279999,55.36439896,38.94449997,-77.45580292,Emirates,EK,1,0,11355.26176
+United States,United Arab Emirates,Washington Dulles International Airport,Dubai International Airport,38.94449997,-77.45580292,25.25279999,55.36439896,Emirates,EK,1,0,11355.26176
+United States,Pakistan,John F Kennedy International Airport,Alama Iqbal International Airport,40.63980103,-73.77890015,31.52160072,74.4036026,Pakistan International Airlines,PK,1,0,11349.85537
+United States,South Korea,George Bush Intercontinental Houston Airport,Incheon International Airport,29.9843998,-95.34140015,37.46910095,126.4509964,Korean Air,KE,1,0,11345.84326
+South Korea,United States,Incheon International Airport,George Bush Intercontinental Houston Airport,37.46910095,126.4509964,29.9843998,-95.34140015,Korean Air,KE,1,0,11345.84326
+Chile,Australia,Comodoro Arturo Merino Benítez International Airport,Sydney Kingsford Smith International Airport,-33.39300156,-70.78579712,-33.94609833,151.177002,Qantas,QF,1,0,11340.34398
+Australia,Chile,Sydney Kingsford Smith International Airport,Comodoro Arturo Merino Benítez International Airport,-33.94609833,151.177002,-33.39300156,-70.78579712,Qantas,QF,1,0,11340.34398
+Chile,Australia,Comodoro Arturo Merino Benítez International Airport,Sydney Kingsford Smith International Airport,-33.39300156,-70.78579712,-33.94609833,151.177002,LAN Airlines,LA,1,0,11340.34398
+Australia,Chile,Sydney Kingsford Smith International Airport,Comodoro Arturo Merino Benítez International Airport,-33.94609833,151.177002,-33.39300156,-70.78579712,LAN Airlines,LA,1,0,11340.34398
+United States,China,Chicago O'Hare International Airport,Shanghai Pudong International Airport,41.9786,-87.9048,31.14340019,121.8050003,United Airlines,UA,1,0,11333.97324
+China,United States,Shanghai Pudong International Airport,Chicago O'Hare International Airport,31.14340019,121.8050003,41.9786,-87.9048,United Airlines,UA,1,0,11333.97324
+United States,China,Chicago O'Hare International Airport,Shanghai Pudong International Airport,41.9786,-87.9048,31.14340019,121.8050003,Air China,CA,1,0,11333.97324
+China,United States,Shanghai Pudong International Airport,Chicago O'Hare International Airport,31.14340019,121.8050003,41.9786,-87.9048,Air China,CA,1,0,11333.97324
+United States,China,Chicago O'Hare International Airport,Shanghai Pudong International Airport,41.9786,-87.9048,31.14340019,121.8050003,American Airlines,AA,1,0,11333.97324
+China,United States,Shanghai Pudong International Airport,Chicago O'Hare International Airport,31.14340019,121.8050003,41.9786,-87.9048,American Airlines,AA,1,0,11333.97324
+United States,China,Chicago O'Hare International Airport,Shanghai Pudong International Airport,41.9786,-87.9048,31.14340019,121.8050003,US Airways,US,1,0,11333.97324
+China,United States,Shanghai Pudong International Airport,Chicago O'Hare International Airport,31.14340019,121.8050003,41.9786,-87.9048,US Airways,US,1,0,11333.97324
+United States,China,Chicago O'Hare International Airport,Shanghai Pudong International Airport,41.9786,-87.9048,31.14340019,121.8050003,Hainan Airlines,HU,1,0,11333.97324
+China,United States,Shanghai Pudong International Airport,Chicago O'Hare International Airport,31.14340019,121.8050003,41.9786,-87.9048,Hainan Airlines,HU,1,0,11333.97324
+Turkey,Panama,Sinop Airport,Marcos A. Gelabert International Airport,42.01580048,35.06639862,8.973340034,-79.55560303,Metro Batavia,7P,1,0,11299.18392
+Japan,Mexico,Narita International Airport,Licenciado Benito Juarez International Airport,35.76470184,140.3860016,19.4363,-99.072098,AeroMéxico,AM,1,0,11253.73072
+Pakistan,Canada,Alama Iqbal International Airport,Lester B. Pearson International Airport,31.52160072,74.4036026,43.67720032,-79.63059998,Pakistan International Airlines,PK,1,0,11246.41376
+Canada,Pakistan,Lester B. Pearson International Airport,Alama Iqbal International Airport,43.67720032,-79.63059998,31.52160072,74.4036026,Pakistan International Airlines,PK,1,0,11246.41376
+Philippines,United States,Ninoy Aquino International Airport,San Francisco International Airport,14.5086,121.019997,37.61899948,-122.375,Philippine Airlines,PR,1,0,11228.62571
+United States,Philippines,San Francisco International Airport,Ninoy Aquino International Airport,37.61899948,-122.375,14.5086,121.019997,Philippine Airlines,PR,1,0,11228.62571
+United States,South Korea,Washington Dulles International Airport,Incheon International Airport,38.94449997,-77.45580292,37.46910095,126.4509964,Korean Air,KE,1,0,11173.25003
+South Korea,United States,Incheon International Airport,Washington Dulles International Airport,37.46910095,126.4509964,38.94449997,-77.45580292,Korean Air,KE,1,0,11173.25003
+United States,South Korea,Washington Dulles International Airport,Incheon International Airport,38.94449997,-77.45580292,37.46910095,126.4509964,Delta Air Lines,DL,1,0,11173.25003
+South Korea,United States,Incheon International Airport,Washington Dulles International Airport,37.46910095,126.4509964,38.94449997,-77.45580292,Delta Air Lines,DL,1,0,11173.25003
+Argentina,Italy,Ministro Pistarini International Airport,Leonardo da Vinci–Fiumicino Airport,-34.8222,-58.5358,41.8002778,12.2388889,Aerolineas Argentinas,AR,1,0,11154.76842
+Italy,Argentina,Leonardo da Vinci–Fiumicino Airport,Ministro Pistarini International Airport,41.8002778,12.2388889,-34.8222,-58.5358,Aerolineas Argentinas,AR,1,0,11154.76842
+Argentina,Italy,Ministro Pistarini International Airport,Leonardo da Vinci–Fiumicino Airport,-34.8222,-58.5358,41.8002778,12.2388889,Alitalia,AZ,1,0,11154.76842
+Italy,Argentina,Leonardo da Vinci–Fiumicino Airport,Ministro Pistarini International Airport,41.8002778,12.2388889,-34.8222,-58.5358,Alitalia,AZ,1,0,11154.76842
+United States,Japan,John F Kennedy International Airport,Kansai International Airport,40.63980103,-73.77890015,34.4272995,135.2440033,China Airlines,CI,1,0,11154.71365
+Japan,United States,Kansai International Airport,John F Kennedy International Airport,34.4272995,135.2440033,40.63980103,-73.77890015,China Airlines,CI,1,0,11154.71365
+Argentina,United Kingdom,Ministro Pistarini International Airport,London Heathrow Airport,-34.8222,-58.5358,51.4706,-0.461941,British Airways,BA,1,0,11136.56416
+United Kingdom,Argentina,London Heathrow Airport,Ministro Pistarini International Airport,51.4706,-0.461941,-34.8222,-58.5358,British Airways,BA,1,0,11136.56416
+Hong Kong,United States,Hong Kong International Airport,San Francisco International Airport,22.308901,113.915001,37.61899948,-122.375,Cathay Pacific,CX,1,0,11128.14657
+United States,Hong Kong,San Francisco International Airport,Hong Kong International Airport,37.61899948,-122.375,22.308901,113.915001,Cathay Pacific,CX,1,0,11128.14657
+Hong Kong,United States,Hong Kong International Airport,San Francisco International Airport,22.308901,113.915001,37.61899948,-122.375,United Airlines,UA,1,0,11128.14657
+United States,Hong Kong,San Francisco International Airport,Hong Kong International Airport,37.61899948,-122.375,22.308901,113.915001,United Airlines,UA,1,0,11128.14657
+Hong Kong,United States,Hong Kong International Airport,San Francisco International Airport,22.308901,113.915001,37.61899948,-122.375,American Airlines,AA,1,0,11128.14657
+United States,Hong Kong,San Francisco International Airport,Hong Kong International Airport,37.61899948,-122.375,22.308901,113.915001,American Airlines,AA,1,0,11128.14657
+Hong Kong,United States,Hong Kong International Airport,San Francisco International Airport,22.308901,113.915001,37.61899948,-122.375,Singapore Airlines,SQ,1,0,11128.14657
+United States,Hong Kong,San Francisco International Airport,Hong Kong International Airport,37.61899948,-122.375,22.308901,113.915001,Singapore Airlines,SQ,1,0,11128.14657
+Hong Kong,United States,Hong Kong International Airport,San Francisco International Airport,22.308901,113.915001,37.61899948,-122.375,US Airways,US,1,0,11128.14657
+United States,Hong Kong,San Francisco International Airport,Hong Kong International Airport,37.61899948,-122.375,22.308901,113.915001,US Airways,US,1,0,11128.14657
+Hong Kong,United States,Hong Kong International Airport,San Francisco International Airport,22.308901,113.915001,37.61899948,-122.375,Air India Limited,AI,1,0,11128.14657
+United States,Hong Kong,San Francisco International Airport,Hong Kong International Airport,37.61899948,-122.375,22.308901,113.915001,Air India Limited,AI,1,0,11128.14657
+Qatar,United States,Hamad International Airport,Washington Dulles International Airport,25.273056,51.608056,38.94449997,-77.45580292,American Airlines,AA,1,0,11127.3398
+United States,Qatar,Washington Dulles International Airport,Hamad International Airport,38.94449997,-77.45580292,25.273056,51.608056,American Airlines,AA,1,0,11127.3398
+Qatar,United States,Hamad International Airport,Washington Dulles International Airport,25.273056,51.608056,38.94449997,-77.45580292,Qatar Airways,QR,1,0,11127.3398
+United States,Qatar,Washington Dulles International Airport,Hamad International Airport,38.94449997,-77.45580292,25.273056,51.608056,Qatar Airways,QR,1,0,11127.3398
+United Arab Emirates,Canada,Abu Dhabi International Airport,Lester B. Pearson International Airport,24.43300056,54.65110016,43.67720032,-79.63059998,Air Canada,AC,1,0,11122.33039
+Canada,United Arab Emirates,Lester B. Pearson International Airport,Abu Dhabi International Airport,43.67720032,-79.63059998,24.43300056,54.65110016,Air Canada,AC,1,0,11122.33039
+United Arab Emirates,Canada,Abu Dhabi International Airport,Lester B. Pearson International Airport,24.43300056,54.65110016,43.67720032,-79.63059998,Etihad Airways,EY,1,0,11122.33039
+Canada,United Arab Emirates,Lester B. Pearson International Airport,Abu Dhabi International Airport,43.67720032,-79.63059998,24.43300056,54.65110016,Etihad Airways,EY,1,0,11122.33039
+United States,China,Washington Dulles International Airport,Beijing Capital International Airport,38.94449997,-77.45580292,40.08010101,116.5849991,United Airlines,UA,1,0,11112.76375
+China,United States,Beijing Capital International Airport,Washington Dulles International Airport,40.08010101,116.5849991,38.94449997,-77.45580292,United Airlines,UA,1,0,11112.76375
+United States,China,Washington Dulles International Airport,Beijing Capital International Airport,38.94449997,-77.45580292,40.08010101,116.5849991,Air China,CA,1,0,11112.76375
+China,United States,Beijing Capital International Airport,Washington Dulles International Airport,40.08010101,116.5849991,38.94449997,-77.45580292,Air China,CA,1,0,11112.76375
+France,Argentina,Charles de Gaulle International Airport,Ministro Pistarini International Airport,49.012798,2.55,-34.8222,-58.5358,Air France,AF,1,0,11100.50224
+Argentina,France,Ministro Pistarini International Airport,Charles de Gaulle International Airport,-34.8222,-58.5358,49.012798,2.55,Air France,AF,1,0,11100.50224
+Argentina,France,Ministro Pistarini International Airport,Charles de Gaulle International Airport,-34.8222,-58.5358,49.012798,2.55,KLM Royal Dutch Airlines,KL,1,0,11100.50224
+France,Argentina,Charles de Gaulle International Airport,Ministro Pistarini International Airport,49.012798,2.55,-34.8222,-58.5358,KLM Royal Dutch Airlines,KL,1,0,11100.50224
+South Korea,United States,Incheon International Airport,John F Kennedy International Airport,37.46910095,126.4509964,40.63980103,-73.77890015,Delta Air Lines,DL,1,0,11088.79043
+United States,South Korea,John F Kennedy International Airport,Incheon International Airport,40.63980103,-73.77890015,37.46910095,126.4509964,Delta Air Lines,DL,1,0,11088.79043
+South Korea,United States,Incheon International Airport,John F Kennedy International Airport,37.46910095,126.4509964,40.63980103,-73.77890015,Korean Air,KE,1,0,11088.79043
+United States,South Korea,John F Kennedy International Airport,Incheon International Airport,40.63980103,-73.77890015,37.46910095,126.4509964,Korean Air,KE,1,0,11088.79043
+South Korea,United States,Incheon International Airport,John F Kennedy International Airport,37.46910095,126.4509964,40.63980103,-73.77890015,Asiana Airlines,OZ,1,0,11088.79043
+United States,South Korea,John F Kennedy International Airport,Incheon International Airport,40.63980103,-73.77890015,37.46910095,126.4509964,Asiana Airlines,OZ,1,0,11088.79043
+South Korea,United States,Incheon International Airport,John F Kennedy International Airport,37.46910095,126.4509964,40.63980103,-73.77890015,United Airlines,UA,1,0,11088.79043
+United States,South Korea,John F Kennedy International Airport,Incheon International Airport,40.63980103,-73.77890015,37.46910095,126.4509964,United Airlines,UA,1,0,11088.79043
+United Arab Emirates,Canada,Dubai International Airport,Lester B. Pearson International Airport,25.25279999,55.36439896,43.67720032,-79.63059998,Emirates,EK,1,0,11082.1902
+Canada,United Arab Emirates,Lester B. Pearson International Airport,Dubai International Airport,43.67720032,-79.63059998,25.25279999,55.36439896,Emirates,EK,1,0,11082.1902
+Turkey,United States,Atatürk International Airport,Los Angeles International Airport,40.976898,28.8146,33.94250107,-118.4079971,Turkish Airlines,TK,1,0,11034.23527
+United States,Turkey,Los Angeles International Airport,Atatürk International Airport,33.94250107,-118.4079971,40.976898,28.8146,Turkish Airlines,TK,1,0,11034.23527
+Turkey,United States,Atatürk International Airport,Los Angeles International Airport,40.976898,28.8146,33.94250107,-118.4079971,US Airways,US,1,0,11034.23527
+United States,Turkey,Los Angeles International Airport,Atatürk International Airport,33.94250107,-118.4079971,40.976898,28.8146,US Airways,US,1,0,11034.23527
+United Arab Emirates,United States,Abu Dhabi International Airport,John F Kennedy International Airport,24.43300056,54.65110016,40.63980103,-73.77890015,American Airlines,AA,1,0,11031.39792
+United States,United Arab Emirates,John F Kennedy International Airport,Abu Dhabi International Airport,40.63980103,-73.77890015,24.43300056,54.65110016,American Airlines,AA,1,0,11031.39792
+United Arab Emirates,United States,Abu Dhabi International Airport,John F Kennedy International Airport,24.43300056,54.65110016,40.63980103,-73.77890015,Etihad Airways,EY,1,0,11031.39792
+United States,United Arab Emirates,John F Kennedy International Airport,Abu Dhabi International Airport,40.63980103,-73.77890015,24.43300056,54.65110016,Etihad Airways,EY,1,0,11031.39792
+South Africa,Australia,OR Tambo International Airport,Sydney Kingsford Smith International Airport,-26.1392,28.246,-33.94609833,151.177002,Qantas,QF,1,0,11023.82347
+Australia,South Africa,Sydney Kingsford Smith International Airport,OR Tambo International Airport,-33.94609833,151.177002,-26.1392,28.246,Qantas,QF,1,0,11023.82347
+South Africa,Australia,OR Tambo International Airport,Sydney Kingsford Smith International Airport,-26.1392,28.246,-33.94609833,151.177002,South African Airways,SA,1,0,11023.82347
+Australia,South Africa,Sydney Kingsford Smith International Airport,OR Tambo International Airport,-33.94609833,151.177002,-26.1392,28.246,South African Airways,SA,1,0,11023.82347
+Australia,United Arab Emirates,Adelaide International Airport,Dubai International Airport,-34.945,138.531006,25.25279999,55.36439896,Emirates,EK,1,0,11006.46129
+United Arab Emirates,Australia,Dubai International Airport,Adelaide International Airport,25.25279999,55.36439896,-34.945,138.531006,Emirates,EK,1,0,11006.46129
+Australia,United Arab Emirates,Adelaide International Airport,Dubai International Airport,-34.945,138.531006,25.25279999,55.36439896,Qantas,QF,1,0,11006.46129
+United Arab Emirates,Australia,Dubai International Airport,Adelaide International Airport,25.25279999,55.36439896,-34.945,138.531006,Qantas,QF,1,0,11006.46129
+United States,Japan,Hartsfield Jackson Atlanta International Airport,Narita International Airport,33.6367,-84.428101,35.76470184,140.3860016,Delta Air Lines,DL,1,0,11002.25662
+Japan,United States,Narita International Airport,Hartsfield Jackson Atlanta International Airport,35.76470184,140.3860016,33.6367,-84.428101,Delta Air Lines,DL,1,0,11002.25662
+United Arab Emirates,United States,Dubai International Airport,John F Kennedy International Airport,25.25279999,55.36439896,40.63980103,-73.77890015,JetBlue Airways,B6,1,0,11001.51452
+United States,United Arab Emirates,John F Kennedy International Airport,Dubai International Airport,40.63980103,-73.77890015,25.25279999,55.36439896,JetBlue Airways,B6,1,0,11001.51452
+United Arab Emirates,United States,Dubai International Airport,John F Kennedy International Airport,25.25279999,55.36439896,40.63980103,-73.77890015,Emirates,EK,1,0,11001.51452
+United States,United Arab Emirates,John F Kennedy International Airport,Dubai International Airport,40.63980103,-73.77890015,25.25279999,55.36439896,Emirates,EK,1,0,11001.51452
+United States,South Korea,Dallas Fort Worth International Airport,Incheon International Airport,32.896801,-97.038002,37.46910095,126.4509964,Korean Air,KE,1,0,10986.70211
+South Korea,United States,Incheon International Airport,Dallas Fort Worth International Airport,37.46910095,126.4509964,32.896801,-97.038002,Korean Air,KE,1,0,10986.70211
+United States,South Korea,Dallas Fort Worth International Airport,Incheon International Airport,32.896801,-97.038002,37.46910095,126.4509964,Delta Air Lines,DL,1,0,10986.70211
+South Korea,United States,Incheon International Airport,Dallas Fort Worth International Airport,37.46910095,126.4509964,32.896801,-97.038002,Delta Air Lines,DL,1,0,10986.70211
+United States,South Korea,Dallas Fort Worth International Airport,Incheon International Airport,32.896801,-97.038002,37.46910095,126.4509964,American Airlines,AA,1,0,10986.70211
+South Korea,United States,Incheon International Airport,Dallas Fort Worth International Airport,37.46910095,126.4509964,32.896801,-97.038002,American Airlines,AA,1,0,10986.70211
+United States,South Korea,Dallas Fort Worth International Airport,Incheon International Airport,32.896801,-97.038002,37.46910095,126.4509964,US Airways,US,1,0,10986.70211
+South Korea,United States,Incheon International Airport,Dallas Fort Worth International Airport,37.46910095,126.4509964,32.896801,-97.038002,US Airways,US,1,0,10986.70211
+Pakistan,Canada,Benazir Bhutto International Airport,Lester B. Pearson International Airport,33.616699,73.099197,43.67720032,-79.63059998,Pakistan International Airlines,PK,1,0,10986.20985
+Canada,Pakistan,Lester B. Pearson International Airport,Benazir Bhutto International Airport,43.67720032,-79.63059998,33.616699,73.099197,Pakistan International Airlines,PK,1,0,10986.20985
+United States,China,John F Kennedy International Airport,Beijing Capital International Airport,40.63980103,-73.77890015,40.08010101,116.5849991,Air China,CA,1,0,10978.33995
+China,United States,Beijing Capital International Airport,John F Kennedy International Airport,40.08010101,116.5849991,40.63980103,-73.77890015,Air China,CA,1,0,10978.33995
+United States,China,John F Kennedy International Airport,Beijing Capital International Airport,40.63980103,-73.77890015,40.08010101,116.5849991,United Airlines,UA,1,0,10978.33995
+China,United States,Beijing Capital International Airport,John F Kennedy International Airport,40.08010101,116.5849991,40.63980103,-73.77890015,United Airlines,UA,1,0,10978.33995
+United States,China,John F Kennedy International Airport,Beijing Capital International Airport,40.63980103,-73.77890015,40.08010101,116.5849991,US Airways,US,1,0,10978.33995
+China,United States,Beijing Capital International Airport,John F Kennedy International Airport,40.08010101,116.5849991,40.63980103,-73.77890015,US Airways,US,1,0,10978.33995
+United States,China,Newark Liberty International Airport,Beijing Capital International Airport,40.69250107,-74.16870117,40.08010101,116.5849991,United Airlines,UA,1,0,10967.87612
+China,United States,Beijing Capital International Airport,Newark Liberty International Airport,40.08010101,116.5849991,40.69250107,-74.16870117,United Airlines,UA,1,0,10967.87612
+United States,China,Newark Liberty International Airport,Beijing Capital International Airport,40.69250107,-74.16870117,40.08010101,116.5849991,Air China,CA,1,0,10967.87612
+China,United States,Beijing Capital International Airport,Newark Liberty International Airport,40.08010101,116.5849991,40.69250107,-74.16870117,Air China,CA,1,0,10967.87612
+Cuba,Angola,José Martí International Airport,Quatro de Fevereiro Airport,22.98920059,-82.40910339,-8.85837,13.2312,TAAG Angola Airlines,DT,1,0,10963.8556
+Angola,Cuba,Quatro de Fevereiro Airport,José Martí International Airport,-8.85837,13.2312,22.98920059,-82.40910339,TAAG Angola Airlines,DT,1,0,10963.8556
+United States,Taiwan,Los Angeles International Airport,Taiwan Taoyuan International Airport,33.94250107,-118.4079971,25.0777,121.233002,China Airlines,CI,1,0,10922.42609
+Taiwan,United States,Taiwan Taoyuan International Airport,Los Angeles International Airport,25.0777,121.233002,33.94250107,-118.4079971,China Airlines,CI,1,0,10922.42609
+United States,Taiwan,Los Angeles International Airport,Taiwan Taoyuan International Airport,33.94250107,-118.4079971,25.0777,121.233002,Delta Air Lines,DL,1,0,10922.42609
+Taiwan,United States,Taiwan Taoyuan International Airport,Los Angeles International Airport,25.0777,121.233002,33.94250107,-118.4079971,Delta Air Lines,DL,1,0,10922.42609
+United States,Taiwan,Los Angeles International Airport,Taiwan Taoyuan International Airport,33.94250107,-118.4079971,25.0777,121.233002,EVA Air,BR,1,0,10922.42609
+Taiwan,United States,Taiwan Taoyuan International Airport,Los Angeles International Airport,25.0777,121.233002,33.94250107,-118.4079971,EVA Air,BR,1,0,10922.42609
+United States,Taiwan,Los Angeles International Airport,Taiwan Taoyuan International Airport,33.94250107,-118.4079971,25.0777,121.233002,US Airways,US,1,0,10922.42609
+Taiwan,United States,Taiwan Taoyuan International Airport,Los Angeles International Airport,25.0777,121.233002,33.94250107,-118.4079971,US Airways,US,1,0,10922.42609
+Qatar,United States,Hamad International Airport,Philadelphia International Airport,25.273056,51.608056,39.87189865,-75.2410965,Qatar Airways,QR,1,0,10918.61038
+United States,Qatar,Philadelphia International Airport,Hamad International Airport,39.87189865,-75.2410965,25.273056,51.608056,Qatar Airways,QR,1,0,10918.61038
+Qatar,United States,Hamad International Airport,Philadelphia International Airport,25.273056,51.608056,39.87189865,-75.2410965,American Airlines,AA,1,0,10918.61038
+United States,Qatar,Philadelphia International Airport,Hamad International Airport,39.87189865,-75.2410965,25.273056,51.608056,American Airlines,AA,1,0,10918.61038
+Spain,Singapore,Barcelona International Airport,Singapore Changi Airport,41.2971,2.07846,1.35019,103.994003,Singapore Airlines,SQ,1,0,10899.37506
+Singapore,Spain,Singapore Changi Airport,Barcelona International Airport,1.35019,103.994003,41.2971,2.07846,Singapore Airlines,SQ,1,0,10899.37506
+United Kingdom,Singapore,London Heathrow Airport,Singapore Changi Airport,51.4706,-0.461941,1.35019,103.994003,British Airways,BA,1,0,10883.2892
+Singapore,United Kingdom,Singapore Changi Airport,London Heathrow Airport,1.35019,103.994003,51.4706,-0.461941,British Airways,BA,1,0,10883.2892
+United Kingdom,Singapore,London Heathrow Airport,Singapore Changi Airport,51.4706,-0.461941,1.35019,103.994003,Singapore Airlines,SQ,1,0,10883.2892
+Singapore,United Kingdom,Singapore Changi Airport,London Heathrow Airport,1.35019,103.994003,51.4706,-0.461941,Singapore Airlines,SQ,1,0,10883.2892
+United Kingdom,Singapore,London Heathrow Airport,Singapore Changi Airport,51.4706,-0.461941,1.35019,103.994003,Iberia Airlines,IB,1,0,10883.2892
+Singapore,United Kingdom,Singapore Changi Airport,London Heathrow Airport,1.35019,103.994003,51.4706,-0.461941,Iberia Airlines,IB,1,0,10883.2892
+United Kingdom,Singapore,London Heathrow Airport,Singapore Changi Airport,51.4706,-0.461941,1.35019,103.994003,Virgin Atlantic Airways,VS,1,0,10883.2892
+Singapore,United Kingdom,Singapore Changi Airport,London Heathrow Airport,1.35019,103.994003,51.4706,-0.461941,Virgin Atlantic Airways,VS,1,0,10883.2892
+United States,Japan,Washington Dulles International Airport,Narita International Airport,38.94449997,-77.45580292,35.76470184,140.3860016,All Nippon Airways,NH,1,0,10844.5814
+Japan,United States,Narita International Airport,Washington Dulles International Airport,35.76470184,140.3860016,38.94449997,-77.45580292,All Nippon Airways,NH,1,0,10844.5814
+United States,Japan,Washington Dulles International Airport,Narita International Airport,38.94449997,-77.45580292,35.76470184,140.3860016,United Airlines,UA,1,0,10844.5814
+Japan,United States,Narita International Airport,Washington Dulles International Airport,35.76470184,140.3860016,38.94449997,-77.45580292,United Airlines,UA,1,0,10844.5814
+United States,Saudi Arabia,Washington Dulles International Airport,King Khaled International Airport,38.94449997,-77.45580292,24.95759964,46.69879913,Saudi Arabian Airlines,SV,1,0,10842.34266
+Saudi Arabia,United States,King Khaled International Airport,Washington Dulles International Airport,24.95759964,46.69879913,38.94449997,-77.45580292,Saudi Arabian Airlines,SV,1,0,10842.34266
+United States,Japan,John F Kennedy International Airport,Narita International Airport,40.63980103,-73.77890015,35.76470184,140.3860016,American Airlines,AA,1,0,10830.45907
+Japan,United States,Narita International Airport,John F Kennedy International Airport,35.76470184,140.3860016,40.63980103,-73.77890015,American Airlines,AA,1,0,10830.45907
+United States,Japan,John F Kennedy International Airport,Narita International Airport,40.63980103,-73.77890015,35.76470184,140.3860016,Delta Air Lines,DL,1,0,10830.45907
+Japan,United States,Narita International Airport,John F Kennedy International Airport,35.76470184,140.3860016,40.63980103,-73.77890015,Delta Air Lines,DL,1,0,10830.45907
+United States,Japan,John F Kennedy International Airport,Narita International Airport,40.63980103,-73.77890015,35.76470184,140.3860016,Japan Airlines,JL,1,0,10830.45907
+Japan,United States,Narita International Airport,John F Kennedy International Airport,35.76470184,140.3860016,40.63980103,-73.77890015,Japan Airlines,JL,1,0,10830.45907
+United States,Japan,John F Kennedy International Airport,Narita International Airport,40.63980103,-73.77890015,35.76470184,140.3860016,All Nippon Airways,NH,1,0,10830.45907
+Japan,United States,Narita International Airport,John F Kennedy International Airport,35.76470184,140.3860016,40.63980103,-73.77890015,All Nippon Airways,NH,1,0,10830.45907
+United States,Japan,John F Kennedy International Airport,Narita International Airport,40.63980103,-73.77890015,35.76470184,140.3860016,United Airlines,UA,1,0,10830.45907
+Japan,United States,Narita International Airport,John F Kennedy International Airport,35.76470184,140.3860016,40.63980103,-73.77890015,United Airlines,UA,1,0,10830.45907
+United States,Japan,Newark Liberty International Airport,Narita International Airport,40.69250107,-74.16870117,35.76470184,140.3860016,United Airlines,UA,1,0,10810.08141
+Japan,United States,Narita International Airport,Newark Liberty International Airport,35.76470184,140.3860016,40.69250107,-74.16870117,United Airlines,UA,1,0,10810.08141
+United States,Japan,Newark Liberty International Airport,Narita International Airport,40.69250107,-74.16870117,35.76470184,140.3860016,All Nippon Airways,NH,1,0,10810.08141
+Japan,United States,Narita International Airport,Newark Liberty International Airport,35.76470184,140.3860016,40.69250107,-74.16870117,All Nippon Airways,NH,1,0,10810.08141
+Qatar,United States,Hamad International Airport,John F Kennedy International Airport,25.273056,51.608056,40.63980103,-73.77890015,American Airlines,AA,1,0,10769.45849
+United States,Qatar,John F Kennedy International Airport,Hamad International Airport,40.63980103,-73.77890015,25.273056,51.608056,American Airlines,AA,1,0,10769.45849
+Qatar,United States,Hamad International Airport,John F Kennedy International Airport,25.273056,51.608056,40.63980103,-73.77890015,Qatar Airways,QR,1,0,10769.45849
+United States,Qatar,John F Kennedy International Airport,Hamad International Airport,40.63980103,-73.77890015,25.273056,51.608056,Qatar Airways,QR,1,0,10769.45849
+United Kingdom,Philippines,London Heathrow Airport,Ninoy Aquino International Airport,51.4706,-0.461941,14.5086,121.019997,Philippine Airlines,PR,1,0,10767.16125
+Philippines,United Kingdom,Ninoy Aquino International Airport,London Heathrow Airport,14.5086,121.019997,51.4706,-0.461941,Philippine Airlines,PR,1,0,10767.16125
+United States,Japan,General Edward Lawrence Logan International Airport,Narita International Airport,42.36429977,-71.00520325,35.76470184,140.3860016,American Airlines,AA,1,0,10760.78496
+Japan,United States,Narita International Airport,General Edward Lawrence Logan International Airport,35.76470184,140.3860016,42.36429977,-71.00520325,American Airlines,AA,1,0,10760.78496
+United States,Japan,General Edward Lawrence Logan International Airport,Narita International Airport,42.36429977,-71.00520325,35.76470184,140.3860016,Japan Airlines,JL,1,0,10760.78496
+Japan,United States,Narita International Airport,General Edward Lawrence Logan International Airport,35.76470184,140.3860016,42.36429977,-71.00520325,Japan Airlines,JL,1,0,10760.78496
+France,Singapore,Charles de Gaulle International Airport,Singapore Changi Airport,49.012798,2.55,1.35019,103.994003,Singapore Airlines,SQ,1,0,10724.59887
+Singapore,France,Singapore Changi Airport,Charles de Gaulle International Airport,1.35019,103.994003,49.012798,2.55,Singapore Airlines,SQ,1,0,10724.59887
+France,Singapore,Charles de Gaulle International Airport,Singapore Changi Airport,49.012798,2.55,1.35019,103.994003,Air France,AF,1,0,10724.59887
+Singapore,France,Singapore Changi Airport,Charles de Gaulle International Airport,1.35019,103.994003,49.012798,2.55,Air France,AF,1,0,10724.59887
+Spain,Chile,Adolfo Suárez Madrid–Barajas Airport,Comodoro Arturo Merino Benítez International Airport,40.471926,-3.56264,-33.39300156,-70.78579712,Iberia Airlines,IB,1,0,10718.41123
+Chile,Spain,Comodoro Arturo Merino Benítez International Airport,Adolfo Suárez Madrid–Barajas Airport,-33.39300156,-70.78579712,40.471926,-3.56264,Iberia Airlines,IB,1,0,10718.41123
+Spain,Chile,Adolfo Suárez Madrid–Barajas Airport,Comodoro Arturo Merino Benítez International Airport,40.471926,-3.56264,-33.39300156,-70.78579712,LAN Airlines,LA,1,0,10718.41123
+Chile,Spain,Comodoro Arturo Merino Benítez International Airport,Adolfo Suárez Madrid–Barajas Airport,-33.39300156,-70.78579712,40.471926,-3.56264,LAN Airlines,LA,1,0,10718.41123
+United States,United Arab Emirates,General Edward Lawrence Logan International Airport,Dubai International Airport,42.36429977,-71.00520325,25.25279999,55.36439896,JetBlue Airways,B6,1,0,10702.11771
+United Arab Emirates,United States,Dubai International Airport,General Edward Lawrence Logan International Airport,25.25279999,55.36439896,42.36429977,-71.00520325,JetBlue Airways,B6,1,0,10702.11771
+United States,United Arab Emirates,General Edward Lawrence Logan International Airport,Dubai International Airport,42.36429977,-71.00520325,25.25279999,55.36439896,Emirates,EK,1,0,10702.11771
+United Arab Emirates,United States,Dubai International Airport,General Edward Lawrence Logan International Airport,25.25279999,55.36439896,42.36429977,-71.00520325,Emirates,EK,1,0,10702.11771
+Hong Kong,South Africa,Hong Kong International Airport,OR Tambo International Airport,22.308901,113.915001,-26.1392,28.246,Cathay Pacific,CX,1,0,10674.61855
+South Africa,Hong Kong,OR Tambo International Airport,Hong Kong International Airport,-26.1392,28.246,22.308901,113.915001,Cathay Pacific,CX,1,0,10674.61855
+Hong Kong,South Africa,Hong Kong International Airport,OR Tambo International Airport,22.308901,113.915001,-26.1392,28.246,South African Airways,SA,1,0,10674.61855
+South Africa,Hong Kong,OR Tambo International Airport,Hong Kong International Airport,-26.1392,28.246,22.308901,113.915001,South African Airways,SA,1,0,10674.61855
+United States,Japan,George Bush Intercontinental Houston Airport,Narita International Airport,29.9843998,-95.34140015,35.76470184,140.3860016,United Airlines,UA,1,0,10669.34797
+Japan,United States,Narita International Airport,George Bush Intercontinental Houston Airport,35.76470184,140.3860016,29.9843998,-95.34140015,United Airlines,UA,1,0,10669.34797
+United States,Japan,George Bush Intercontinental Houston Airport,Narita International Airport,29.9843998,-95.34140015,35.76470184,140.3860016,All Nippon Airways,NH,1,0,10669.34797
+Japan,United States,Narita International Airport,George Bush Intercontinental Houston Airport,35.76470184,140.3860016,29.9843998,-95.34140015,All Nippon Airways,NH,1,0,10669.34797
+United States,South Korea,Detroit Metropolitan Wayne County Airport,Incheon International Airport,42.21239853,-83.35340118,37.46910095,126.4509964,Delta Air Lines,DL,1,0,10654.44267
+South Korea,United States,Incheon International Airport,Detroit Metropolitan Wayne County Airport,37.46910095,126.4509964,42.21239853,-83.35340118,Delta Air Lines,DL,1,0,10654.44267
+United States,China,Detroit Metropolitan Wayne County Airport,Beijing Capital International Airport,42.21239853,-83.35340118,40.08010101,116.5849991,Delta Air Lines,DL,1,0,10646.65188
+China,United States,Beijing Capital International Airport,Detroit Metropolitan Wayne County Airport,40.08010101,116.5849991,42.21239853,-83.35340118,Delta Air Lines,DL,1,0,10646.65188
+United States,China,Detroit Metropolitan Wayne County Airport,Beijing Capital International Airport,42.21239853,-83.35340118,40.08010101,116.5849991,China Southern Airlines,CZ,1,0,10646.65188
+China,United States,Beijing Capital International Airport,Detroit Metropolitan Wayne County Airport,40.08010101,116.5849991,42.21239853,-83.35340118,China Southern Airlines,CZ,1,0,10646.65188
+United States,China,Detroit Metropolitan Wayne County Airport,Beijing Capital International Airport,42.21239853,-83.35340118,40.08010101,116.5849991,China Eastern Airlines,MU,1,0,10646.65188
+China,United States,Beijing Capital International Airport,Detroit Metropolitan Wayne County Airport,40.08010101,116.5849991,42.21239853,-83.35340118,China Eastern Airlines,MU,1,0,10646.65188
+China,Mexico,Shanghai Pudong International Airport,General Abelardo L. Rodríguez International Airport,31.14340019,121.8050003,32.54109955,-116.9700012,AeroMéxico,AM,1,0,10619.05002
+Mexico,China,General Abelardo L. Rodríguez International Airport,Shanghai Pudong International Airport,32.54109955,-116.9700012,31.14340019,121.8050003,AeroMéxico,AM,1,0,10619.05002
+South Korea,Canada,Incheon International Airport,Lester B. Pearson International Airport,37.46910095,126.4509964,43.67720032,-79.63059998,Korean Air,KE,1,0,10616.63659
+Canada,South Korea,Lester B. Pearson International Airport,Incheon International Airport,43.67720032,-79.63059998,37.46910095,126.4509964,Korean Air,KE,1,0,10616.63659
+Malaysia,United Kingdom,Kuala Lumpur International Airport,London Heathrow Airport,2.745579958,101.7099991,51.4706,-0.461941,American Airlines,AA,1,0,10605.48677
+United Kingdom,Malaysia,London Heathrow Airport,Kuala Lumpur International Airport,51.4706,-0.461941,2.745579958,101.7099991,American Airlines,AA,1,0,10605.48677
+Malaysia,United Kingdom,Kuala Lumpur International Airport,London Heathrow Airport,2.745579958,101.7099991,51.4706,-0.461941,Malaysia Airlines,MH,1,0,10605.48677
+United Kingdom,Malaysia,London Heathrow Airport,Kuala Lumpur International Airport,51.4706,-0.461941,2.745579958,101.7099991,Malaysia Airlines,MH,1,0,10605.48677
+United States,Saudi Arabia,Washington Dulles International Airport,King Abdulaziz International Airport,38.94449997,-77.45580292,21.6796,39.156502,Saudi Arabian Airlines,SV,1,0,10591.62263
+Saudi Arabia,United States,King Abdulaziz International Airport,Washington Dulles International Airport,21.6796,39.156502,38.94449997,-77.45580292,Saudi Arabian Airlines,SV,1,0,10591.62263
+United States,China,Chicago O'Hare International Airport,Beijing Capital International Airport,41.9786,-87.9048,40.08010101,116.5849991,Hainan Airlines,HU,1,0,10562.43248
+China,United States,Beijing Capital International Airport,Chicago O'Hare International Airport,40.08010101,116.5849991,41.9786,-87.9048,Hainan Airlines,HU,1,0,10562.43248
+United States,China,Chicago O'Hare International Airport,Beijing Capital International Airport,41.9786,-87.9048,40.08010101,116.5849991,American Airlines,AA,1,0,10562.43248
+China,United States,Beijing Capital International Airport,Chicago O'Hare International Airport,40.08010101,116.5849991,41.9786,-87.9048,American Airlines,AA,1,0,10562.43248
+United States,China,Chicago O'Hare International Airport,Beijing Capital International Airport,41.9786,-87.9048,40.08010101,116.5849991,United Airlines,UA,1,0,10562.43248
+China,United States,Beijing Capital International Airport,Chicago O'Hare International Airport,40.08010101,116.5849991,41.9786,-87.9048,United Airlines,UA,1,0,10562.43248
+United States,China,Chicago O'Hare International Airport,Beijing Capital International Airport,41.9786,-87.9048,40.08010101,116.5849991,US Airways,US,1,0,10562.43248
+China,United States,Beijing Capital International Airport,Chicago O'Hare International Airport,40.08010101,116.5849991,41.9786,-87.9048,US Airways,US,1,0,10562.43248
+United States,China,Chicago O'Hare International Airport,Beijing Capital International Airport,41.9786,-87.9048,40.08010101,116.5849991,Air China,CA,1,0,10562.43248
+China,United States,Beijing Capital International Airport,Chicago O'Hare International Airport,40.08010101,116.5849991,41.9786,-87.9048,Air China,CA,1,0,10562.43248
+China,Canada,Beijing Capital International Airport,Lester B. Pearson International Airport,40.08010101,116.5849991,43.67720032,-79.63059998,Hainan Airlines,HU,1,0,10560.76503
+Canada,China,Lester B. Pearson International Airport,Beijing Capital International Airport,43.67720032,-79.63059998,40.08010101,116.5849991,Hainan Airlines,HU,1,0,10560.76503
+China,Canada,Beijing Capital International Airport,Lester B. Pearson International Airport,40.08010101,116.5849991,43.67720032,-79.63059998,Air Canada,AC,1,0,10560.76503
+Canada,China,Lester B. Pearson International Airport,Beijing Capital International Airport,43.67720032,-79.63059998,40.08010101,116.5849991,Air Canada,AC,1,0,10560.76503
+China,Canada,Beijing Capital International Airport,Lester B. Pearson International Airport,40.08010101,116.5849991,43.67720032,-79.63059998,Air China,CA,1,0,10560.76503
+Canada,China,Lester B. Pearson International Airport,Beijing Capital International Airport,43.67720032,-79.63059998,40.08010101,116.5849991,Air China,CA,1,0,10560.76503
+United States,Kuwait,Washington Dulles International Airport,Kuwait International Airport,38.94449997,-77.45580292,29.22660065,47.96889877,United Airlines,UA,1,0,10559.41686
+Kuwait,United States,Kuwait International Airport,Washington Dulles International Airport,29.22660065,47.96889877,38.94449997,-77.45580292,United Airlines,UA,1,0,10559.41686
+Philippines,Canada,Ninoy Aquino International Airport,Vancouver International Airport,14.5086,121.019997,49.19390106,-123.1839981,Philippine Airlines,PR,1,0,10554.11306
+Canada,Philippines,Vancouver International Airport,Ninoy Aquino International Airport,49.19390106,-123.1839981,14.5086,121.019997,Philippine Airlines,PR,1,0,10554.11306
+Brazil,Turkey,Guarulhos - Governador André Franco Montoro International Airport,Atatürk International Airport,-23.43555641,-46.47305679,40.976898,28.8146,Turkish Airlines,TK,1,0,10548.99017
+Turkey,Brazil,Atatürk International Airport,Guarulhos - Governador André Franco Montoro International Airport,40.976898,28.8146,-23.43555641,-46.47305679,Turkish Airlines,TK,1,0,10548.99017
+United States,Japan,Detroit Metropolitan Wayne County Airport,Chubu Centrair International Airport,42.21239853,-83.35340118,34.85839844,136.8049927,Delta Air Lines,DL,1,0,10520.81224
+Japan,United States,Chubu Centrair International Airport,Detroit Metropolitan Wayne County Airport,34.85839844,136.8049927,42.21239853,-83.35340118,Delta Air Lines,DL,1,0,10520.81224
+Netherlands,Peru,Amsterdam Airport Schiphol,Jorge Chávez International Airport,52.308601,4.76389,-12.0219,-77.114305,Alitalia,AZ,1,0,10519.91277
+Peru,Netherlands,Jorge Chávez International Airport,Amsterdam Airport Schiphol,-12.0219,-77.114305,52.308601,4.76389,Alitalia,AZ,1,0,10519.91277
+Netherlands,Peru,Amsterdam Airport Schiphol,Jorge Chávez International Airport,52.308601,4.76389,-12.0219,-77.114305,KLM Royal Dutch Airlines,KL,1,0,10519.91277
+Peru,Netherlands,Jorge Chávez International Airport,Amsterdam Airport Schiphol,-12.0219,-77.114305,52.308601,4.76389,KLM Royal Dutch Airlines,KL,1,0,10519.91277
+South Korea,United States,Incheon International Airport,Chicago O'Hare International Airport,37.46910095,126.4509964,41.9786,-87.9048,Korean Air,KE,1,0,10519.07051
+United States,South Korea,Chicago O'Hare International Airport,Incheon International Airport,41.9786,-87.9048,37.46910095,126.4509964,Korean Air,KE,1,0,10519.07051
+South Korea,United States,Incheon International Airport,Chicago O'Hare International Airport,37.46910095,126.4509964,41.9786,-87.9048,Asiana Airlines,OZ,1,0,10519.07051
+United States,South Korea,Chicago O'Hare International Airport,Incheon International Airport,41.9786,-87.9048,37.46910095,126.4509964,Asiana Airlines,OZ,1,0,10519.07051
+South Korea,United States,Incheon International Airport,Chicago O'Hare International Airport,37.46910095,126.4509964,41.9786,-87.9048,Delta Air Lines,DL,1,0,10519.07051
+United States,South Korea,Chicago O'Hare International Airport,Incheon International Airport,41.9786,-87.9048,37.46910095,126.4509964,Delta Air Lines,DL,1,0,10519.07051
+Netherlands,Singapore,Amsterdam Airport Schiphol,Singapore Changi Airport,52.308601,4.76389,1.35019,103.994003,Singapore Airlines,SQ,1,0,10513.91347
+Singapore,Netherlands,Singapore Changi Airport,Amsterdam Airport Schiphol,1.35019,103.994003,52.308601,4.76389,Singapore Airlines,SQ,1,0,10513.91347
+Singapore,Netherlands,Singapore Changi Airport,Amsterdam Airport Schiphol,1.35019,103.994003,52.308601,4.76389,US Airways,US,1,0,10513.91347
+Netherlands,Singapore,Amsterdam Airport Schiphol,Singapore Changi Airport,52.308601,4.76389,1.35019,103.994003,KLM Royal Dutch Airlines,KL,1,0,10513.91347
+Singapore,Netherlands,Singapore Changi Airport,Amsterdam Airport Schiphol,1.35019,103.994003,52.308601,4.76389,KLM Royal Dutch Airlines,KL,1,0,10513.91347
+New Zealand,United States,Auckland International Airport,San Francisco International Airport,-37.0080986,174.7920074,37.61899948,-122.375,Air New Zealand,NZ,1,0,10508.95644
+United States,New Zealand,San Francisco International Airport,Auckland International Airport,37.61899948,-122.375,-37.0080986,174.7920074,Air New Zealand,NZ,1,0,10508.95644
+New Zealand,United States,Auckland International Airport,San Francisco International Airport,-37.0080986,174.7920074,37.61899948,-122.375,United Airlines,UA,1,0,10508.95644
+United States,New Zealand,San Francisco International Airport,Auckland International Airport,37.61899948,-122.375,-37.0080986,174.7920074,United Airlines,UA,1,0,10508.95644
+United States,New Zealand,San Francisco International Airport,Auckland International Airport,37.61899948,-122.375,-37.0080986,174.7920074,US Airways,US,1,0,10508.95644
+New Zealand,United States,Auckland International Airport,Los Angeles International Airport,-37.0080986,174.7920074,33.94250107,-118.4079971,Air New Zealand,NZ,1,0,10486.55671
+United States,New Zealand,Los Angeles International Airport,Auckland International Airport,33.94250107,-118.4079971,-37.0080986,174.7920074,Air New Zealand,NZ,1,0,10486.55671
+New Zealand,United States,Auckland International Airport,Los Angeles International Airport,-37.0080986,174.7920074,33.94250107,-118.4079971,United Airlines,UA,1,0,10486.55671
+United States,New Zealand,Los Angeles International Airport,Auckland International Airport,33.94250107,-118.4079971,-37.0080986,174.7920074,United Airlines,UA,1,0,10486.55671
+United States,New Zealand,Los Angeles International Airport,Auckland International Airport,33.94250107,-118.4079971,-37.0080986,174.7920074,US Airways,US,1,0,10486.55671
+Spain,Argentina,Barcelona International Airport,Ministro Pistarini International Airport,41.2971,2.07846,-34.8222,-58.5358,Aerolineas Argentinas,AR,1,0,10480.85664
+Argentina,Spain,Ministro Pistarini International Airport,Barcelona International Airport,-34.8222,-58.5358,41.2971,2.07846,Aerolineas Argentinas,AR,1,0,10480.85664
+United States,Saudi Arabia,John F Kennedy International Airport,King Khaled International Airport,40.63980103,-73.77890015,24.95759964,46.69879913,Saudi Arabian Airlines,SV,1,0,10480.19998
+Saudi Arabia,United States,King Khaled International Airport,John F Kennedy International Airport,24.95759964,46.69879913,40.63980103,-73.77890015,Saudi Arabian Airlines,SV,1,0,10480.19998
+United States,Nigeria,George Bush Intercontinental Houston Airport,Murtala Muhammed International Airport,29.9843998,-95.34140015,6.577370167,3.321160078,United Airlines,UA,1,0,10468.90592
+Nigeria,United States,Murtala Muhammed International Airport,George Bush Intercontinental Houston Airport,6.577370167,3.321160078,29.9843998,-95.34140015,United Airlines,UA,1,0,10468.90592
+Saudi Arabia,Canada,King Abdulaziz International Airport,Lester B. Pearson International Airport,21.6796,39.156502,43.67720032,-79.63059998,Saudi Arabian Airlines,SV,1,0,10444.48503
+Canada,Saudi Arabia,Lester B. Pearson International Airport,King Abdulaziz International Airport,43.67720032,-79.63059998,21.6796,39.156502,Saudi Arabian Airlines,SV,1,0,10444.48503
+France,Malaysia,Charles de Gaulle International Airport,Kuala Lumpur International Airport,49.012798,2.55,2.745579958,101.7099991,American Airlines,AA,1,0,10441.9631
+Malaysia,France,Kuala Lumpur International Airport,Charles de Gaulle International Airport,2.745579958,101.7099991,49.012798,2.55,American Airlines,AA,1,0,10441.9631
+France,Malaysia,Charles de Gaulle International Airport,Kuala Lumpur International Airport,49.012798,2.55,2.745579958,101.7099991,Air France,AF,1,0,10441.9631
+Malaysia,France,Kuala Lumpur International Airport,Charles de Gaulle International Airport,2.745579958,101.7099991,49.012798,2.55,Air France,AF,1,0,10441.9631
+France,Malaysia,Charles de Gaulle International Airport,Kuala Lumpur International Airport,49.012798,2.55,2.745579958,101.7099991,Malaysia Airlines,MH,1,0,10441.9631
+Malaysia,France,Kuala Lumpur International Airport,Charles de Gaulle International Airport,2.745579958,101.7099991,49.012798,2.55,Malaysia Airlines,MH,1,0,10441.9631
+India,Australia,Indira Gandhi International Airport,Sydney Kingsford Smith International Airport,28.5665,77.103104,-33.94609833,151.177002,Air India Limited,AI,1,0,10435.37192
+Australia,India,Sydney Kingsford Smith International Airport,Indira Gandhi International Airport,-33.94609833,151.177002,28.5665,77.103104,Air India Limited,AI,1,0,10435.37192
+United States,China,Los Angeles International Airport,Shanghai Pudong International Airport,33.94250107,-118.4079971,31.14340019,121.8050003,China Eastern Airlines,MU,1,0,10415.27359
+China,United States,Shanghai Pudong International Airport,Los Angeles International Airport,31.14340019,121.8050003,33.94250107,-118.4079971,China Eastern Airlines,MU,1,0,10415.27359
+United States,China,Los Angeles International Airport,Shanghai Pudong International Airport,33.94250107,-118.4079971,31.14340019,121.8050003,United Airlines,UA,1,0,10415.27359
+China,United States,Shanghai Pudong International Airport,Los Angeles International Airport,31.14340019,121.8050003,33.94250107,-118.4079971,United Airlines,UA,1,0,10415.27359
+United States,China,Los Angeles International Airport,Shanghai Pudong International Airport,33.94250107,-118.4079971,31.14340019,121.8050003,Air China,CA,1,0,10415.27359
+China,United States,Shanghai Pudong International Airport,Los Angeles International Airport,31.14340019,121.8050003,33.94250107,-118.4079971,Air China,CA,1,0,10415.27359
+United States,China,Los Angeles International Airport,Shanghai Pudong International Airport,33.94250107,-118.4079971,31.14340019,121.8050003,Delta Air Lines,DL,1,0,10415.27359
+China,United States,Shanghai Pudong International Airport,Los Angeles International Airport,31.14340019,121.8050003,33.94250107,-118.4079971,Delta Air Lines,DL,1,0,10415.27359
