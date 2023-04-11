@@ -62,6 +62,9 @@ This dataset is useful for a variety of applications, such as travel planning, t
 
 ## Looker Dashboard
 
+Link: https://lookerstudio.google.com/s/hm9nWilA0Yc
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Business Benefits
